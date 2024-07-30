@@ -1,0 +1,1322 @@
+{
+    "nodes": [
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Yggdrasonia",
+            "ProductServices": "Wild caviar, and other species of sturgeon from other sources, and other fish roe specialties such as salmon roe, trout, and other delicacies including king crab, foie gras, smoked salmon and sturgeon, saffron, truffles, others",
+            "PointOfContact": "Dawn Clark",
+            "HeadOfOrg": "Wanda Gilbert",
+            "founding_date": "1954-06-04T00:00:00",
+            "revenue": 18723.96,
+            "TradeDescription": "Ayala, Scott and Mcdonald is a leading provider of premium seafood and gastronomic delights, offering a wide range of exquisite products sourced from around the world. Their wild caviar and other sturgeon offerings are renowned for their exceptional quality and rich flavor, while their other fish roe specialties and gourmet delicacies are sure to delight even the most discerning palates.",
+            "id": "Ayala, Scott and Mcdonald",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Offers tunics, tops, sweaters, T-shirts, skirts and dresses, pants and shorts, jackets, outerwear, shoes, handbags, shoes, accessories, jewelry, and furnishings, as well as apparel for kids",
+            "PointOfContact": "Nicholas Zimmerman",
+            "HeadOfOrg": "Zacharie Mary",
+            "founding_date": "1966-06-08T00:00:00",
+            "revenue": 1274666.67,
+            "TradeDescription": "Berger-Hayes is a leading fashion brand that offers a diverse range of high-quality clothing and accessories for both men and women. With a focus on style, comfort, and durability, their products include tunics, tops, sweaters, T-shirts, skirts and dresses, pants and shorts, jackets, outerwear, shoes, handbags, accessories, jewelry, and furnishings, as well as apparel for kids.",
+            "id": "Berger-Hayes",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Bethany Harrington",
+            "HeadOfOrg": "Alfio Guinizzelli",
+            "founding_date": "2026-07-30T00:00:00",
+            "revenue": 9716.67,
+            "TradeDescription": "Unknown",
+            "id": "Burke Group",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Shoes",
+            "PointOfContact": "Jessica Cochran",
+            "HeadOfOrg": "Ignazio Stein",
+            "founding_date": "2005-10-05T00:00:00",
+            "revenue": 30270.93,
+            "TradeDescription": "Cochran Ltd. is a reputable manufacturer and distributor of high-quality shoes for men, women, and children. Their product line includes a wide range of styles, from casual sneakers to dress shoes, all designed to provide comfort and durability for everyday wear.",
+            "id": "Cochran Ltd",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Nalakond",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Christina Adams",
+            "HeadOfOrg": "Ugolino Cugia",
+            "founding_date": "1985-11-13T00:00:00",
+            "revenue": 5933.38,
+            "TradeDescription": "Unknown",
+            "id": "Crosby Ltd",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Naraliket",
+            "ProductServices": "Boilers and industrial equipment",
+            "PointOfContact": "Susan Cobb",
+            "HeadOfOrg": "Adelmo Nitti",
+            "founding_date": "2029-05-22T00:00:00",
+            "revenue": 5466.67,
+            "TradeDescription": "Davis-Rose specializes in the design, manufacturing, and distribution of high-quality boilers and industrial equipment for various industries. With a focus on innovation and reliability, their products are known for their efficiency and durability, meeting the demands of customers worldwide.",
+            "id": "Davis-Rose",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Arvaros",
+            "ProductServices": "Temperature controllers, fluid meters and counting devices, force gauges, anemometers, cable height meters, controller / monitors, distance meters, field strength meters, frequency counter, humidity meter, infrared thermometers, metal detector, voltage detectors, barometers, car testers, calibrators and continuity tester",
+            "PointOfContact": "Charles Mack",
+            "HeadOfOrg": "Jessica King",
+            "founding_date": "2030-01-31T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Duncan-Williams is a leading manufacturer and supplier of high-quality measurement and control instruments for a wide range of industries. Their products, including temperature controllers, fluid meters, and counting devices, are known for their accuracy, reliability, and durability.",
+            "id": "Duncan-Williams",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Isla Solmar",
+            "ProductServices": "Fish and seafood products (tuna, salmon, herring, shellfish, and groundfish products; and flounder fillets, cornmeal pollock strips, burger, tuna steak, frozen halibut steaks, as well as canned sockeye salmon and frozen sockeye, and crabs)",
+            "PointOfContact": "Thomas Carson",
+            "HeadOfOrg": "Silvano Acevedo Ord\u00f3\u00f1ez",
+            "founding_date": "2003-10-10T00:00:00",
+            "revenue": 36166.76,
+            "TradeDescription": "Fox, Chapman and Stone is a leading provider of high-quality fish and seafood products, offering a wide range of fresh and frozen options to meet the demands of discerning customers. Their product line includes tuna, salmon, herring, shellfish, and groundfish products, as well as flounder fillets, cornmeal pollock strips, burgers, tuna steak, frozen halibut steaks, and canned sockeye salmon, among others.",
+            "id": "Fox, Chapman and Stone",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Anderia del Mar",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Tracie Barnes",
+            "HeadOfOrg": "\u00c9lisabeth-Nathalie Bailly",
+            "founding_date": "2007-07-22T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Jensen, Cruz and Harvey is a leading manufacturer of high-quality gelatin and hypromellose capsules, used in a variety of industries for encapsulation and dosing applications. Their products are known for their consistent quality and reliable performance, and are used by a wide range of customers around the world.",
+            "id": "Jensen, Morris and Downs",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Naraliket",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Christopher Davies",
+            "HeadOfOrg": "Camilla Boiardo",
+            "founding_date": "2016-07-02T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Jones, Camacho and Garcia",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Arvaros",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Amanda Holmes",
+            "HeadOfOrg": "Amadeo Montessori",
+            "founding_date": "1966-02-24T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Kramer, Harper and Velazquez",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Allison Brooks",
+            "HeadOfOrg": "Aurore Fontaine",
+            "founding_date": "2006-09-02T00:00:00",
+            "revenue": 9626.67,
+            "TradeDescription": "Unknown",
+            "id": "Lee-Contreras",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.LogisticsCompany",
+            "country": "Mawalara",
+            "ProductServices": "Wholesale distribution of electronic parts and electronic communications equipment",
+            "PointOfContact": "Collin Massey",
+            "HeadOfOrg": "\u00darsula Jos Lemus Garza",
+            "founding_date": "1960-06-05T00:00:00",
+            "revenue": 35745.18,
+            "TradeDescription": "Patel-Miller is a wholesale distributor of electronic parts and communications equipment, offering a wide range of products to meet the needs of various industries. The company sources high-quality products from reputable suppliers and provides timely delivery and competitive pricing to its customers.",
+            "id": "Patel-Miller",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Naraliket",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Tracey Schneider",
+            "HeadOfOrg": "\u00c9dith Bazin",
+            "founding_date": "1950-05-22T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Perez Group",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Mark Davis",
+            "HeadOfOrg": "Gaspare Paltrinieri",
+            "founding_date": "2027-10-14T00:00:00",
+            "revenue": 11919.54,
+            "TradeDescription": "Unknown",
+            "id": "Perez, Lopez and White",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Merigrad",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Jessica Perez",
+            "HeadOfOrg": "Donald Davis",
+            "founding_date": "1982-01-25T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Ray, Burgess and Navarro",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Patrick Reid",
+            "HeadOfOrg": "Todd Martinez",
+            "founding_date": "1989-11-17T00:00:00",
+            "revenue": 4796.67,
+            "TradeDescription": "Unknown",
+            "id": "Sanchez-Rodgers",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Molds, casting machines, automated systems, and ancillary equipment for aluminum producers",
+            "PointOfContact": "Devin Mcdonald",
+            "HeadOfOrg": "Jaime Almonte",
+            "founding_date": "2003-12-13T00:00:00",
+            "revenue": 77866.67,
+            "TradeDescription": "Schultz-Gonzalez is a leading manufacturer of high-quality molds, casting machines, and automated systems for the aluminum production industry. Their cutting-edge equipment and expertly designed solutions help customers streamline their production processes and improve product quality.",
+            "id": "Schultz-Gonzalez",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Naraliket",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Anna Coleman",
+            "HeadOfOrg": "Dott. Susanna Costanzi",
+            "founding_date": "2011-11-28T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Scott-Sanchez",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Uzifrica",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Andrew Mercado II",
+            "HeadOfOrg": "Valentina Tozzi-Vittadello",
+            "founding_date": "1996-04-22T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Velez, Yoder and Gill",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Molly Foster",
+            "HeadOfOrg": "Timoth\u00e9e Hamel",
+            "founding_date": "1947-01-14T00:00:00",
+            "revenue": 5636.67,
+            "TradeDescription": "Unknown",
+            "id": "White, Edwards and Wilson",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.FishingCompany",
+            "country": "Brindivaria",
+            "ProductServices": "Fish and other related seafood",
+            "PointOfContact": "Dr. Cynthia Johnson",
+            "HeadOfOrg": "Ms. Kathy Caldwell",
+            "founding_date": "2010-04-02T00:00:00",
+            "revenue": 95358.44,
+            "TradeDescription": "Wright LLC is a leading provider of fresh and frozen seafood, including fish and other related products. The company sources its products from reputable suppliers around the world and offers a wide range of options to meet the diverse needs of its customers.",
+            "id": "Wright LLC",
+            "dob": null
+        },
+        {
+            "dob": "1976-11-08T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "Adriana Allison"
+        },
+        {
+            "dob": "1998-06-20T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "Claire Smith"
+        },
+        {
+            "dob": "1970-02-18T00:00:00",
+            "country": "Mawalara",
+            "type": "Entity.Person",
+            "id": "Heidi Coleman"
+        },
+        {
+            "dob": "1970-03-09T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Rebecca Madden"
+        },
+        {
+            "dob": "1972-10-16T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "April Jarvis"
+        },
+        {
+            "dob": "1986-05-21T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Kyle Anderson"
+        },
+        {
+            "dob": "1973-10-22T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Angelica Williams"
+        },
+        {
+            "dob": "1990-09-04T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Daniel Shaffer"
+        },
+        {
+            "dob": "1976-11-08T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Dr. Richard Goodwin"
+        },
+        {
+            "dob": "1977-01-27T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "James Knox"
+        },
+        {
+            "dob": "1987-11-22T00:00:00",
+            "country": "Faraluna",
+            "type": "Entity.Person",
+            "id": "John Lloyd"
+        },
+        {
+            "dob": "1973-04-16T00:00:00",
+            "country": "Faraluna",
+            "type": "Entity.Person",
+            "id": "Rhonda Moore"
+        },
+        {
+            "dob": "1988-08-09T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "Jennifer Schwartz"
+        },
+        {
+            "dob": "1989-12-19T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "Willie Robbins"
+        },
+        {
+            "dob": "1974-03-16T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "John Gibson"
+        },
+        {
+            "dob": "2010-08-28T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "Michael Barber"
+        },
+        {
+            "dob": "1982-06-25T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "David Nash"
+        },
+        {
+            "dob": "1980-03-31T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "Sara Reed"
+        },
+        {
+            "dob": "1992-04-21T00:00:00",
+            "country": "Chrysazul",
+            "type": "Entity.Person",
+            "id": "James Johnson"
+        },
+        {
+            "dob": "1983-01-25T00:00:00",
+            "country": "Mawalara",
+            "type": "Entity.Person",
+            "id": "James Costa"
+        },
+        {
+            "dob": "1985-05-20T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Angela Perez"
+        },
+        {
+            "dob": "2000-11-19T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Brittany Hudson"
+        },
+        {
+            "dob": "1972-02-13T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Trevor Jordan"
+        },
+        {
+            "dob": "1977-03-10T00:00:00",
+            "country": "Mawalara",
+            "type": "Entity.Person",
+            "id": "Alex Gilmore"
+        },
+        {
+            "dob": "1976-04-09T00:00:00",
+            "country": "Khamposa",
+            "type": "Entity.Person",
+            "id": "Mark Davis"
+        },
+        {
+            "dob": "1987-07-21T00:00:00",
+            "country": "Mawalara",
+            "type": "Entity.Person",
+            "id": "Rachel Gomez"
+        },
+        {
+            "dob": "2004-12-30T00:00:00",
+            "country": "Mawalara",
+            "type": "Entity.Person",
+            "id": "Jodi Brooks"
+        },
+        {
+            "dob": "1981-11-18T00:00:00",
+            "country": "Mawalara",
+            "type": "Entity.Person",
+            "id": "Nicholas Valenzuela"
+        },
+        {
+            "dob": "1990-09-02T00:00:00",
+            "country": "Imazam",
+            "type": "Entity.Person",
+            "id": "Matthew Knight MD"
+        },
+        {
+            "dob": "1987-12-08T00:00:00",
+            "country": "Valtalmo",
+            "type": "Entity.Person",
+            "id": "Oscar Moore"
+        },
+        {
+            "dob": "1976-08-28T00:00:00",
+            "country": "Nalakond",
+            "type": "Entity.Person",
+            "id": "Jennifer Davies"
+        },
+        {
+            "dob": "1999-08-24T00:00:00",
+            "country": "Nalakond",
+            "type": "Entity.Person",
+            "id": "Traci York"
+        },
+        {
+            "dob": "1976-09-10T00:00:00",
+            "country": "Nalakond",
+            "type": "Entity.Person",
+            "id": "Raven Kelly"
+        },
+        {
+            "dob": "2009-03-03T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Joseph Escobar"
+        },
+        {
+            "dob": "1973-06-09T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Brandon Moreno"
+        },
+        {
+            "dob": "1977-01-08T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Bryan Murray"
+        },
+        {
+            "dob": "1987-08-15T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Katelyn Roth"
+        },
+        {
+            "dob": "1973-01-03T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Mrs. Cynthia Jenkins"
+        },
+        {
+            "dob": "2004-12-28T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Michael Nguyen"
+        },
+        {
+            "dob": "1992-09-07T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Robert Howell"
+        },
+        {
+            "dob": "1974-11-10T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Joanne Lee"
+        },
+        {
+            "dob": "2001-08-17T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Nicole Morrow"
+        },
+        {
+            "dob": "1985-04-09T00:00:00",
+            "country": "Sol y Oceana",
+            "type": "Entity.Person.CEO",
+            "id": "Wanda Gilbert"
+        },
+        {
+            "dob": "1984-10-01T00:00:00",
+            "country": "Jiraputra",
+            "type": "Entity.Person",
+            "id": "Beth Graves"
+        },
+        {
+            "dob": "1980-01-06T00:00:00",
+            "country": "Coralada",
+            "type": "Entity.Person",
+            "id": "Bethany Harrington"
+        },
+        {
+            "dob": "1985-07-21T00:00:00",
+            "country": "Puerto del Mar",
+            "type": "Entity.Person",
+            "id": "Jessica Cochran"
+        },
+        {
+            "dob": "1986-01-11T00:00:00",
+            "country": "Galduzim",
+            "type": "Entity.Person.CEO",
+            "id": "Adelmo Nitti"
+        },
+        {
+            "dob": "1972-12-16T00:00:00",
+            "country": "Gavanovia",
+            "type": "Entity.Person",
+            "id": "Thomas Carson"
+        },
+        {
+            "dob": "1971-01-31T00:00:00",
+            "country": "Novarcticaa",
+            "type": "Entity.Person",
+            "id": "Jason Watts"
+        },
+        {
+            "dob": "1994-01-05T00:00:00",
+            "country": "Coralada",
+            "type": "Entity.Person",
+            "id": "Hector Rodriguez"
+        },
+        {
+            "dob": "1977-11-02T00:00:00",
+            "country": "Rio Isla",
+            "type": "Entity.Person",
+            "id": "Lisa Sharp"
+        },
+        {
+            "dob": "1987-06-02T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person.CEO",
+            "id": "Nino Brugnaro"
+        },
+        {
+            "dob": "1988-02-15T00:00:00",
+            "country": "Islavaria",
+            "type": "Entity.Person.CEO",
+            "id": "\u00c9dith Bazin"
+        },
+        {
+            "dob": "1984-01-06T00:00:00",
+            "country": "Nalakimani",
+            "type": "Entity.Person",
+            "id": "Mrs. Margaret Melton"
+        },
+        {
+            "dob": "1989-12-30T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person.CEO",
+            "id": "Mercedes Gozzi"
+        },
+        {
+            "dob": "2003-02-02T00:00:00",
+            "country": "Alverossia",
+            "type": "Entity.Person.CEO",
+            "id": "Todd Martinez"
+        },
+        {
+            "dob": "1986-04-08T00:00:00",
+            "country": "Osterivaria",
+            "type": "Entity.Person",
+            "id": "Devin Mcdonald"
+        },
+        {
+            "dob": "1974-06-30T00:00:00",
+            "country": "Coraland",
+            "type": "Entity.Person",
+            "id": "Anna Coleman"
+        },
+        {
+            "dob": "2009-02-25T00:00:00",
+            "country": "Arreciviento",
+            "type": "Entity.Person",
+            "id": "Lauren King"
+        },
+        {
+            "dob": "2001-01-14T00:00:00",
+            "country": "Mawazam",
+            "type": "Entity.Person",
+            "id": "Ashley Boone"
+        },
+        {
+            "dob": "1986-04-16T00:00:00",
+            "country": "Zawalinda",
+            "type": "Entity.Person",
+            "id": "Melissa Bailey DDS"
+        },
+        {
+            "dob": "1980-08-02T00:00:00",
+            "country": "Zawalinda",
+            "type": "Entity.Person",
+            "id": "Wanda Macias"
+        },
+        {
+            "dob": "1989-11-12T00:00:00",
+            "country": "Uziland",
+            "type": "Entity.Person",
+            "id": "Jared Prince"
+        },
+        {
+            "dob": "1981-04-27T00:00:00",
+            "country": "Islavaragon",
+            "type": "Entity.Person",
+            "id": "William Castaneda"
+        },
+        {
+            "dob": "2009-04-08T00:00:00",
+            "country": "Helvoris",
+            "type": "Entity.Person",
+            "id": "Jacob Craig"
+        },
+        {
+            "dob": "1973-08-07T00:00:00",
+            "country": "Polarinda",
+            "type": "Entity.Person",
+            "id": "William Tapia"
+        },
+        {
+            "dob": "2008-12-04T00:00:00",
+            "country": "Mawandia",
+            "type": "Entity.Person",
+            "id": "Travis Gilmore"
+        },
+        {
+            "dob": "1996-03-18T00:00:00",
+            "country": "Isliandor",
+            "type": "Entity.Person",
+            "id": "Andrew Erickson"
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Mary Gaines",
+            "HeadOfOrg": "Angela Vasquez",
+            "founding_date": "2032-08-30T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 49556.34,
+            "TradeDescription": "As a leading provider of fish and seafood products, this company offers an extensive selection of meticulously sourced offerings to satisfy the diverse culinary preferences of consumers and businesses.",
+            "id": "AguaLeska Transit N.V.",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fishing and other related activities",
+            "PointOfContact": "Luce du Adam",
+            "HeadOfOrg": "Achille Forza",
+            "founding_date": "2032-11-05T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 6529.36,
+            "TradeDescription": "Offering comprehensive fishing solutions and related activities, ensuring sustainable practices and top-quality seafood products harvested from pristine waters worldwide.",
+            "id": "SouthSeafood Express Corp",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Jeffrey Wilson",
+            "HeadOfOrg": "Mario Sandoval",
+            "founding_date": "2035-05-20T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 77826.74,
+            "TradeDescription": "Offering an extensive range of premium fish and seafood products sourced from sustainable fisheries, ensuring exceptional quality and freshness for culinary enthusiasts worldwide.",
+            "id": "Tainamarine Fishing Co",
+            "dob": null
+        }
+    ],
+    "links": [
+        {
+            "start_date": "2009-06-11T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-06T00:00:00",
+            "source": "Heidi Coleman",
+            "target": "Patel-Miller",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-06T00:00:00",
+            "source": "Oscar Moore",
+            "target": "Patel-Miller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2014-06-12T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Rebecca Madden",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-08-10T00:00:00",
+            "source": "Adelmo Nitti",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2022-09-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "April Jarvis",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2014-10-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Kyle Anderson",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2010-07-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Angelica Williams",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2015-11-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Daniel Shaffer",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2022-06-23T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Dr. Richard Goodwin",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2015-09-23T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "James Knox",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2032-12-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-06T00:00:00",
+            "source": "James Costa",
+            "target": "Patel-Miller",
+            "key": 0
+        },
+        {
+            "start_date": "2016-10-27T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-06T00:00:00",
+            "source": "Angela Perez",
+            "target": "Patel-Miller",
+            "key": 0
+        },
+        {
+            "start_date": "2023-03-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-06T00:00:00",
+            "source": "Brittany Hudson",
+            "target": "Patel-Miller",
+            "key": 0
+        },
+        {
+            "start_date": "2030-02-20T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-06T00:00:00",
+            "source": "Trevor Jordan",
+            "target": "Patel-Miller",
+            "key": 0
+        },
+        {
+            "start_date": "2013-11-20T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-06T00:00:00",
+            "source": "Alex Gilmore",
+            "target": "Patel-Miller",
+            "key": 0
+        },
+        {
+            "start_date": "2029-05-14T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-05-27T00:00:00",
+            "source": "Mark Davis",
+            "target": "Perez, Lopez and White",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-05-27T00:00:00",
+            "source": "Joseph Escobar",
+            "target": "Perez, Lopez and White",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-04-12T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-26T00:00:00",
+            "source": "Rachel Gomez",
+            "target": "Lee-Contreras",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-07-26T00:00:00",
+            "source": "Matthew Knight MD",
+            "target": "Lee-Contreras",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-10-03T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-26T00:00:00",
+            "source": "Jodi Brooks",
+            "target": "Lee-Contreras",
+            "key": 0
+        },
+        {
+            "start_date": "2009-03-30T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-26T00:00:00",
+            "source": "Nicholas Valenzuela",
+            "target": "Lee-Contreras",
+            "key": 0
+        },
+        {
+            "start_date": "2005-12-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-03T00:00:00",
+            "source": "Jennifer Davies",
+            "target": "Crosby Ltd",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-03T00:00:00",
+            "source": "Jessica Cochran",
+            "target": "Crosby Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2021-09-19T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-03T00:00:00",
+            "source": "Traci York",
+            "target": "Crosby Ltd",
+            "key": 0
+        },
+        {
+            "start_date": "2007-07-25T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-03T00:00:00",
+            "source": "Raven Kelly",
+            "target": "Crosby Ltd",
+            "key": 0
+        },
+        {
+            "start_date": "2033-01-14T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Brandon Moreno",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-01-01T00:00:00",
+            "source": "Ashley Boone",
+            "target": "Duncan-Williams",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-07-13T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Bryan Murray",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2033-04-08T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Katelyn Roth",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2033-03-19T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Mrs. Cynthia Jenkins",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2032-10-13T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Michael Nguyen",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2031-12-14T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Robert Howell",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2033-03-04T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Joanne Lee",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2021-07-02T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-12-23T00:00:00",
+            "source": "Nicole Morrow",
+            "target": "Kramer, Harper and Velazquez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-12-23T00:00:00",
+            "source": "John Lloyd",
+            "target": "Kramer, Harper and Velazquez",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-12-23T00:00:00",
+            "source": "Rhonda Moore",
+            "target": "Kramer, Harper and Velazquez",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-03-07T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-04-11T00:00:00",
+            "source": "Wanda Gilbert",
+            "target": "Ayala, Scott and Mcdonald",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-04-11T00:00:00",
+            "source": "Lisa Sharp",
+            "target": "Ayala, Scott and Mcdonald",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2030-10-27T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-30T00:00:00",
+            "source": "Bethany Harrington",
+            "target": "Burke Group",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-01-30T00:00:00",
+            "source": "Mercedes Gozzi",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2020-12-05T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-09-02T00:00:00",
+            "source": "Thomas Carson",
+            "target": "Fox, Chapman and Stone",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-02T00:00:00",
+            "source": "Jennifer Schwartz",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-02T00:00:00",
+            "source": "Willie Robbins",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-02T00:00:00",
+            "source": "John Gibson",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-02T00:00:00",
+            "source": "Michael Barber",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-02T00:00:00",
+            "source": "David Nash",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-02T00:00:00",
+            "source": "Sara Reed",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2017-06-04T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-06-03T00:00:00",
+            "source": "Hector Rodriguez",
+            "target": "Jensen, Morris and Downs",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-06-03T00:00:00",
+            "source": "Beth Graves",
+            "target": "Jensen, Morris and Downs",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2005-09-23T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-12-07T00:00:00",
+            "source": "Mrs. Margaret Melton",
+            "target": "Ray, Burgess and Navarro",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-12-07T00:00:00",
+            "source": "\u00c9dith Bazin",
+            "target": "Ray, Burgess and Navarro",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-10-09T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-09-27T00:00:00",
+            "source": "Todd Martinez",
+            "target": "Sanchez-Rodgers",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-27T00:00:00",
+            "source": "Adriana Allison",
+            "target": "Sanchez-Rodgers",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-27T00:00:00",
+            "source": "Claire Smith",
+            "target": "Sanchez-Rodgers",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2019-07-09T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-05-14T00:00:00",
+            "source": "Devin Mcdonald",
+            "target": "Schultz-Gonzalez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-05-14T00:00:00",
+            "source": "Jason Watts",
+            "target": "Schultz-Gonzalez",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2025-02-26T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-09-24T00:00:00",
+            "source": "Anna Coleman",
+            "target": "Scott-Sanchez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-24T00:00:00",
+            "source": "Nino Brugnaro",
+            "target": "Scott-Sanchez",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-03-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-10-14T00:00:00",
+            "source": "Lauren King",
+            "target": "Velez, Yoder and Gill",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-10-14T00:00:00",
+            "source": "James Johnson",
+            "target": "Velez, Yoder and Gill",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2024-10-20T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-04-11T00:00:00",
+            "source": "Melissa Bailey DDS",
+            "target": "Ayala, Scott and Mcdonald",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-04-11T00:00:00",
+            "source": "Jones, Camacho and Garcia",
+            "target": "Ayala, Scott and Mcdonald",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2007-08-23T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-03-03T00:00:00",
+            "source": "Wanda Macias",
+            "target": "Crosby Ltd",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-03-03T00:00:00",
+            "source": "Cochran Ltd",
+            "target": "Crosby Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-08-25T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-06-03T00:00:00",
+            "source": "Jared Prince",
+            "target": "Jensen, Morris and Downs",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-06-03T00:00:00",
+            "source": "Berger-Hayes",
+            "target": "Jensen, Morris and Downs",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2013-12-06T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-06-03T00:00:00",
+            "source": "William Castaneda",
+            "target": "Jensen, Morris and Downs",
+            "key": 0
+        },
+        {
+            "start_date": "2028-10-26T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-05-27T00:00:00",
+            "source": "Jacob Craig",
+            "target": "Perez, Lopez and White",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-05-27T00:00:00",
+            "source": "White, Edwards and Wilson",
+            "target": "Perez, Lopez and White",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2007-06-29T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-12-07T00:00:00",
+            "source": "William Tapia",
+            "target": "Ray, Burgess and Navarro",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-12-07T00:00:00",
+            "source": "Perez Group",
+            "target": "Ray, Burgess and Navarro",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-07-15T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-12-07T00:00:00",
+            "source": "Travis Gilmore",
+            "target": "Ray, Burgess and Navarro",
+            "key": 0
+        },
+        {
+            "start_date": "2033-06-16T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Andrew Erickson",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-08-10T00:00:00",
+            "source": "Davis-Rose",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2033-10-29T00:00:00",
+            "end_date": "2035-05-25T00:00:00",
+            "source": "AguaLeska Transit N.V.",
+            "target": "SouthSeafood Express Corp",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-05-25T00:00:00",
+            "source": "Tainamarine Fishing Co",
+            "target": "SouthSeafood Express Corp",
+            "key": 0,
+            "end_date": null
+        }
+    ]
+}

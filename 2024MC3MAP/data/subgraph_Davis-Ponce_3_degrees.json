@@ -1,0 +1,224 @@
+{
+    "nodes": [
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Isla Solmar",
+            "ProductServices": "Canned and cured fish and seafoods",
+            "PointOfContact": "Hannah Flowers",
+            "HeadOfOrg": "Iv\u00e1n Roybal",
+            "founding_date": "1975-10-05T00:00:00",
+            "revenue": 54860.66,
+            "TradeDescription": "Davis-Ponce is a leading manufacturer of high-quality canned and cured fish and seafood products, known for their rich flavors and exceptional freshness. With a focus on sustainability and ethical sourcing, the company offers a wide range of products that cater to diverse tastes and dietary preferences.",
+            "id": "Davis-Ponce",
+            "dob": null
+        },
+        {
+            "dob": "1987-03-03T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Natalie Zimmerman"
+        },
+        {
+            "dob": "1982-06-01T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Heidi Fields"
+        },
+        {
+            "dob": "1990-10-28T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Jeffrey Elliott"
+        },
+        {
+            "dob": "1973-04-22T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Kristin Harvey"
+        },
+        {
+            "dob": "1990-06-23T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Martin Hayes"
+        },
+        {
+            "dob": "1986-02-17T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Michael Rowland"
+        },
+        {
+            "dob": "2001-06-24T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Philip Skinner"
+        },
+        {
+            "dob": "1979-08-31T00:00:00",
+            "country": "Oceanus",
+            "type": "Entity.Person",
+            "id": "Jason Mosley"
+        },
+        {
+            "dob": "1993-08-12T00:00:00",
+            "country": "Rosvandor",
+            "type": "Entity.Person",
+            "id": "Victor Webb"
+        },
+        {
+            "dob": "1976-06-09T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Ricky Kennedy"
+        },
+        {
+            "dob": "2000-06-03T00:00:00",
+            "country": "Lumakari",
+            "type": "Entity.Person",
+            "id": "Trevor Jones"
+        },
+        {
+            "dob": "1986-09-27T00:00:00",
+            "country": "Vesperlandia",
+            "type": "Entity.Person",
+            "id": "Joanna Acevedo"
+        },
+        {
+            "dob": "1986-02-09T00:00:00",
+            "country": "Faraluna",
+            "type": "Entity.Person",
+            "id": "Randy Andrews"
+        }
+    ],
+    "links": [
+        {
+            "start_date": "2016-10-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Natalie Zimmerman",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2011-09-05T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Heidi Fields",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2026-04-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Jeffrey Elliott",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2009-03-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kristin Harvey",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2021-05-08T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Martin Hayes",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2006-04-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Michael Rowland",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2021-12-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Philip Skinner",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2020-06-22T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Jason Mosley",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2025-11-30T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Victor Webb",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2024-10-20T00:00:00",
+            "source": "Victor Webb",
+            "target": "Davis-Ponce",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2008-07-24T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Ricky Kennedy",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2006-08-25T00:00:00",
+            "source": "Ricky Kennedy",
+            "target": "Davis-Ponce",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2028-03-17T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Trevor Jones",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2027-08-31T00:00:00",
+            "source": "Trevor Jones",
+            "target": "Davis-Ponce",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2005-01-16T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Joanna Acevedo",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2008-05-04T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Randy Andrews",
+            "target": "Davis-Ponce",
+            "key": 0,
+            "end_date": null
+        }
+    ]
+}

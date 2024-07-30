@@ -1,0 +1,54 @@
+import json
+from datetime import datetime
+
+def format_date(date_str):
+    if not date_str or date_str == '':
+        return None
+    try:
+        date_obj = datetime.strptime(date_str, '%Y-%m-%dT%H:%M:%S')
+        return date_obj.strftime('%Y-%m-%dT00:00:00')
+    except ValueError:
+        return None
+
+with open('/Users/idvl/2024MC3MAP/data/mc3.json', 'r') as file:
+    data = json.load(file)
+
+links = data.get('links', [])
+
+earliest_dates = {}
+
+for link in links:
+    source = link['source']
+    target = link['target']
+    start_date = format_date(link.get('start_date'))
+    
+    if start_date:
+        if source not in earliest_dates or start_date < earliest_dates[source]:
+            earliest_dates[source] = start_date
+        if target not in earliest_dates or start_date < earliest_dates[target]:
+            earliest_dates[target] = start_date
+
+print("Earliest dates for each node:")
+print(earliest_dates)
+
+for link in links:
+    if link['type'] == 'Relationship.FamilyRelationship':
+        source = link['source']
+        target = link['target']
+        earliest_start_date = min(
+            earliest_dates.get(source, '9999-12-31T00:00:00'), 
+            earliest_dates.get(target, '9999-12-31T00:00:00')
+        )
+        link['start_date'] = earliest_start_date
+
+        print(f"Updated family relationship: {link}")
+
+data['links'] = links
+
+with open('/Users/idvl/2024MC3MAP/data/data_with_family_relationship_start_dates.json', 'w') as file:
+    json.dump(data, file, indent=4)
+
+print("Modified family relationship links in the final JSON:")
+for link in links:
+    if link['type'] == 'Relationship.FamilyRelationship':
+        print(link)

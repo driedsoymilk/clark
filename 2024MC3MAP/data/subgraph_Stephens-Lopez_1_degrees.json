@@ -1,0 +1,546 @@
+{
+    "nodes": [
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Imazam",
+            "ProductServices": "Electronics design, production, and product management services to global electronics and technology companies",
+            "PointOfContact": "Michael Hale",
+            "HeadOfOrg": "Dott. Adamo Napolitano",
+            "founding_date": "2032-04-15T00:00:00",
+            "revenue": 898345.22,
+            "TradeDescription": "Stephens-Lopez is a leading provider of electronic design, production, and product management services to major electronics and technology companies worldwide. With a focus on innovation and quality, the company's expert engineers and project managers work closely with clients to deliver cutting-edge solutions that meet their evolving needs.",
+            "id": "Stephens-Lopez",
+            "dob": null
+        },
+        {
+            "dob": "1974-11-26T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Kelsey Ortega"
+        },
+        {
+            "dob": "1980-11-08T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Joseph Gentry"
+        },
+        {
+            "dob": "1991-07-23T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Cynthia Anderson"
+        },
+        {
+            "dob": "2013-10-03T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Anna Davis"
+        },
+        {
+            "dob": "1981-04-15T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Katie Evans"
+        },
+        {
+            "dob": "1993-03-14T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Jennifer Gardner"
+        },
+        {
+            "dob": "1996-04-13T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Wesley Phillips"
+        },
+        {
+            "dob": "1995-12-30T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Alan Richardson"
+        },
+        {
+            "dob": "1992-07-07T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Joseph Brown"
+        },
+        {
+            "dob": "1986-06-05T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Jason Anderson"
+        },
+        {
+            "dob": "1970-10-05T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Melissa Davis"
+        },
+        {
+            "dob": "1986-05-19T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Joshua Kent"
+        },
+        {
+            "dob": "1994-01-13T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Aaron Delgado"
+        },
+        {
+            "dob": "1987-02-18T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Breanna Price"
+        },
+        {
+            "dob": "2006-11-20T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Sandra Young"
+        },
+        {
+            "dob": "1974-12-30T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Alexandra Clay"
+        },
+        {
+            "dob": "1980-05-13T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Zachary Taylor"
+        },
+        {
+            "dob": "1993-07-29T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Kenneth Gonzales"
+        },
+        {
+            "dob": "2001-04-27T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Erica Ford"
+        },
+        {
+            "dob": "1978-10-25T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Catherine Macias"
+        },
+        {
+            "dob": "1970-05-24T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Sydney Jones"
+        },
+        {
+            "dob": "1984-03-24T00:00:00",
+            "country": "Gavanovia",
+            "type": "Entity.Person",
+            "id": "Anne Villanueva"
+        },
+        {
+            "dob": "1989-11-17T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Sharon Moon"
+        },
+        {
+            "dob": "2009-06-23T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Dana Moore"
+        }
+    ],
+    "links": [
+        {
+            "start_date": "2032-10-01T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Kelsey Ortega",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Kelsey Ortega",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2034-11-29T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Joseph Gentry",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Joseph Gentry",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2034-11-26T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Cynthia Anderson",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Cynthia Anderson",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2034-12-13T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Anna Davis",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Anna Davis",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2034-11-20T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Katie Evans",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Katie Evans",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2034-12-03T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Jennifer Gardner",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Jennifer Gardner",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2034-04-18T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Wesley Phillips",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Wesley Phillips",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2032-10-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Alan Richardson",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Alan Richardson",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2032-06-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Joseph Brown",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Joseph Brown",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2034-10-18T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Jason Anderson",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Jason Anderson",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2032-06-02T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Melissa Davis",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Melissa Davis",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2032-09-20T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Joshua Kent",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Joshua Kent",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2033-02-14T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Aaron Delgado",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Aaron Delgado",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2034-12-02T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Breanna Price",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Breanna Price",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2033-05-31T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Sandra Young",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Sandra Young",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2032-07-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Alexandra Clay",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Alexandra Clay",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2033-09-25T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Zachary Taylor",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Zachary Taylor",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2032-07-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Kenneth Gonzales",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Kenneth Gonzales",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2034-08-02T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Erica Ford",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Erica Ford",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2033-12-30T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Catherine Macias",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Catherine Macias",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2034-05-07T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Sydney Jones",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Sydney Jones",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2033-11-03T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Anne Villanueva",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Anne Villanueva",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2033-05-04T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Sharon Moon",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Sharon Moon",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2033-12-08T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Dana Moore",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Dana Moore",
+            "target": "Stephens-Lopez",
+            "key": 0
+        }
+    ]
+}

@@ -1,0 +1,328 @@
+{
+    "nodes": [
+        {
+            "country": "Oceanus",
+            "ProductServices": "Seafood",
+            "PointOfContact": "Emily Yates",
+            "HeadOfOrg": "Kaitlin Hood DVM",
+            "founding_date": "2031-10-04T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 37914.02,
+            "TradeDescription": "Bringing the bounty of the sea to your doorstep, our company offers a wide range of fresh, sustainably-sourced seafood, ensuring unparalleled quality and taste for seafood enthusiasts everywhere.",
+            "id": "Bailey-Mccullough",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Specialised in commercial catching, rearing or taking a wide range of fish and shellfish",
+            "PointOfContact": "Craig Lyons",
+            "HeadOfOrg": "Mandy Ramos",
+            "founding_date": "2026-12-28T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 29737.35,
+            "TradeDescription": "Professionally dedicated to the commercial catching, rearing, and procurement of a diverse array of fish and shellfish, our company ensures superior quality and sustainability throughout our seafood offerings.",
+            "id": "Conrad Ltd",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Deep-sea tuna longline fishing, deep-sea and coastal purse seiner fishing, crab fishing, bottom longline fishing and slern trawl fishing, tuna farming, manufacturing and trading of dehydrated food and various type of seasonings, and import and export of marine products",
+            "PointOfContact": "Lauren Wagner",
+            "HeadOfOrg": "Howard Turner",
+            "founding_date": "2032-08-04T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 5580471.3,
+            "TradeDescription": "From sustainable deep-sea tuna longline and purse seiner fishing to crab fishing and tuna farming, alongside manufacturing and trading of dehydrated foods, seasonings, and marine product import/export, our company provides a comprehensive suite of seafood solutions, ensuring quality, sustainability, and taste innovation across the globe.",
+            "id": "Hartman Group",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Kelly Hall",
+            "HeadOfOrg": "David Bowen",
+            "founding_date": "2021-07-24T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 7205.78,
+            "TradeDescription": "Unknown",
+            "id": "Jacobs PLC",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Unkown",
+            "PointOfContact": "Sabrina Bruce",
+            "HeadOfOrg": "Richard Morton",
+            "founding_date": "2023-06-17T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 14407.21,
+            "TradeDescription": "Unkown",
+            "id": "May and Sons",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Logistics services",
+            "PointOfContact": "Dr. Michelle Anderson",
+            "HeadOfOrg": "Joanne Wall",
+            "founding_date": "2030-09-18T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 688569.47,
+            "TradeDescription": "Delivering seamless end-to-end logistics solutions, our company optimizes supply chains with expertise, innovation, and reliability to meet the diverse needs of businesses worldwide.",
+            "id": "Osborne and Sons",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Specializes in forwarding, warehousing, transportation, and distribution of various types of cargo",
+            "PointOfContact": "Sherry Leon",
+            "HeadOfOrg": "Robert Mccarthy II",
+            "founding_date": "2026-10-11T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 7422.01,
+            "TradeDescription": "Specializing in comprehensive logistics solutions, our company offers expert forwarding, warehousing, transportation, and distribution services for diverse cargo types, ensuring seamless operations tailored to meet the unique needs of our clients.",
+            "id": "Raymond LLC",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Seafood products",
+            "PointOfContact": "Patrick Mueller",
+            "HeadOfOrg": "Jeffrey Barrett",
+            "founding_date": "2026-08-23T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 27197.75,
+            "TradeDescription": "Vargas Ltd. is a seafood processing and distribution company that specializes in providing high-quality seafood products to customers around the world. Their product line includes a variety of fresh and frozen seafood items, such as salmon, tuna, shrimp, and lobster, sourced from sustainable and responsible fisheries.",
+            "id": "Vargas Ltd",
+            "dob": null
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1995-07-25T00:00:00",
+            "country": "Oceanus",
+            "id": "Robert Mccarthy II"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1985-07-19T00:00:00",
+            "country": "Oceanus",
+            "id": "Sherry Leon"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2010-05-22T00:00:00",
+            "country": "Oceanus",
+            "id": "Braydon Mccarthy"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2010-07-09T00:00:00",
+            "country": "Oceanus",
+            "id": "Lauren Wagner"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2013-07-13T00:00:00",
+            "country": "Oceanus",
+            "id": "Emily Yates"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1987-11-11T00:00:00",
+            "country": "Oceanus",
+            "id": "Patrick Mueller"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1998-02-14T00:00:00",
+            "country": "Oceanus",
+            "id": "Mandy Ramos"
+        }
+    ],
+    "links": [
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2032-08-04T00:00:00",
+            "source": "Conrad Ltd",
+            "target": "Hartman Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2031-10-04T00:00:00",
+            "source": "Jacobs PLC",
+            "target": "Bailey-Mccullough",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2026-10-11T00:00:00",
+            "source": "Raymond LLC",
+            "target": "May and Sons",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2026-10-11T00:00:00",
+            "source": "Raymond LLC",
+            "target": "Jacobs PLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2026-12-28T00:00:00",
+            "source": "Raymond LLC",
+            "target": "Conrad Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2026-10-11T00:00:00",
+            "source": "Raymond LLC",
+            "target": "Vargas Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2030-09-18T00:00:00",
+            "source": "Vargas Ltd",
+            "target": "Osborne and Sons",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2026-10-11T00:00:00",
+            "source": "Robert Mccarthy II",
+            "target": "Raymond LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2026-10-11T00:00:00",
+            "source": "Robert Mccarthy II",
+            "target": "Raymond LLC",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2023-06-17T00:00:00",
+            "source": "Robert Mccarthy II",
+            "target": "May and Sons",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2021-07-24T00:00:00",
+            "source": "Robert Mccarthy II",
+            "target": "Jacobs PLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2031-10-04T00:00:00",
+            "source": "Robert Mccarthy II",
+            "target": "Bailey-Mccullough",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2026-12-28T00:00:00",
+            "source": "Robert Mccarthy II",
+            "target": "Conrad Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2032-08-04T00:00:00",
+            "source": "Robert Mccarthy II",
+            "target": "Hartman Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2026-08-23T00:00:00",
+            "source": "Robert Mccarthy II",
+            "target": "Vargas Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2030-09-18T00:00:00",
+            "source": "Robert Mccarthy II",
+            "target": "Osborne and Sons",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2026-10-11T00:00:00",
+            "source": "Sherry Leon",
+            "target": "Raymond LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2028-05-21T00:00:00",
+            "source": "Braydon Mccarthy",
+            "target": "Raymond LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Relationship.FamilyRelationship",
+            "start_date": "2021-07-24T00:00:00",
+            "source": "Braydon Mccarthy",
+            "target": "Robert Mccarthy II",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2032-08-04T00:00:00",
+            "source": "Lauren Wagner",
+            "target": "Hartman Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2031-10-04T00:00:00",
+            "source": "Emily Yates",
+            "target": "Bailey-Mccullough",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2026-08-23T00:00:00",
+            "source": "Patrick Mueller",
+            "target": "Vargas Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2026-12-28T00:00:00",
+            "source": "Mandy Ramos",
+            "target": "Conrad Ltd",
+            "key": 0,
+            "end_date": null
+        }
+    ]
+}

@@ -1,0 +1,426 @@
+[
+    {
+        "date_end": "2035-03-06T00:00:00",
+        "date_start": "2035-03-06T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Heidi Coleman",
+        "to": "Oscar Moore",
+        "of": "Patel-Miller"
+    },
+    {
+        "date_end": "2035-08-10T00:00:00",
+        "date_start": "2035-08-10T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Rebecca Madden",
+        "to": "Adelmo Nitti",
+        "of": "Wright LLC"
+    },
+    {
+        "date_end": "2035-08-10T00:00:00",
+        "date_start": "2035-08-10T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "April Jarvis",
+        "to": "Adelmo Nitti",
+        "of": "Wright LLC"
+    },
+    {
+        "date_end": "2035-08-10T00:00:00",
+        "date_start": "2035-08-10T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Kyle Anderson",
+        "to": "Adelmo Nitti",
+        "of": "Wright LLC"
+    },
+    {
+        "date_end": "2035-08-10T00:00:00",
+        "date_start": "2035-08-10T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Angelica Williams",
+        "to": "Adelmo Nitti",
+        "of": "Wright LLC"
+    },
+    {
+        "date_end": "2035-08-10T00:00:00",
+        "date_start": "2035-08-10T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Daniel Shaffer",
+        "to": "Adelmo Nitti",
+        "of": "Wright LLC"
+    },
+    {
+        "date_end": "2035-08-10T00:00:00",
+        "date_start": "2035-08-10T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Dr. Richard Goodwin",
+        "to": "Adelmo Nitti",
+        "of": "Wright LLC"
+    },
+    {
+        "date_end": "2035-08-10T00:00:00",
+        "date_start": "2035-08-10T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "James Knox",
+        "to": "Adelmo Nitti",
+        "of": "Wright LLC"
+    },
+    {
+        "date_end": "2035-03-06T00:00:00",
+        "date_start": "2035-03-06T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "James Costa",
+        "to": "Oscar Moore",
+        "of": "Patel-Miller"
+    },
+    {
+        "date_end": "2035-03-06T00:00:00",
+        "date_start": "2035-03-06T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Angela Perez",
+        "to": "Oscar Moore",
+        "of": "Patel-Miller"
+    },
+    {
+        "date_end": "2035-03-06T00:00:00",
+        "date_start": "2035-03-06T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Brittany Hudson",
+        "to": "Oscar Moore",
+        "of": "Patel-Miller"
+    },
+    {
+        "date_end": "2035-03-06T00:00:00",
+        "date_start": "2035-03-06T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Trevor Jordan",
+        "to": "Oscar Moore",
+        "of": "Patel-Miller"
+    },
+    {
+        "date_end": "2035-03-06T00:00:00",
+        "date_start": "2035-03-06T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Alex Gilmore",
+        "to": "Oscar Moore",
+        "of": "Patel-Miller"
+    },
+    {
+        "date_end": "2035-05-27T00:00:00",
+        "date_start": "2035-05-27T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Mark Davis",
+        "to": "Joseph Escobar",
+        "of": "Perez, Lopez and White"
+    },
+    {
+        "date_end": "2035-07-26T00:00:00",
+        "date_start": "2035-07-26T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Rachel Gomez",
+        "to": "Matthew Knight MD",
+        "of": "Lee-Contreras"
+    },
+    {
+        "date_end": "2035-07-26T00:00:00",
+        "date_start": "2035-07-26T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Jodi Brooks",
+        "to": "Matthew Knight MD",
+        "of": "Lee-Contreras"
+    },
+    {
+        "date_end": "2035-07-26T00:00:00",
+        "date_start": "2035-07-26T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Nicholas Valenzuela",
+        "to": "Matthew Knight MD",
+        "of": "Lee-Contreras"
+    },
+    {
+        "date_end": "2035-03-03T00:00:00",
+        "date_start": "2035-03-03T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Jennifer Davies",
+        "to": "Jessica Cochran",
+        "of": "Crosby Ltd"
+    },
+    {
+        "date_end": "2035-03-03T00:00:00",
+        "date_start": "2035-03-03T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Traci York",
+        "to": "Jessica Cochran",
+        "of": "Crosby Ltd"
+    },
+    {
+        "date_end": "2035-03-03T00:00:00",
+        "date_start": "2035-03-03T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Raven Kelly",
+        "to": "Jessica Cochran",
+        "of": "Crosby Ltd"
+    },
+    {
+        "date_end": "2035-01-01T00:00:00",
+        "date_start": "2035-01-01T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Brandon Moreno",
+        "to": "Ashley Boone",
+        "of": "Duncan-Williams"
+    },
+    {
+        "date_end": "2035-01-01T00:00:00",
+        "date_start": "2035-01-01T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Bryan Murray",
+        "to": "Ashley Boone",
+        "of": "Duncan-Williams"
+    },
+    {
+        "date_end": "2035-01-01T00:00:00",
+        "date_start": "2035-01-01T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Katelyn Roth",
+        "to": "Ashley Boone",
+        "of": "Duncan-Williams"
+    },
+    {
+        "date_end": "2035-01-01T00:00:00",
+        "date_start": "2035-01-01T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Mrs. Cynthia Jenkins",
+        "to": "Ashley Boone",
+        "of": "Duncan-Williams"
+    },
+    {
+        "date_end": "2035-01-01T00:00:00",
+        "date_start": "2035-01-01T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Michael Nguyen",
+        "to": "Ashley Boone",
+        "of": "Duncan-Williams"
+    },
+    {
+        "date_end": "2035-01-01T00:00:00",
+        "date_start": "2035-01-01T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Robert Howell",
+        "to": "Ashley Boone",
+        "of": "Duncan-Williams"
+    },
+    {
+        "date_end": "2035-01-01T00:00:00",
+        "date_start": "2035-01-01T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Joanne Lee",
+        "to": "Ashley Boone",
+        "of": "Duncan-Williams"
+    },
+    {
+        "date_end": "2035-12-23T00:00:00",
+        "date_start": "2035-12-23T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Nicole Morrow",
+        "to": "John Lloyd",
+        "of": "Kramer, Harper and Velazquez"
+    },
+    {
+        "date_end": "2035-12-23T00:00:00",
+        "date_start": "2035-12-23T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Nicole Morrow",
+        "to": "Rhonda Moore",
+        "of": "Kramer, Harper and Velazquez"
+    },
+    {
+        "date_end": "2035-04-11T00:00:00",
+        "date_start": "2035-04-11T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Wanda Gilbert",
+        "to": "Lisa Sharp",
+        "of": "Ayala, Scott and Mcdonald"
+    },
+    {
+        "date_end": "2035-01-30T00:00:00",
+        "date_start": "2035-01-30T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Bethany Harrington",
+        "to": "Mercedes Gozzi",
+        "of": "Burke Group"
+    },
+    {
+        "date_end": "2035-09-02T00:00:00",
+        "date_start": "2035-09-02T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Thomas Carson",
+        "to": "Jennifer Schwartz",
+        "of": "Fox, Chapman and Stone"
+    },
+    {
+        "date_end": "2035-09-02T00:00:00",
+        "date_start": "2035-09-02T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Thomas Carson",
+        "to": "Willie Robbins",
+        "of": "Fox, Chapman and Stone"
+    },
+    {
+        "date_end": "2035-09-02T00:00:00",
+        "date_start": "2035-09-02T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Thomas Carson",
+        "to": "John Gibson",
+        "of": "Fox, Chapman and Stone"
+    },
+    {
+        "date_end": "2035-09-02T00:00:00",
+        "date_start": "2035-09-02T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Thomas Carson",
+        "to": "Michael Barber",
+        "of": "Fox, Chapman and Stone"
+    },
+    {
+        "date_end": "2035-09-02T00:00:00",
+        "date_start": "2035-09-02T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Thomas Carson",
+        "to": "David Nash",
+        "of": "Fox, Chapman and Stone"
+    },
+    {
+        "date_end": "2035-09-02T00:00:00",
+        "date_start": "2035-09-02T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Thomas Carson",
+        "to": "Sara Reed",
+        "of": "Fox, Chapman and Stone"
+    },
+    {
+        "date_end": "2035-06-03T00:00:00",
+        "date_start": "2035-06-03T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Hector Rodriguez",
+        "to": "Beth Graves",
+        "of": "Jensen, Morris and Downs"
+    },
+    {
+        "date_end": "2035-12-07T00:00:00",
+        "date_start": "2035-12-07T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Mrs. Margaret Melton",
+        "to": "\u00c9dith Bazin",
+        "of": "Ray, Burgess and Navarro"
+    },
+    {
+        "date_end": "2035-09-27T00:00:00",
+        "date_start": "2035-09-27T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Todd Martinez",
+        "to": "Adriana Allison",
+        "of": "Sanchez-Rodgers"
+    },
+    {
+        "date_end": "2035-09-27T00:00:00",
+        "date_start": "2035-09-27T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Todd Martinez",
+        "to": "Claire Smith",
+        "of": "Sanchez-Rodgers"
+    },
+    {
+        "date_end": "2035-05-14T00:00:00",
+        "date_start": "2035-05-14T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Devin Mcdonald",
+        "to": "Jason Watts",
+        "of": "Schultz-Gonzalez"
+    },
+    {
+        "date_end": "2035-09-24T00:00:00",
+        "date_start": "2035-09-24T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Anna Coleman",
+        "to": "Nino Brugnaro",
+        "of": "Scott-Sanchez"
+    },
+    {
+        "date_end": "2035-10-14T00:00:00",
+        "date_start": "2035-10-14T00:00:00",
+        "type": "Transfer of Event.Owns.BeneficialOwnership",
+        "from": "Lauren King",
+        "to": "James Johnson",
+        "of": "Velez, Yoder and Gill"
+    },
+    {
+        "date_end": "2035-04-11T00:00:00",
+        "date_start": "2035-04-11T00:00:00",
+        "type": "Transfer of Event.Owns.Shareholdership",
+        "from": "Melissa Bailey DDS",
+        "to": "Jones, Camacho and Garcia",
+        "of": "Ayala, Scott and Mcdonald"
+    },
+    {
+        "date_end": "2035-03-03T00:00:00",
+        "date_start": "2035-03-03T00:00:00",
+        "type": "Transfer of Event.Owns.Shareholdership",
+        "from": "Wanda Macias",
+        "to": "Cochran Ltd",
+        "of": "Crosby Ltd"
+    },
+    {
+        "date_end": "2035-06-03T00:00:00",
+        "date_start": "2035-06-03T00:00:00",
+        "type": "Transfer of Event.Owns.Shareholdership",
+        "from": "Jared Prince",
+        "to": "Berger-Hayes",
+        "of": "Jensen, Morris and Downs"
+    },
+    {
+        "date_end": "2035-06-03T00:00:00",
+        "date_start": "2035-06-03T00:00:00",
+        "type": "Transfer of Event.Owns.Shareholdership",
+        "from": "William Castaneda",
+        "to": "Berger-Hayes",
+        "of": "Jensen, Morris and Downs"
+    },
+    {
+        "date_end": "2035-05-27T00:00:00",
+        "date_start": "2035-05-27T00:00:00",
+        "type": "Transfer of Event.Owns.Shareholdership",
+        "from": "Jacob Craig",
+        "to": "White, Edwards and Wilson",
+        "of": "Perez, Lopez and White"
+    },
+    {
+        "date_end": "2035-12-07T00:00:00",
+        "date_start": "2035-12-07T00:00:00",
+        "type": "Transfer of Event.Owns.Shareholdership",
+        "from": "William Tapia",
+        "to": "Perez Group",
+        "of": "Ray, Burgess and Navarro"
+    },
+    {
+        "date_end": "2035-12-07T00:00:00",
+        "date_start": "2035-12-07T00:00:00",
+        "type": "Transfer of Event.Owns.Shareholdership",
+        "from": "Travis Gilmore",
+        "to": "Perez Group",
+        "of": "Ray, Burgess and Navarro"
+    },
+    {
+        "date_end": "2035-08-10T00:00:00",
+        "date_start": "2035-08-10T00:00:00",
+        "type": "Transfer of Event.Owns.Shareholdership",
+        "from": "Andrew Erickson",
+        "to": "Davis-Rose",
+        "of": "Wright LLC"
+    },
+    {
+        "date_end": "2035-05-25T00:00:00",
+        "date_start": "2035-05-25T00:00:00",
+        "type": "Transfer of Event.Owns.Shareholdership",
+        "from": "AguaLeska Transit N.V.",
+        "to": "Tainamarine Fishing Co",
+        "of": "SouthSeafood Express Corp"
+    }
+]

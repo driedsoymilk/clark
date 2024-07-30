@@ -1,0 +1,944 @@
+{
+    "nodes": [
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Scott Thomas",
+            "HeadOfOrg": "Pina Fagotto-Albertini",
+            "founding_date": "1952-12-28T00:00:00",
+            "revenue": 4746.67,
+            "TradeDescription": "Unknown",
+            "id": "Ferguson, Walker and Martinez",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Isla Solmar",
+            "ProductServices": "Raw sugar, liquid sugar, refined sugar from sugarcane, raw cane sugar, sugarbeets, boiled sweets, toffees, marshmallows, fondant, lollipops, candy bars, gum drops, licorice candy, jelly beans, gummies, fudge, chocolates, nougat, lemon drops, peppermint drops, and other sweet items of snack food",
+            "PointOfContact": "Joshua Ward",
+            "HeadOfOrg": "Nedda Piane",
+            "founding_date": "1990-03-02T00:00:00",
+            "revenue": 20866.67,
+            "TradeDescription": "Johnson-Espinoza is a leading provider of high-quality sweeteners and confectionery products, sourcing materials from reputable suppliers worldwide. Their extensive range of products includes raw and refined sugars, as well as a variety of candies and snack foods, all crafted to meet the highest standards of taste and quality.",
+            "id": "Johnson-Espinoza",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Uzifrica",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Karina Pena",
+            "HeadOfOrg": "Joaqu\u00edn Juan Carlos Madrigal",
+            "founding_date": "2007-12-28T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Knight-Hopkins",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Arvaros",
+            "ProductServices": "Markets a wide range of products: from industrial chemicals, nylons/copolymers, fine chemicals or performance materials to industrial machines",
+            "PointOfContact": "Jeffrey Horton",
+            "HeadOfOrg": "H\u00e9ctor Arriaga Caballero",
+            "founding_date": "1946-12-04T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Morrison, Thompson, and Mitchell is a multinational corporation that specializes in the production and distribution of various industrial products and machinery. With a diverse portfolio of offerings, the company caters to a wide range of industries, including chemical processing, manufacturing, and construction.",
+            "id": "Morrison, Thompson and Mitchell",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Electronic components, capacitors and auxiliary equipment",
+            "PointOfContact": "Jason Baker",
+            "HeadOfOrg": "Theresa Hunt",
+            "founding_date": "1992-09-12T00:00:00",
+            "revenue": 15866.67,
+            "TradeDescription": "Ortiz-Smith is a leading provider of high-quality electronic components, including capacitors and auxiliary equipment. With a focus on innovation and reliability, their products are designed to meet the evolving needs of the technology industry.",
+            "id": "Ortiz-Smith",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Imazam",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Matthew Mcfarland",
+            "HeadOfOrg": "Fabiola Trinidad Cant\u00fa Olivera",
+            "founding_date": "1991-04-08T00:00:00",
+            "revenue": 5270.5,
+            "TradeDescription": "Unknown",
+            "id": "Singleton, Williams and Keller",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "John Williams",
+            "HeadOfOrg": "Elvira Ceja Robles",
+            "founding_date": "2011-02-10T00:00:00",
+            "revenue": 10006.67,
+            "TradeDescription": "Unknown",
+            "id": "Warner-Wheeler",
+            "dob": null
+        },
+        {
+            "dob": "1979-05-25T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Amy Perkins"
+        },
+        {
+            "dob": "1999-10-01T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Chad Dawson"
+        },
+        {
+            "dob": "1983-09-01T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Ricky Welch"
+        },
+        {
+            "dob": "1993-05-18T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Wendy Perez"
+        },
+        {
+            "dob": "2006-07-26T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "William Abbott"
+        },
+        {
+            "dob": "2000-12-12T00:00:00",
+            "country": "Ariuzima",
+            "type": "Entity.Person",
+            "id": "John Williams"
+        },
+        {
+            "dob": "1994-07-11T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Kevin Anderson"
+        },
+        {
+            "dob": "1990-05-09T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Joseph Sandoval DDS"
+        },
+        {
+            "dob": "1974-06-21T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Arthur Pennington"
+        },
+        {
+            "dob": "1984-05-29T00:00:00",
+            "country": "Imazam",
+            "type": "Entity.Person",
+            "id": "Laurie Mitchell"
+        },
+        {
+            "dob": "1975-04-23T00:00:00",
+            "country": "Imazam",
+            "type": "Entity.Person",
+            "id": "Alexander Wood"
+        },
+        {
+            "dob": "2001-06-26T00:00:00",
+            "country": "Imazam",
+            "type": "Entity.Person",
+            "id": "Scott Thomas"
+        },
+        {
+            "dob": "2001-03-08T00:00:00",
+            "country": "Kondanovia",
+            "type": "Entity.Person",
+            "id": "Joseph Villanueva"
+        },
+        {
+            "dob": "1984-06-04T00:00:00",
+            "country": "Zambarka",
+            "type": "Entity.Person",
+            "id": "Jeffrey Horton"
+        },
+        {
+            "dob": "2000-11-05T00:00:00",
+            "country": "Thessalandia",
+            "type": "Entity.Person",
+            "id": "Jordan Aguilar MD"
+        },
+        {
+            "dob": "1991-03-25T00:00:00",
+            "country": "Solovarossa",
+            "type": "Entity.Person",
+            "id": "Paige Anderson"
+        },
+        {
+            "dob": "2001-09-29T00:00:00",
+            "country": "Oceanus",
+            "type": "Entity.Person",
+            "id": "Wendy Pace"
+        },
+        {
+            "dob": "1999-11-16T00:00:00",
+            "country": "Oceanus",
+            "type": "Entity.Person",
+            "id": "Gary Barr"
+        },
+        {
+            "dob": "1983-08-30T00:00:00",
+            "country": "Quornova",
+            "type": "Entity.Person",
+            "id": "Margaret Camacho"
+        },
+        {
+            "dob": "1987-12-13T00:00:00",
+            "country": "Kondanovia",
+            "type": "Entity.Person",
+            "id": "Breanna Blevins"
+        },
+        {
+            "dob": "1992-07-20T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Melanie Hurst"
+        },
+        {
+            "dob": "1970-02-11T00:00:00",
+            "country": "Nalakond",
+            "type": "Entity.Person",
+            "id": "Yolanda Case"
+        },
+        {
+            "dob": "1979-05-10T00:00:00",
+            "country": "Uziland",
+            "type": "Entity.Person",
+            "id": "Brianna Anderson"
+        },
+        {
+            "dob": "1986-04-19T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Stephen Roy"
+        },
+        {
+            "dob": "2006-06-07T00:00:00",
+            "country": "Puerto Sol",
+            "type": "Entity.Person",
+            "id": "Victor Boyd"
+        },
+        {
+            "dob": "1974-10-04T00:00:00",
+            "country": "Helvoris",
+            "type": "Entity.Person",
+            "id": "Joaqu\u00edn Juan Carlos Madrigal"
+        },
+        {
+            "dob": "1970-05-08T00:00:00",
+            "country": "Syrithania",
+            "type": "Entity.Person",
+            "id": "Deanna Craig"
+        },
+        {
+            "dob": "1986-01-23T00:00:00",
+            "country": "Wysterion",
+            "type": "Entity.Person",
+            "id": "Breanna Smith"
+        },
+        {
+            "dob": "1978-06-14T00:00:00",
+            "country": "Uzifrica",
+            "type": "Entity.Person",
+            "id": "Vanessa Escobar"
+        },
+        {
+            "dob": "1984-08-05T00:00:00",
+            "country": "Uzifrica",
+            "type": "Entity.Person",
+            "id": "Jessica Collins"
+        },
+        {
+            "dob": "1994-01-27T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Jillian Byrd"
+        },
+        {
+            "dob": "1982-09-23T00:00:00",
+            "country": "Oceanterra",
+            "type": "Entity.Person",
+            "id": "Brandon Snyder"
+        },
+        {
+            "dob": "1976-06-27T00:00:00",
+            "country": "Azurionix",
+            "type": "Entity.Person",
+            "id": "Roger Hall"
+        },
+        {
+            "dob": "1978-11-09T00:00:00",
+            "country": "Mawalara",
+            "type": "Entity.Person",
+            "id": "Todd Schmidt"
+        },
+        {
+            "dob": "1981-01-30T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Yvonne Schmidt"
+        },
+        {
+            "dob": "1971-12-09T00:00:00",
+            "country": "Quirinelle",
+            "type": "Entity.Person",
+            "id": "Noah Gutierrez"
+        },
+        {
+            "dob": "1988-07-08T00:00:00",
+            "country": "Utoporiana",
+            "type": "Entity.Person",
+            "id": "Jason Baker"
+        },
+        {
+            "dob": "1977-09-03T00:00:00",
+            "country": "Khamposa",
+            "type": "Entity.Person",
+            "id": "Christina Figueroa"
+        },
+        {
+            "dob": "1975-06-25T00:00:00",
+            "country": "Quornova",
+            "type": "Entity.Person",
+            "id": "Laura Freeman"
+        },
+        {
+            "dob": "1986-12-08T00:00:00",
+            "country": "Puerto Sol",
+            "type": "Entity.Person",
+            "id": "Trevor Bullock"
+        },
+        {
+            "dob": "1988-09-29T00:00:00",
+            "country": "Kethilim",
+            "type": "Entity.Person",
+            "id": "Sherry Anderson"
+        },
+        {
+            "dob": "1980-04-07T00:00:00",
+            "country": "Helvoris",
+            "type": "Entity.Person",
+            "id": "Vanessa Stone"
+        },
+        {
+            "dob": "1987-04-04T00:00:00",
+            "country": "Marifada",
+            "type": "Entity.Person",
+            "id": "Stephanie Hubbard"
+        },
+        {
+            "dob": "1977-10-12T00:00:00",
+            "country": "Kilivaria",
+            "type": "Entity.Person",
+            "id": "Debbie Harrison"
+        },
+        {
+            "dob": "1978-05-02T00:00:00",
+            "country": "Zambarka",
+            "type": "Entity.Person",
+            "id": "Carrie Chavez"
+        },
+        {
+            "dob": "1997-02-12T00:00:00",
+            "country": "Azurionix",
+            "type": "Entity.Person",
+            "id": "Rachael Wilson"
+        },
+        {
+            "dob": "1985-03-14T00:00:00",
+            "country": "Islavaragon",
+            "type": "Entity.Person",
+            "id": "Brian Bowers"
+        },
+        {
+            "dob": "1994-02-13T00:00:00",
+            "country": "Novarcticaa",
+            "type": "Entity.Person",
+            "id": "Brian Baxter"
+        },
+        {
+            "dob": "1980-09-08T00:00:00",
+            "country": "Rivenisla",
+            "type": "Entity.Person",
+            "id": "Maria Bell"
+        }
+    ],
+    "links": [
+        {
+            "start_date": "2033-05-20T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Knight-Hopkins",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2017-04-08T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Amy Perkins",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2019-09-04T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Chad Dawson",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2023-01-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Ricky Welch",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2023-06-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Wendy Perez",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-05-31T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "William Abbott",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2023-01-30T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "John Williams",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2024-06-09T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "John Williams",
+            "target": "Warner-Wheeler",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2034-11-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kevin Anderson",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2018-09-23T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Joseph Sandoval DDS",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-04-09T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Arthur Pennington",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2006-05-18T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Laurie Mitchell",
+            "target": "Singleton, Williams and Keller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2026-02-13T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Alexander Wood",
+            "target": "Singleton, Williams and Keller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2023-08-07T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Scott Thomas",
+            "target": "Ferguson, Walker and Martinez",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2020-09-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Joseph Villanueva",
+            "target": "Knight-Hopkins",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2005-10-05T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Jeffrey Horton",
+            "target": "Morrison, Thompson and Mitchell",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-08-12T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Jordan Aguilar MD",
+            "target": "Ortiz-Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-03-03T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Paige Anderson",
+            "target": "Ferguson, Walker and Martinez",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Relationship.FamilyRelationship",
+            "source": "Paige Anderson",
+            "target": "Sherry Anderson",
+            "key": 0,
+            "start_date": "2015-03-03T00:00:00",
+            "end_date": null
+        },
+        {
+            "type": "Relationship.FamilyRelationship",
+            "source": "Paige Anderson",
+            "target": "Kevin Anderson",
+            "key": 0,
+            "start_date": "2015-03-03T00:00:00",
+            "end_date": null
+        },
+        {
+            "start_date": "2022-08-02T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Wendy Pace",
+            "target": "Ferguson, Walker and Martinez",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2026-11-18T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Gary Barr",
+            "target": "Ferguson, Walker and Martinez",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2009-07-14T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Margaret Camacho",
+            "target": "Ferguson, Walker and Martinez",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2009-09-21T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Breanna Blevins",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2009-04-29T00:00:00",
+            "source": "Breanna Blevins",
+            "target": "Johnson-Espinoza",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2020-11-14T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Breanna Blevins",
+            "target": "Morrison, Thompson and Mitchell",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2013-02-24T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Melanie Hurst",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2011-01-08T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Yolanda Case",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2009-07-06T00:00:00",
+            "source": "Yolanda Case",
+            "target": "Johnson-Espinoza",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2022-12-06T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Brianna Anderson",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2025-06-07T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Stephen Roy",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-07-07T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Victor Boyd",
+            "target": "Johnson-Espinoza",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2032-06-16T00:00:00",
+            "source": "Victor Boyd",
+            "target": "Johnson-Espinoza",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2013-08-22T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Joaqu\u00edn Juan Carlos Madrigal",
+            "target": "Knight-Hopkins",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2013-02-13T00:00:00",
+            "source": "Joaqu\u00edn Juan Carlos Madrigal",
+            "target": "Knight-Hopkins",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2026-08-03T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Deanna Craig",
+            "target": "Knight-Hopkins",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2025-08-21T00:00:00",
+            "source": "Deanna Craig",
+            "target": "Knight-Hopkins",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2034-07-18T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Breanna Smith",
+            "target": "Knight-Hopkins",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2009-08-21T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Vanessa Escobar",
+            "target": "Knight-Hopkins",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-05-23T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Jessica Collins",
+            "target": "Knight-Hopkins",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2016-10-29T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Jillian Byrd",
+            "target": "Morrison, Thompson and Mitchell",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2016-09-03T00:00:00",
+            "source": "Jillian Byrd",
+            "target": "Morrison, Thompson and Mitchell",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2008-05-25T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Brandon Snyder",
+            "target": "Morrison, Thompson and Mitchell",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2008-02-07T00:00:00",
+            "source": "Brandon Snyder",
+            "target": "Morrison, Thompson and Mitchell",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2019-06-21T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Roger Hall",
+            "target": "Morrison, Thompson and Mitchell",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2017-08-20T00:00:00",
+            "source": "Roger Hall",
+            "target": "Morrison, Thompson and Mitchell",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2012-06-20T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Todd Schmidt",
+            "target": "Morrison, Thompson and Mitchell",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2024-02-21T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Yvonne Schmidt",
+            "target": "Morrison, Thompson and Mitchell",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-01-22T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Yvonne Schmidt",
+            "target": "Singleton, Williams and Keller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2013-02-01T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Noah Gutierrez",
+            "target": "Morrison, Thompson and Mitchell",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-02-26T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Jason Baker",
+            "target": "Ortiz-Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2030-04-08T00:00:00",
+            "source": "Jason Baker",
+            "target": "Ortiz-Smith",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2017-06-19T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Christina Figueroa",
+            "target": "Ortiz-Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2017-02-23T00:00:00",
+            "source": "Christina Figueroa",
+            "target": "Ortiz-Smith",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2009-09-15T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Laura Freeman",
+            "target": "Ortiz-Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2009-06-03T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Trevor Bullock",
+            "target": "Ortiz-Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2030-08-31T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Sherry Anderson",
+            "target": "Ortiz-Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Relationship.FamilyRelationship",
+            "source": "Sherry Anderson",
+            "target": "Kevin Anderson",
+            "key": 0,
+            "start_date": "2030-08-31T00:00:00",
+            "end_date": null
+        },
+        {
+            "start_date": "2008-01-08T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Vanessa Stone",
+            "target": "Singleton, Williams and Keller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2018-03-16T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Stephanie Hubbard",
+            "target": "Singleton, Williams and Keller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2025-01-05T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Debbie Harrison",
+            "target": "Singleton, Williams and Keller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-12-19T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Carrie Chavez",
+            "target": "Singleton, Williams and Keller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2030-05-29T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Rachael Wilson",
+            "target": "Singleton, Williams and Keller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2029-08-28T00:00:00",
+            "source": "Rachael Wilson",
+            "target": "Singleton, Williams and Keller",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2018-10-17T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Brian Bowers",
+            "target": "Singleton, Williams and Keller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2016-12-07T00:00:00",
+            "source": "Brian Bowers",
+            "target": "Singleton, Williams and Keller",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2018-08-15T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Brian Baxter",
+            "target": "Singleton, Williams and Keller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2018-02-19T00:00:00",
+            "source": "Brian Baxter",
+            "target": "Singleton, Williams and Keller",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2017-08-28T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Maria Bell",
+            "target": "Singleton, Williams and Keller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2017-05-09T00:00:00",
+            "source": "Maria Bell",
+            "target": "Singleton, Williams and Keller",
+            "key": 1,
+            "end_date": null
+        }
+    ]
+}

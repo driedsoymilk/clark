@@ -1,0 +1,1128 @@
+{
+    "nodes": [
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Uzifrica",
+            "ProductServices": "Assembly and Sourcing, Electronic Component Kitting Specialists, PCB Build [source: freelance researcher]",
+            "PointOfContact": "Ronald Smith",
+            "HeadOfOrg": "Chloe Ortiz",
+            "founding_date": "1950-01-22T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Adams, Jones and Miranda is a leading provider of comprehensive assembly and sourcing services, specializing in electronic component kitting and PCB build solutions. With a strong focus on quality and reliability, the company offers a wide range of products and services to meet the diverse needs of its clients.",
+            "id": "Adams, Jones and Miranda",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Flexible packaging materials",
+            "PointOfContact": "Maria Ramirez",
+            "HeadOfOrg": "Giuliana Speri",
+            "founding_date": "2014-04-10T00:00:00",
+            "revenue": 97723.11,
+            "TradeDescription": "Brewer, Miller and Guzman specializes in the development and manufacture of innovative, high-quality flexible packaging materials for a variety of industries. Their products offer reliable protection and preservation of sensitive goods during transportation and storage.",
+            "id": "Brewer, Miller and Guzman",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Scott Mcpherson",
+            "HeadOfOrg": "Fernando Avila",
+            "founding_date": "1986-04-12T00:00:00",
+            "revenue": 13839.76,
+            "TradeDescription": "Unknown",
+            "id": "Lopez, Hess and Smith",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Cut and sew apparel from woven fabric and purchased knit fabric",
+            "PointOfContact": "Patrick Wilson",
+            "HeadOfOrg": "H\u00e9ctor Esquivel",
+            "founding_date": "2026-04-22T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Smith-Ramirez is a manufacturer of high-quality cut and sew apparel for men and women, utilizing both woven fabrics and purchased knit fabrics. Their products are known for their durability, comfort, and versatility, making them a popular choice for a wide range of customers.",
+            "id": "Smith-Ramirez",
+            "dob": null
+        },
+        {
+            "dob": "2006-03-06T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "David Waters"
+        },
+        {
+            "dob": "1978-08-30T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Arthur Carter"
+        },
+        {
+            "dob": "1999-12-23T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Steven Smith Jr."
+        },
+        {
+            "dob": "1979-04-08T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Terri Stein"
+        },
+        {
+            "dob": "1994-01-05T00:00:00",
+            "country": "Oceanus",
+            "type": "Entity.Person",
+            "id": "William Horne"
+        },
+        {
+            "dob": "1985-01-15T00:00:00",
+            "country": "Oceanus",
+            "type": "Entity.Person",
+            "id": "Matthew Hess"
+        },
+        {
+            "dob": "1982-05-24T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Frank Garcia"
+        },
+        {
+            "dob": "1982-06-06T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Vanessa Carr"
+        },
+        {
+            "dob": "1985-06-27T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Christopher Brooks"
+        },
+        {
+            "dob": "1994-11-24T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Catherine Pierce"
+        },
+        {
+            "dob": "1981-09-08T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Craig Jacobson"
+        },
+        {
+            "dob": "1987-06-28T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Jeffrey Oneal"
+        },
+        {
+            "dob": "1994-06-16T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Yesenia Robinson"
+        },
+        {
+            "dob": "1971-08-01T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Jennifer Salazar"
+        },
+        {
+            "dob": "1971-09-06T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Gregory Barnes"
+        },
+        {
+            "dob": "1985-11-01T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Heather Harris"
+        },
+        {
+            "dob": "1997-08-30T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Michael Barker"
+        },
+        {
+            "dob": "1998-10-03T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Lisa Valdez"
+        },
+        {
+            "dob": "1992-03-01T00:00:00",
+            "country": "Oceanus",
+            "type": "Entity.Person",
+            "id": "Anthony Gilbert"
+        },
+        {
+            "dob": "1987-10-31T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Cristian Sullivan"
+        },
+        {
+            "dob": "1985-06-12T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Richard Zimmerman"
+        },
+        {
+            "dob": "2002-09-11T00:00:00",
+            "country": "Uzifrica",
+            "type": "Entity.Person",
+            "id": "Christina Hughes"
+        },
+        {
+            "dob": "1987-03-01T00:00:00",
+            "country": "Nalakond",
+            "type": "Entity.Person",
+            "id": "Tina Taylor"
+        },
+        {
+            "dob": "2003-02-17T00:00:00",
+            "country": "Sirenareef",
+            "type": "Entity.Person",
+            "id": "Chloe Ortiz"
+        },
+        {
+            "dob": "1987-02-04T00:00:00",
+            "country": "Afarivaria",
+            "type": "Entity.Person",
+            "id": "Maria Ramirez"
+        },
+        {
+            "dob": "1973-11-09T00:00:00",
+            "country": "Oceanterra",
+            "type": "Entity.Person",
+            "id": "Scott Nolan"
+        },
+        {
+            "dob": "1978-03-26T00:00:00",
+            "country": "Ivarisia",
+            "type": "Entity.Person",
+            "id": "Larry Cooper"
+        },
+        {
+            "dob": "1991-06-06T00:00:00",
+            "country": "Isliandor",
+            "type": "Entity.Person",
+            "id": "Mary Carter"
+        },
+        {
+            "dob": "1990-02-21T00:00:00",
+            "country": "Kondanovia",
+            "type": "Entity.Person",
+            "id": "Brandon Osborne Jr."
+        },
+        {
+            "dob": "1982-06-01T00:00:00",
+            "country": "Valtalmo",
+            "type": "Entity.Person",
+            "id": "Donald Simmons"
+        },
+        {
+            "dob": "1971-10-27T00:00:00",
+            "country": "Alverovia",
+            "type": "Entity.Person",
+            "id": "Angel Black"
+        },
+        {
+            "dob": "1982-08-17T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Randy Mcgee"
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "TradeDescription": "Brewer, Miller and Guzman specializes in the development and manufacture of innovative, high-quality flexible packaging materials for a variety of industries. Their products offer reliable protection and preservation of sensitive goods during transportation and storage.",
+            "ProductServices": "Cut and sew apparel from woven fabric and purchased knit fabric",
+            "HeadOfOrg": "H\u00e9ctor Esquivel",
+            "founding_date": "2035-03-16T00:00:00",
+            "id": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "dob": null
+        }
+    ],
+    "links": [
+        {
+            "start_date": "2031-06-03T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "David Waters",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "David Waters",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "David Waters",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2021-03-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Arthur Carter",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Arthur Carter",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Arthur Carter",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-05-14T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Steven Smith Jr.",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Steven Smith Jr.",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Steven Smith Jr.",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2017-05-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Terri Stein",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Terri Stein",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Terri Stein",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2028-09-28T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "William Horne",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-01-01T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "William Horne",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "William Horne",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "William Horne",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-02-18T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Matthew Hess",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-09-02T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Matthew Hess",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Matthew Hess",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Matthew Hess",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2007-10-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Frank Garcia",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-08-23T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Frank Garcia",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Frank Garcia",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Frank Garcia",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2018-06-30T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Vanessa Carr",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-12-14T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Vanessa Carr",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Vanessa Carr",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Vanessa Carr",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-07-06T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Christopher Brooks",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-03-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Christopher Brooks",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Christopher Brooks",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Christopher Brooks",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2022-11-20T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Catherine Pierce",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-10-30T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Catherine Pierce",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Catherine Pierce",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Catherine Pierce",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2022-03-27T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Craig Jacobson",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-08-13T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Craig Jacobson",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Craig Jacobson",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Craig Jacobson",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2018-05-26T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Jeffrey Oneal",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-07-27T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Jeffrey Oneal",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Jeffrey Oneal",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Jeffrey Oneal",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2012-10-22T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Yesenia Robinson",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2028-06-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Yesenia Robinson",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Yesenia Robinson",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Yesenia Robinson",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2028-07-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Jennifer Salazar",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2034-08-22T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Jennifer Salazar",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Jennifer Salazar",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Jennifer Salazar",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2010-04-18T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Gregory Barnes",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-04-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Gregory Barnes",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Gregory Barnes",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Gregory Barnes",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2009-06-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Heather Harris",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-07-18T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Heather Harris",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Heather Harris",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Heather Harris",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2024-01-22T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Michael Barker",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2030-08-13T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Michael Barker",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Michael Barker",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Michael Barker",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2020-07-31T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Lisa Valdez",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-08-12T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Lisa Valdez",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Lisa Valdez",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Lisa Valdez",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2012-03-30T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Anthony Gilbert",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-02-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Anthony Gilbert",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Anthony Gilbert",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2007-10-22T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Anthony Gilbert",
+            "target": "Adams, Jones and Miranda",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Anthony Gilbert",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2022-11-04T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Cristian Sullivan",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-03-14T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Cristian Sullivan",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Cristian Sullivan",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Cristian Sullivan",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-05-22T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Richard Zimmerman",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2030-12-03T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Richard Zimmerman",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Richard Zimmerman",
+            "target": "Smith-Ramirez",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Richard Zimmerman",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2021-05-18T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Christina Hughes",
+            "target": "Adams, Jones and Miranda",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2012-09-27T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Tina Taylor",
+            "target": "Adams, Jones and Miranda",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2024-03-26T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Chloe Ortiz",
+            "target": "Adams, Jones and Miranda",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-06-07T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Maria Ramirez",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Maria Ramirez",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Maria Ramirez",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-05-20T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Scott Nolan",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Scott Nolan",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2029-10-29T00:00:00",
+            "source": "Scott Nolan",
+            "target": "Brewer, Miller and Guzman",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Scott Nolan",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2016-09-07T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Larry Cooper",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Larry Cooper",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Larry Cooper",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2021-09-17T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Mary Carter",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Mary Carter",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Mary Carter",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2025-11-05T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Brandon Osborne Jr.",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Brandon Osborne Jr.",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2024-01-26T00:00:00",
+            "source": "Brandon Osborne Jr.",
+            "target": "Brewer, Miller and Guzman",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Brandon Osborne Jr.",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2016-08-27T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Donald Simmons",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Donald Simmons",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Donald Simmons",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2019-06-08T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Angel Black",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "start_date": "2035-03-16T00:00:00",
+            "type": "Endof.Event.Owns.Shareholdership",
+            "end_date": "2035-03-16T00:00:00",
+            "source": "Angel Black",
+            "target": "Brewer, Miller and Guzman",
+            "key": 0
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2017-06-23T00:00:00",
+            "source": "Angel Black",
+            "target": "Brewer, Miller and Guzman",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-03-16T00:00:00",
+            "source": "Angel Black",
+            "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2026-02-16T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Randy Mcgee",
+            "target": "Lopez, Hess and Smith",
+            "key": 0,
+            "end_date": null
+        }
+    ]
+}

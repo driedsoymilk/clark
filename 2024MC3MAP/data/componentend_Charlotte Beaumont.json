@@ -1,0 +1,360 @@
+{
+    "nodes": [
+        {
+            "country": "Oceanus",
+            "ProductServices": "Full-service cargo transportation logistics management services",
+            "PointOfContact": "Laura Lawson",
+            "HeadOfOrg": "Robert Morris",
+            "founding_date": "2031-01-10T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 67813.08,
+            "TradeDescription": "Full-service cargo transportation logistics management services",
+            "id": "6. America Transit Plc",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Freight and shipping services",
+            "PointOfContact": "Anya Singh-Hernandez",
+            "HeadOfOrg": "Laura Beck",
+            "founding_date": "2029-02-10T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 99637.28,
+            "TradeDescription": "Delivering seamless freight and shipping solutions tailored to meet the diverse logistical needs of businesses worldwide, ensuring timely and efficient transportation of goods across borders and continents.",
+            "id": "Dutch Bill America Line AB",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Seafood products",
+            "PointOfContact": "Alyssa Miller",
+            "HeadOfOrg": "Cole Fox",
+            "founding_date": "2034-10-09T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 5674.76,
+            "TradeDescription": "Offering a diverse selection of premium seafood products, sourced responsibly and delivered fresh to meet the discerning tastes of seafood enthusiasts worldwide.",
+            "id": "Irtysh Creek Logistics Inc",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Freight and shipping services",
+            "PointOfContact": "Andrea Obrien",
+            "HeadOfOrg": "Mark Williams",
+            "founding_date": "2031-06-13T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 22654.63,
+            "TradeDescription": "Providing comprehensive freight and shipping solutions tailored to streamline logistics for businesses of all sizes, ensuring efficient transportation of goods across borders and continents with reliability and precision.",
+            "id": "KareliansLeska Holdings OJSC",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Anya Singh-Hernandez",
+            "HeadOfOrg": "David Fisher",
+            "founding_date": "2033-02-15T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 47347.83,
+            "TradeDescription": "Providing a comprehensive range of high-quality fish and seafood products sourced sustainably from pristine waters, catering to culinary enthusiasts and businesses with a passion for exceptional taste and freshness.",
+            "id": "MonarchCreek Shipping S.p.A.",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Prepared fresh or frozen fish and seafood products",
+            "PointOfContact": "Kofi Petrov",
+            "HeadOfOrg": "Andrea Lewis",
+            "founding_date": "2032-09-14T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 506391.97,
+            "TradeDescription": "Specializing in expertly prepared, fresh or frozen fish and seafood products, offering convenient and delicious solutions to satisfy the discerning tastes of seafood lovers everywhere.",
+            "id": "NortheastSeafood Carriers",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Tuna, sword fish, bass, trout, and salmon, as well as offers shellfish, mollusks, crustaceans, sea vegetables, shrimp, lobster, squid, oysters, crabs, and clams, and other related seafood products",
+            "PointOfContact": "Charlotte Beaumont",
+            "HeadOfOrg": "Michelle Rivera MD",
+            "founding_date": "2030-09-18T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 68587.14,
+            "TradeDescription": "Your premier destination for an extensive selection of top-quality seafood products, ranging from tuna, swordfish, bass, trout, and salmon to an array of shellfish, mollusks, crustaceans, sea vegetables, shrimp, lobster, squid, oysters, crabs, clams, and more, ensuring unparalleled freshness and variety for every culinary need.",
+            "id": "PregolyaDredge Logistics Incorporated",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Seafood products",
+            "PointOfContact": "Kofi Petrov",
+            "HeadOfOrg": "Rachael Stafford",
+            "founding_date": "2033-08-17T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 10064.25,
+            "TradeDescription": "Offering a diverse selection of premium seafood products sourced globally, committed to delivering unparalleled freshness and quality to meet the culinary needs of customers worldwide.",
+            "id": "Sparmans Marine Carriers Oyj",
+            "dob": null
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1990-04-29T00:00:00",
+            "country": "Oceanus",
+            "id": "Akira Hernandez"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2001-03-30T00:00:00",
+            "country": "Oceanus",
+            "id": "Charlotte Beaumont"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2011-02-24T00:00:00",
+            "country": "Oceanus",
+            "id": "Samuel Mitchell-Lamontagne"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1982-10-21T00:00:00",
+            "country": "Oceanus",
+            "id": "Lily Baker-Mercier"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2012-05-29T00:00:00",
+            "country": "Oceanus",
+            "id": "Anya Singh-Hernandez"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1998-09-23T00:00:00",
+            "country": "Oceanus",
+            "id": "Samuel Hernandez"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1977-06-30T00:00:00",
+            "country": "Oceanus",
+            "id": "Kofi Petrov"
+        }
+    ],
+    "links": [
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2032-09-14T00:00:00",
+            "source": "Dutch Bill America Line AB",
+            "target": "NortheastSeafood Carriers",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2034-10-09T00:00:00",
+            "source": "Irtysh Creek Logistics Inc",
+            "target": "MonarchCreek Shipping S.p.A.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2033-08-17T00:00:00",
+            "source": "KareliansLeska Holdings OJSC",
+            "target": "Sparmans Marine Carriers Oyj",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2034-10-09T00:00:00",
+            "source": "PregolyaDredge Logistics Incorporated",
+            "target": "Irtysh Creek Logistics Inc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2030-09-18T00:00:00",
+            "source": "PregolyaDredge Logistics Incorporated",
+            "target": "Dutch Bill America Line AB",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2031-06-13T00:00:00",
+            "source": "PregolyaDredge Logistics Incorporated",
+            "target": "KareliansLeska Holdings OJSC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2031-01-10T00:00:00",
+            "source": "PregolyaDredge Logistics Incorporated",
+            "target": "6. America Transit Plc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2030-09-18T00:00:00",
+            "source": "Akira Hernandez",
+            "target": "PregolyaDredge Logistics Incorporated",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2030-09-18T00:00:00",
+            "source": "Akira Hernandez",
+            "target": "PregolyaDredge Logistics Incorporated",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2030-09-18T00:00:00",
+            "source": "Akira Hernandez",
+            "target": "PregolyaDredge Logistics Incorporated",
+            "key": 2,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2034-10-09T00:00:00",
+            "source": "Akira Hernandez",
+            "target": "Irtysh Creek Logistics Inc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2029-02-10T00:00:00",
+            "source": "Akira Hernandez",
+            "target": "Dutch Bill America Line AB",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2031-06-13T00:00:00",
+            "source": "Akira Hernandez",
+            "target": "KareliansLeska Holdings OJSC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2033-02-15T00:00:00",
+            "source": "Akira Hernandez",
+            "target": "MonarchCreek Shipping S.p.A.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2032-09-14T00:00:00",
+            "source": "Akira Hernandez",
+            "target": "NortheastSeafood Carriers",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2033-08-17T00:00:00",
+            "source": "Akira Hernandez",
+            "target": "Sparmans Marine Carriers Oyj",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2030-09-18T00:00:00",
+            "source": "Charlotte Beaumont",
+            "target": "PregolyaDredge Logistics Incorporated",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2030-09-18T00:00:00",
+            "source": "Samuel Mitchell-Lamontagne",
+            "target": "PregolyaDredge Logistics Incorporated",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2034-10-09T00:00:00",
+            "source": "Lily Baker-Mercier",
+            "target": "Irtysh Creek Logistics Inc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2034-10-09T00:00:00",
+            "source": "Lily Baker-Mercier",
+            "target": "Irtysh Creek Logistics Inc",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2033-02-15T00:00:00",
+            "source": "Lily Baker-Mercier",
+            "target": "MonarchCreek Shipping S.p.A.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2033-02-15T00:00:00",
+            "source": "Anya Singh-Hernandez",
+            "target": "MonarchCreek Shipping S.p.A.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2030-05-29T00:00:00",
+            "source": "Anya Singh-Hernandez",
+            "target": "Dutch Bill America Line AB",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2031-01-10T00:00:00",
+            "source": "Samuel Hernandez",
+            "target": "6. America Transit Plc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2031-01-10T00:00:00",
+            "source": "Samuel Hernandez",
+            "target": "6. America Transit Plc",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2032-09-14T00:00:00",
+            "source": "Kofi Petrov",
+            "target": "NortheastSeafood Carriers",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2033-08-17T00:00:00",
+            "source": "Kofi Petrov",
+            "target": "Sparmans Marine Carriers Oyj",
+            "key": 0,
+            "end_date": null
+        }
+    ]
+}

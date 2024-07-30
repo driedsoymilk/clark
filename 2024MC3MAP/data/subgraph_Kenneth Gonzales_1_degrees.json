@@ -1,0 +1,1838 @@
+{
+    "nodes": [
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Nalakond",
+            "ProductServices": "Offers a wide range of products that include beverages, fruits and vegetables, dairy and ice cream products, frozen food products, meat and meat products, dry groceries, bakery products, salad dressings and other related products",
+            "PointOfContact": "Kaitlyn Trevino",
+            "HeadOfOrg": "Roberto Soria Ochoa",
+            "founding_date": "1985-02-05T00:00:00",
+            "revenue": 147539.81,
+            "TradeDescription": "Adams-Byrd is a leading provider of high-quality food and beverage products, offering a diverse portfolio of brands and products to meet the needs of consumers across various channels. With a strong focus on innovation and sustainability, the company is committed to delivering great taste and nutrition to its customers.",
+            "id": "Adams-Byrd",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Wysterion",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Jacob Montgomery",
+            "HeadOfOrg": "Nathalie Labb\u00e9",
+            "founding_date": "2032-09-26T00:00:00",
+            "revenue": 7557.91,
+            "TradeDescription": "Unknown",
+            "id": "Alexander, Harris and Rhodes",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Owns and operates membership shopping warehouse clubs",
+            "PointOfContact": "Aaron Reed",
+            "HeadOfOrg": "Ugo Vergerio",
+            "founding_date": "1981-02-11T00:00:00",
+            "revenue": 4070759.67,
+            "TradeDescription": "Anderson, Smith and Weber is a multinational retail corporation that specializes in operating membership shopping warehouse clubs. The company's warehouse clubs offer a wide range of products at discounted prices, including groceries, electronics, home goods, and more.",
+            "id": "Anderson, Smith and Weber",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Arvaros",
+            "ProductServices": "Titanium and aluminum investment casting products",
+            "PointOfContact": "Donna Hines",
+            "HeadOfOrg": "Michael Ortega",
+            "founding_date": "1955-08-16T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Anderson-Vazquez is a leading manufacturer of high-quality titanium and aluminum investment casting products, catering to a diverse range of industries including aerospace, automotive, and industrial. With a strong focus on innovation and quality control, the company's state-of-the-art facilities and experienced workforce ensure consistent delivery of precision-engineered components.",
+            "id": "Anderson-Vazquez",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Specialises in metal rebuilding, emergent repair, high temperature sealing, and repair putties; wear resistant, low friction, and erosion resistant coatings; adhesives for precision fittings; structure and rubber bonding, anaerobic structure, cyanoacrylate, anaerobic retaining, UV structure, polyurethane, and modified silane adhesives; anaerobic thread lockers; anaerobic and silicone flanges, anaerobic threads, polyurethane, and modified silane sealants; and accessories, and dispensing robots and tools",
+            "PointOfContact": "Alyssa Jones",
+            "HeadOfOrg": "Dr. Rub\u00e9n Villa",
+            "founding_date": "1986-04-10T00:00:00",
+            "revenue": 83066.67,
+            "TradeDescription": "Andrade and Sons is a leading provider of specialized adhesives, coatings, and sealants for a variety of industries. Their product line includes high-performance materials for metal rebuilding, emergent repair, and high-temperature sealing, as well as wear-resistant, low-friction, and erosion-resistant coatings. They also offer a range of adhesives for precision fittings, structure and rubber bonding, and anaerobic thread lockers. Additionally, they provide accessories and dispensing robots and tools for efficient and precise application.",
+            "id": "Andrade and Sons",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.LogisticsCompany",
+            "country": "Arvaros",
+            "ProductServices": "Transportation of freight on all inland waterways, including intracoastal waterways",
+            "PointOfContact": "Christopher James",
+            "HeadOfOrg": "Vincenzo Jacuzzi",
+            "founding_date": "1991-02-18T00:00:00",
+            "revenue": 678551.15,
+            "TradeDescription": "Austin-Sutton is a leading provider of transportation services for freight on all inland waterways, including the intracoastal waterways. The company's fleet of vessels and experienced crew enable efficient and reliable transportation of goods across the region.",
+            "id": "Austin-Sutton",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Osterivaria",
+            "ProductServices": "Gelatines and other related chemical products",
+            "PointOfContact": "Ryan Jensen",
+            "HeadOfOrg": "Timoteo Guzm\u00e1n Olmos",
+            "founding_date": "1969-07-10T00:00:00",
+            "revenue": 89366.67,
+            "TradeDescription": "Baird, Simmons and Johnson is a leading manufacturer and supplier of high-quality gelatines and other specialty chemicals. The company's products are used in a wide range of applications, including food, pharmaceuticals, and cosmetics.",
+            "id": "Baird, Simmons and Johnson",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Nalakond",
+            "ProductServices": "Agricultural and medicinal chemicals, paints and varnishes, and plastics materials and basic forms and shapes",
+            "PointOfContact": "Daniel Harvey",
+            "HeadOfOrg": "Robin Holland",
+            "founding_date": "1997-04-02T00:00:00",
+            "revenue": 21566.67,
+            "TradeDescription": "Beasley, Willis and Griffith is a diversified manufacturer and supplier of various chemicals, coatings, and plastic materials. Their product line includes agricultural and medicinal chemicals, paints and varnishes, as well as plastics materials and basic forms and shapes.",
+            "id": "Beasley, Willis and Griffith",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Azurionix",
+            "ProductServices": "Polyurethanes; Other products ( specialty, semi-specialty chemical, and dye products for textiles including textile chemicals, heavy duty cleaning chemicals, degreasing spray cleaners, floor cleaners, kerosene substitute, rust remover, scale remover, and others)",
+            "PointOfContact": "Angela Watson",
+            "HeadOfOrg": "Lucy Mary",
+            "founding_date": "1985-01-06T00:00:00",
+            "revenue": 298597.28,
+            "TradeDescription": "Blackwell, Clark and Miller is a leading manufacturer of high-quality polyurethanes and a diverse range of specialty, semi-specialty chemicals and dye products for the textile industry. Their product portfolio includes heavy-duty cleaning chemicals, degreasing spray cleaners, floor cleaners, kerosene substitute, rust remover, scale remover, and other specialty products.",
+            "id": "Blackwell, Clark and Miller",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Adhesives (cyanoacrylate, UV curing, anaerobic, epoxy, methyl methacrylate, adhesive accelerator, adhesive remover, adhesive primer and medical adhesives); glue solutions; and adhesive equipment and adhesive packaging (LED UV curing lamps, LED UV curing floodlight, bottles and dosing tips)",
+            "PointOfContact": "Nicholas Kelly PhD",
+            "HeadOfOrg": "Paride Trezzini",
+            "founding_date": "1993-10-26T00:00:00",
+            "revenue": 7674.98,
+            "TradeDescription": "Brooks LLC is a leading manufacturer and supplier of high-quality adhesives and adhesive-related products, including cyanoacrylate, UV curing, anaerobic, epoxy, methyl methacrylate, adhesive accelerator, adhesive remover, adhesive primer, and medical adhesives. The company also offers a range of adhesive equipment and adhesive packaging solutions, such as LED UV curing lamps, LED UV curing floodlights, bottles, and dosing tips.",
+            "id": "Brooks LLC",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Kondanovia",
+            "ProductServices": "Rubber products, latex gloves and related protective solutions",
+            "PointOfContact": "Micheal Barr",
+            "HeadOfOrg": "Carla Cook",
+            "founding_date": "1986-12-05T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Carlson-Bell is a leading manufacturer of high-quality rubber products, including latex gloves and other protective solutions. With a focus on innovation and customer satisfaction, the company provides a wide range of products that are designed to meet the unique needs of various industries.",
+            "id": "Carlson-Bell",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Calabrand",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Mr. Scott Wells",
+            "HeadOfOrg": "Dott. Nicol\u00f2 Faggiani",
+            "founding_date": "2029-01-10T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Carlson-Ingram",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Arreciviento",
+            "ProductServices": "Repair and maintenance of commercial and industrial machinery and equipment",
+            "PointOfContact": "Timothy Webster",
+            "HeadOfOrg": "Jaime Micaela G\u00e1lvez Cardenas",
+            "founding_date": "1983-05-25T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Castillo, Gordon and Price is a leading provider of repair and maintenance services for commercial and industrial machinery and equipment. With a team of skilled technicians and state-of-the-art facilities, the company offers efficient and reliable solutions to keep equipment running smoothly and minimize downtime.",
+            "id": "Castillo, Gordon and Price",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Quornova",
+            "ProductServices": "Chemicals and allied products, such as acids, industrial and heavy chemicals, dyestuffs, industrial salts, rosin, and turpentine",
+            "PointOfContact": "Jesus Barber",
+            "HeadOfOrg": "Esperanza Ballesteros",
+            "founding_date": "2031-07-16T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Chapman, Myers and Decker is a leading provider of chemicals and allied products, including a wide range of acids, industrial and heavy chemicals, dyestuffs, industrial salts, rosin, and turpentine. The company's products are used in a variety of applications, including manufacturing, construction, and agriculture.",
+            "id": "Chapman, Myers and Decker",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Uzifrica",
+            "ProductServices": "Engineered electronic components, network solutions and wireless systems",
+            "PointOfContact": "Brendan Coffey",
+            "HeadOfOrg": "Thibault Gaillard",
+            "founding_date": "2029-01-01T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Chapman-Roman is a leading manufacturer and supplier of engineered electronic components, network solutions, and wireless systems. With a focus on innovation and quality, their products and services are designed to meet the evolving needs of a wide range of industries.",
+            "id": "Chapman-Roman",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.FishingCompany",
+            "country": "Arvaros",
+            "ProductServices": "Fresh pork and lamb meat; Smoked and cured meats, seafood, sausage, custom-cut meats, as well as specialty meat such as venison, and frozen portion-controlled products; Animal slaughtering and processing",
+            "PointOfContact": "Terry Dickson",
+            "HeadOfOrg": "Homero Anabel Villase\u00f1or Mungu\u00eda",
+            "founding_date": "1947-07-04T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Christensen, Smith and Garcia is a leading provider of high-quality meat products, including fresh pork and lamb, as well as smoked and cured meats, seafood, sausage, custom-cut meats, and specialty meats such as venison. The company's animal slaughtering and processing capabilities ensure that all products are handled with care and attention to detail, meeting the highest standards of quality and safety.",
+            "id": "Christensen, Smith and Garcia",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Jiraputra",
+            "ProductServices": "Grocery products, apparel, furniture, and appliances",
+            "PointOfContact": "Christopher Kramer",
+            "HeadOfOrg": "Adriano Antonetti",
+            "founding_date": "2011-12-14T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Collins, Thomas and Gordon is a diversified retailer offering a wide range of products and services to meet the everyday needs of its customers. The company operates a chain of grocery stores, clothing boutiques, furniture showrooms, and appliance centers across various locations, providing a one-stop shopping experience for its clientele.",
+            "id": "Collins, Thomas and Gordon",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Yggdrasonia",
+            "ProductServices": "Gelatine for use in confectionery, dairy, desserts, meats, fish, and pharmaceuticals",
+            "PointOfContact": "Elizabeth Tucker",
+            "HeadOfOrg": "Ram\u00f3n Hern\u00e1ndez Navarro",
+            "founding_date": "2024-04-06T00:00:00",
+            "revenue": 168815.56,
+            "TradeDescription": "Cunningham and Sons is a leading manufacturer of high-quality gelatine for a wide range of applications, including confectionery, dairy, desserts, meats, fish, and pharmaceuticals. Their gelatine products are known for their consistent texture and flavor, and are used by food manufacturers and pharmaceutical companies around the world.",
+            "id": "Cunningham and Sons",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Quornova",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Adam Abbott",
+            "HeadOfOrg": "Jeffrey Moss",
+            "founding_date": "1956-12-31T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Daniels, Green and Carrillo",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Chemicals and allied products",
+            "PointOfContact": "Tonya Ramirez",
+            "HeadOfOrg": "Jennifer Guzman",
+            "founding_date": "2030-03-22T00:00:00",
+            "revenue": 53700.47,
+            "TradeDescription": "Davis-Chen is a leading manufacturer and supplier of a wide range of chemicals and allied products, including specialty chemicals, agrochemicals, and pharmaceuticals. The company's product portfolio also includes materials for industrial applications, such as adhesives, coatings, and cleaning agents.",
+            "id": "Davis-Chen",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Osterivaria",
+            "ProductServices": "Cables and information technology smart cards",
+            "PointOfContact": "Christina Hernandez",
+            "HeadOfOrg": "Lindsay Barnett",
+            "founding_date": "1953-03-26T00:00:00",
+            "revenue": 26584.67,
+            "TradeDescription": "Dillon-Lewis is a leading manufacturer and supplier of high-quality cables and information technology smart cards. Their extensive product line includes a wide range of cables and smart cards designed to meet the diverse needs of various industries, from telecommunications to healthcare.",
+            "id": "Dillon-Lewis",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Quornova",
+            "ProductServices": "Biological and medical products; botanical drugs and herbs; and pharmaceutical products",
+            "PointOfContact": "Ryan Sanchez",
+            "HeadOfOrg": "Adrienne-Doroth\u00e9e Daniel",
+            "founding_date": "2011-10-28T00:00:00",
+            "revenue": 15766.67,
+            "TradeDescription": "Dixon LLC is a leading manufacturer and supplier of biological and medical products, including botanical drugs and herbs, and pharmaceutical products. The company's product portfolio includes a wide range of innovative and high-quality products that are used in various medical applications.",
+            "id": "Dixon LLC",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Footwear and foot care products that assist in restoring the foot's natural (neutral) alignment for men and women",
+            "PointOfContact": "Robert Anderson",
+            "HeadOfOrg": "Diane Jacquot",
+            "founding_date": "1949-01-15T00:00:00",
+            "revenue": 33866.67,
+            "TradeDescription": "Evans-Arellano is a manufacturer of footwear and foot care products that aim to restore the foot's natural alignment for both men and women. Their product line includes shoes, insoles, and other foot care items designed to promote proper foot function and alleviate discomfort.",
+            "id": "Evans-Arellano",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Uzifrica",
+            "ProductServices": "Engines and turbines",
+            "PointOfContact": "Angela Costa",
+            "HeadOfOrg": "Edward Cooper",
+            "founding_date": "2011-02-18T00:00:00",
+            "revenue": 16766.67,
+            "TradeDescription": "Foley-Martinez is a leading manufacturer of engines and turbines, offering a wide range of products for various industries. Their state-of-the-art technology and commitment to quality have made them a trusted name in the market.",
+            "id": "Foley-Martinez",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Uzifrica",
+            "ProductServices": "Adhesives, sealants, primers, cleaners and liquid coatings",
+            "PointOfContact": "Kimberly Rodriguez",
+            "HeadOfOrg": "Jorge Luis Amador Gonz\u00e1lez",
+            "founding_date": "2024-12-03T00:00:00",
+            "revenue": 48710.98,
+            "TradeDescription": "Foster Group is a leading manufacturer of high-quality adhesives, sealants, primers, cleaners, and liquid coatings for a variety of industries. With a focus on innovation and reliability, their products are designed to provide strong bonds, protect surfaces, and enhance the overall performance of various applications.",
+            "id": "Foster Group",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Osterivaria",
+            "ProductServices": "Gelatine",
+            "PointOfContact": "Ryan Jensen",
+            "HeadOfOrg": "Mtro. Guillermina Candelaria",
+            "founding_date": "1958-03-15T00:00:00",
+            "revenue": 99746.13,
+            "TradeDescription": "Francis and Sons is a leading manufacturer of high-quality gelatine products, offering a range of formulations for various industries, including food, pharmaceutical, and cosmetics. Their gelatine products are known for their consistent quality and versatility in application.",
+            "id": "Francis and Sons",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Osterivaria",
+            "ProductServices": "Metal tanks, vessels, and other containers",
+            "PointOfContact": "Adam Franklin",
+            "HeadOfOrg": "Paulette Bouvet Le Bousquet",
+            "founding_date": "1955-09-29T00:00:00",
+            "revenue": 389963.21,
+            "TradeDescription": "Gardner Inc. is a leading manufacturer of high-quality metal tanks, vessels, and other containers for a variety of industries. Their products are known for their durability, strength, and resistance to corrosion, making them ideal for storing and transporting a range of liquids and gases.",
+            "id": "Gardner Inc",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Standby power supplies",
+            "PointOfContact": "Abigail Blair",
+            "HeadOfOrg": "Travis Johnson",
+            "founding_date": "2003-03-03T00:00:00",
+            "revenue": 87987.35,
+            "TradeDescription": "Grant-Henderson is a leading manufacturer of high-quality standby power supplies, designed to provide reliable backup power for critical applications. Their products are known for their durability and efficiency, with a wide range of capacities and configurations available to meet the specific needs of various industries.",
+            "id": "Grant-Henderson",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Naraliket",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Brandon Sanchez",
+            "HeadOfOrg": "Calcedonio Terragni",
+            "founding_date": "1959-04-19T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Greer, Underwood and Noble",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Commercial lighting products",
+            "PointOfContact": "Terry Harper",
+            "HeadOfOrg": "Karen Lee",
+            "founding_date": "1956-07-26T00:00:00",
+            "revenue": 59172.75,
+            "TradeDescription": "Hamilton, Johnson, and Ballard is a leading provider of commercial lighting products, including high-quality fixtures, lamps, and controls for a variety of applications. Their product line offers energy-efficient solutions with advanced features and durable construction to meet the needs of businesses and institutions.",
+            "id": "Hamilton, Johnson and Ballard",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Gelatin",
+            "PointOfContact": "Scott Vaughn",
+            "HeadOfOrg": "Thomas Elliott",
+            "founding_date": "2013-06-17T00:00:00",
+            "revenue": 83666.67,
+            "TradeDescription": "Harris-Ingram is a leading manufacturer of high-quality gelatin products, offering a range of formulations for various applications in the food, pharmaceutical, and cosmetic industries. Their gelatin products are derived from carefully selected animal sources and undergo rigorous quality control measures to ensure consistent performance and safety.",
+            "id": "Harris-Ingram",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Nicholas Kelly PhD",
+            "HeadOfOrg": "C\u00e9cile Nguyen du Moulin",
+            "founding_date": "2018-09-11T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Hayes, Perkins and Harris",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Uzifrica",
+            "ProductServices": "Industrial spicers and seals",
+            "PointOfContact": "Timothy Green",
+            "HeadOfOrg": "Mirko Corcos",
+            "founding_date": "2014-06-16T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Heath-White is a leading manufacturer of high-quality industrial spicers and seals, catering to a wide range of industries including manufacturing, construction, and energy. With a focus on innovation and reliability, their products are designed to meet the demanding needs of their customers.",
+            "id": "Heath-White",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Adhesives and ancillary products",
+            "PointOfContact": "Alyssa Jones",
+            "HeadOfOrg": "Micheletto Farinelli",
+            "founding_date": "1997-08-23T00:00:00",
+            "revenue": 108666.67,
+            "TradeDescription": "Herrera, Garrison and Mays is a leading manufacturer of high-quality adhesives and related products, including epoxies, acrylics, and hot melt adhesives. The company's product line also includes application tools and equipment, as well as specialty adhesives for specific industries.",
+            "id": "Herrera, Garrison and Mays",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Mr. Eric Rivera",
+            "HeadOfOrg": "Thomas Hardy",
+            "founding_date": "1963-08-08T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Hess PLC",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Uzifrica",
+            "ProductServices": "Specialises in providing services to offshore drilling units to help find and develop oil and natural gas reserves",
+            "PointOfContact": "Jason Brown",
+            "HeadOfOrg": "Karen Lopez",
+            "founding_date": "1969-06-23T00:00:00",
+            "revenue": 51409.33,
+            "TradeDescription": "Holloway-Salas is a leading provider of offshore drilling services, offering expertise and technology to help discover and extract oil and natural gas reserves in remote locations around the world. With a strong focus on safety and efficiency, the company's team of experienced professionals works closely with clients to ensure successful drilling operations.",
+            "id": "Holloway-Salas",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Steven Thomas",
+            "HeadOfOrg": "Marie Poirier",
+            "founding_date": "2021-11-12T00:00:00",
+            "revenue": 7673.6,
+            "TradeDescription": "Unknown",
+            "id": "Hubbard and Sons",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Quirinelle",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Jasmine Delacruz",
+            "HeadOfOrg": "Ippazio Cundari",
+            "founding_date": "1967-03-28T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Hurley Inc",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Arvaros",
+            "ProductServices": "Adhesives and sealants",
+            "PointOfContact": "Johnny Brown",
+            "HeadOfOrg": "Alfred Fournier",
+            "founding_date": "1956-11-09T00:00:00",
+            "revenue": 235489.66,
+            "TradeDescription": "Jackson, Moore and Becker is a leading manufacturer of wind energy equipment, including turbines, blades, and towers. Their products are designed to harness the power of wind energy and convert it into clean, renewable electricity.",
+            "id": "Jackson, Nguyen and Gonzalez",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.LogisticsCompany",
+            "country": "Oceanus",
+            "ProductServices": "Freight transportation arrangement",
+            "PointOfContact": "Matthew Hicks",
+            "HeadOfOrg": "Elizabeth Hoffman",
+            "founding_date": "2030-10-10T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Jenkins Ltd is a leading food distributor specializing in providing high-quality products to HMART Group, one of the largest Asian-style chain supermarkets in the United States. With a wide range of products including fresh produce, meat, and packaged goods, Jenkins Ltd is committed to delivering exceptional service and reliability to its clients.",
+            "id": "Jenkins, Baker and Coleman",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Jessica Garrett",
+            "HeadOfOrg": "James Conner",
+            "founding_date": "1961-12-20T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Jimenez, Navarro and Smith",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Michelle Martinez",
+            "HeadOfOrg": "Gianni Barbarigo",
+            "founding_date": "2015-12-10T00:00:00",
+            "revenue": 12356.67,
+            "TradeDescription": "Unknown",
+            "id": "Johnson, Morales and Castro",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Courtney Schwartz",
+            "HeadOfOrg": "Esmeralda Eduardo Ba\u00f1uelos Chac\u00f3n",
+            "founding_date": "1991-01-28T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Johnson-Johnson",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Annette Lawson",
+            "HeadOfOrg": "Ilse Homero Ramos",
+            "founding_date": "1952-05-03T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Jones, Bailey and Murphy",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Arvaros",
+            "ProductServices": "Plastic packaging products",
+            "PointOfContact": "Patrick Douglas",
+            "HeadOfOrg": "Dr. Ramiro Figueroa",
+            "founding_date": "2032-02-14T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Jones, Foster, and Sanford is a leading manufacturer of high-quality plastic packaging products, including containers, bottles, and bags for a variety of industries. With a focus on innovation and sustainability, the company offers a range of solutions to meet the diverse needs of its customers.",
+            "id": "Jones, Foster and Sanford",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Steven Brennan",
+            "HeadOfOrg": "Esperanza Yeni Correa Salinas",
+            "founding_date": "2027-02-10T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Jones-Butler",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Operation of iron and steel mills involved in the direct reduction of iron ore; manufacturing pig iron in molten or solid form; converting pig iron into steel; manufacturing ferroalloys; and making steel and manufacturing shapes such as bar, plate, rod, sheet, strip, and wire",
+            "PointOfContact": "John Christensen",
+            "HeadOfOrg": "Amleto Argan",
+            "founding_date": "1986-09-25T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "King and Sons is a leading provider of iron and steel products and services, including the operation of mills for the direct reduction of iron ore, manufacturing of pig iron in molten or solid form, conversion of pig iron into steel, production of ferroalloys, and manufacturing of steel in various shapes. The company's commitment to quality and innovation has established it as a trusted supplier in the industry.",
+            "id": "King and Sons",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Azurionix",
+            "ProductServices": "Architectural services and engineering services",
+            "PointOfContact": "Ashley Cain",
+            "HeadOfOrg": "Rebecca Pearson",
+            "founding_date": "1985-10-01T00:00:00",
+            "revenue": 79111.26,
+            "TradeDescription": "Lucas-Potts is a leading provider of architectural and engineering services, offering comprehensive solutions for a wide range of clients. With a team of experienced professionals and state-of-the-art facilities, the company is committed to delivering high-quality and innovative designs that meet the unique needs of each client.",
+            "id": "Lucas-Potts",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Rio Isla",
+            "ProductServices": "Collagens and gelatines",
+            "PointOfContact": "Sandy Scott",
+            "HeadOfOrg": "Lic. Camila Guardado",
+            "founding_date": "2005-07-23T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Lucero, Payne, and Lucas is a leading manufacturer of high-quality collagens and gelatines, utilizing cutting-edge technology and rigorous quality control processes to ensure the highest standards of purity and consistency in their products. With a wide range of applications in the food, pharmaceutical, and cosmetic industries, their collagens and gelatines are renowned for their versatility and reliability.",
+            "id": "Lucero, Payne and Lucas",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Arvaros",
+            "ProductServices": "Plastic products",
+            "PointOfContact": "James Sparks",
+            "HeadOfOrg": "Pamela Terry",
+            "founding_date": "1964-12-30T00:00:00",
+            "revenue": 170666.67,
+            "TradeDescription": "Lynch, Johnson and Lawrence is a leading manufacturer of high-quality plastic products, including injection-molded components, extruded profiles, and blow-molded containers. The company's state-of-the-art facilities and experienced workforce enable it to produce a wide range of products for various industries, from consumer goods to industrial equipment.",
+            "id": "Lynch, Johnson and Lawrence",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Grocery, frozen, dairy, meat, produce, and non food items",
+            "PointOfContact": "Joseph Randall",
+            "HeadOfOrg": "Lic. Renato God\u00ednez",
+            "founding_date": "1948-07-31T00:00:00",
+            "revenue": 754666.67,
+            "TradeDescription": "Martin-Payne is a retailer of various grocery items, including frozen, dairy, meat, produce, and non-food items. The company operates a chain of stores across the region, providing a wide range of products to meet the daily needs of its customers.",
+            "id": "Martin-Payne",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Dual chamber diaphragm pumps for use without power, surge suppressors, filter press systems, and stroke counters",
+            "PointOfContact": "Rhonda Blackburn",
+            "HeadOfOrg": "Eric Santiago",
+            "founding_date": "1952-04-20T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Mays LLC is a leading manufacturer of high-quality, specialized fluid handling equipment, including dual chamber diaphragm pumps for use without power, surge suppressors, filter press systems, and stroke counters. With a focus on innovation and reliability, Mays LLC offers a range of solutions for various industries, including chemical processing, oil and gas, and pharmaceuticals.",
+            "id": "Mays LLC",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Carl Johns",
+            "HeadOfOrg": "Lucrezia Sraffa-Dossi",
+            "founding_date": "1959-05-17T00:00:00",
+            "revenue": 6297.32,
+            "TradeDescription": "Unknown",
+            "id": "Michael Ltd",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Joseph Randall",
+            "HeadOfOrg": "Ilse Z\u00fa\u00f1iga Espino",
+            "founding_date": "1991-05-04T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Miller-Russo",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Products via mail order houses",
+            "PointOfContact": "Shane Kelly",
+            "HeadOfOrg": "Mar\u00eda Cristina Uriel Heredia Guevara",
+            "founding_date": "1987-10-04T00:00:00",
+            "revenue": 9891666.67,
+            "TradeDescription": "Mitchell-Glover is a company that specializes in providing a wide range of products to customers through various mail order houses. The company's product offerings include everything from clothing and accessories to home goods and electronics, with new items added to their catalogue regularly.",
+            "id": "Mitchell-Glover",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Quirinelle",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Alexis Martin",
+            "HeadOfOrg": "Elias Ivonne Valles de la Cr\u00faz",
+            "founding_date": "1950-07-22T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Morales-Smith",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Matthew Hicks",
+            "HeadOfOrg": "Samuel Taylor",
+            "founding_date": "1960-10-21T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Morrison-Zamora",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Jiraputra",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Emily Finley",
+            "HeadOfOrg": "Mark Gibson",
+            "founding_date": "1995-05-24T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Murillo, House and Green",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Measuring, compounding, extruding, and pelletizing equipment",
+            "PointOfContact": "Thomas Adams",
+            "HeadOfOrg": "Dott. Ramona Delle",
+            "founding_date": "1989-12-20T00:00:00",
+            "revenue": 85098.64,
+            "TradeDescription": "Norton-Jones is a leading manufacturer of precision measuring, compounding, extruding, and pelletizing equipment for various industries. Their products are designed to provide accurate and consistent results, ensuring reliable performance and quality in the production process.",
+            "id": "Norton-Jones",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Zambarka",
+            "ProductServices": "Children's accessories, desk accessories, dry erase cleaners, and dry erase erasers; art pencils and accessories; art drawing products; and erasers, highlighters, liquid paper corrections, markers and transparency markers, pencils, refills, pens, presentation products, sets, and kits",
+            "PointOfContact": "Julie Gregory",
+            "HeadOfOrg": "Ryan Smith",
+            "founding_date": "1968-12-23T00:00:00",
+            "revenue": 90966.67,
+            "TradeDescription": "Olsen, Davis and Thompson is a leading manufacturer and supplier of a wide range of products for children and adults, including high-quality art supplies, office accessories, and educational tools. Their products are known for their durability, reliability, and affordability, making them a popular choice among consumers.",
+            "id": "Olsen, Davis and Thompson",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Precision-engineered flow control equipment",
+            "PointOfContact": "Sharon Griffin",
+            "HeadOfOrg": "Santino Costalonga",
+            "founding_date": "1984-02-27T00:00:00",
+            "revenue": 3619786.67,
+            "TradeDescription": "Orr Inc. is a leading manufacturer of high-quality flow control equipment, utilizing cutting-edge precision engineering techniques to deliver reliable and efficient solutions for a variety of industries. Their products are known for their durability and accuracy, and are used in a range of applications, from oil and gas production to chemical processing.",
+            "id": "Orr Inc",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Azurionix",
+            "ProductServices": "Automotive and industrial transmission gears and gear boxes",
+            "PointOfContact": "Kari Morris",
+            "HeadOfOrg": "Morena Mercadante-Schiaparelli",
+            "founding_date": "1959-07-27T00:00:00",
+            "revenue": 67166.67,
+            "TradeDescription": "Ortiz, Mccormick and Smith is a leading manufacturer of high-quality automotive and industrial transmission gears and gear boxes. Their products are known for their durability, reliability, and efficiency, and are used in a wide range of applications, including heavy-duty trucks, construction equipment, and industrial machinery.",
+            "id": "Ortiz, Mccormick and Smith",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Yggdrasonia",
+            "ProductServices": "FOAMGLAS",
+            "PointOfContact": "Michael Bell",
+            "HeadOfOrg": "Sean Cohen",
+            "founding_date": "2029-01-28T00:00:00",
+            "revenue": 104666.67,
+            "TradeDescription": "Owens, Barnes and Rose is a leading manufacturer of FOAMGLAS products, which are lightweight, durable, and versatile materials used in a variety of applications. Their FOAMGLAS products offer excellent insulation and thermal resistance, making them ideal for use in construction, automotive, and industrial applications.",
+            "id": "Owens, Barnes and Rose",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Measuring and controlling devices",
+            "PointOfContact": "Christopher Coleman",
+            "HeadOfOrg": "Luchino Cimarosa",
+            "founding_date": "1991-01-09T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Palmer LLC is a leading manufacturer and supplier of high-quality measuring and controlling devices for a variety of industries. Their product line includes precision measuring tools, flow control systems, and automation solutions, all designed to improve efficiency and accuracy in the workplace.",
+            "id": "Palmer LLC",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Environment pollution prevention and control special equipment",
+            "PointOfContact": "Darrell Eaton",
+            "HeadOfOrg": "Amy Miller",
+            "founding_date": "1945-10-31T00:00:00",
+            "revenue": 21018.47,
+            "TradeDescription": "Phillips, Jones and Daniels is a leading provider of innovative environmental pollution prevention and control special equipment for various industries. Their state-of-the-art technology and expert engineering ensure effective solutions for reducing waste and emissions, promoting sustainability, and protecting the environment.",
+            "id": "Phillips, Jones and Daniels",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Khamposa",
+            "ProductServices": "Aircraft parts and auxiliary equipment",
+            "PointOfContact": "Richard Edwards",
+            "HeadOfOrg": "Mar\u00eda Jaramillo Hinojosa",
+            "founding_date": "1994-05-20T00:00:00",
+            "revenue": 85866.67,
+            "TradeDescription": "Pineda-Clark is a leading manufacturer and supplier of aircraft parts and auxiliary equipment, offering a wide range of high-quality products to the aviation industry. Their product line includes engine components, landing gear systems, and avionics equipment, among others.",
+            "id": "Pineda-Clark",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Faraluna",
+            "ProductServices": "Meat and meat products",
+            "PointOfContact": "Brian Cross",
+            "HeadOfOrg": "Dalia Carla Zepeda",
+            "founding_date": "1999-04-16T00:00:00",
+            "revenue": 721295.06,
+            "TradeDescription": "Ramirez-Brandt is a leading provider of high-quality meat and meat products, offering a wide range of options to suit various tastes and preferences. With a focus on sustainability and ethical sourcing, the company prides itself on delivering premium products that meet the highest standards of quality and safety.",
+            "id": "Ramirez-Brandt",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Julie Brooks",
+            "HeadOfOrg": "Liliana Antelami",
+            "founding_date": "1993-11-03T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Ramos, Jordan and Stewart",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Custom engineered ropes, cables, fiber optics, and assemblies",
+            "PointOfContact": "Pamela Anderson",
+            "HeadOfOrg": "Piero Ruggieri",
+            "founding_date": "1966-07-01T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Richardson-Orozco is a leading manufacturer of custom engineered ropes, cables, fiber optics, and assemblies, providing reliable and durable solutions for a wide range of industries and applications. With a commitment to quality and innovation, the company's products are designed to meet the unique needs of its customers, ensuring optimal performance and safety.",
+            "id": "Richardson-Orozco",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Paint, coating, and adhesive products",
+            "PointOfContact": "Austin Rowe",
+            "HeadOfOrg": "Augustin Andre",
+            "founding_date": "2023-06-06T00:00:00",
+            "revenue": 70166.67,
+            "TradeDescription": "Rivas-Page is a leading manufacturer of high-quality paint, coating, and adhesive products for various industries. Their product line includes a wide range of formulations designed to meet specific performance requirements, offering superior durability, finish, and versatility.",
+            "id": "Rivas-Page",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Uzifrica",
+            "ProductServices": "Project management, engineering design, subsea pipeline laying, construction and maintenance work, and subsea pipelines and umbilicals",
+            "PointOfContact": "Morgan Ross",
+            "HeadOfOrg": "Cristina Treves",
+            "founding_date": "2021-03-05T00:00:00",
+            "revenue": 645128.93,
+            "TradeDescription": "Rodriguez-Fox is a leading provider of project management, engineering design, and construction services for a variety of industries, including energy and infrastructure. With a focus on subsea pipeline laying and maintenance work, the company has established a reputation for delivering high-quality, reliable solutions to clients around the world.",
+            "id": "Rodriguez-Fox",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Naraliket",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Angel Cross",
+            "HeadOfOrg": "Israel Ger\u00f3nimo Fr\u00edas Y\u00e1\u00f1ez",
+            "founding_date": "1989-06-02T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Ross, Cummings and Harris",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Gelatin products",
+            "PointOfContact": "Mary Barber",
+            "HeadOfOrg": "Fr\u00e9d\u00e9rique Rodrigues",
+            "founding_date": "2019-06-24T00:00:00",
+            "revenue": 108190.62,
+            "TradeDescription": "Russell and Sons is a leading manufacturer of high-quality gelatin products, including gelatin sheets, powdered gelatin, and flavored gelatin. Their products are used in a variety of applications, such as desserts, marshmallows, and pharmaceuticals.",
+            "id": "Russell and Sons",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Design, production and product management services",
+            "PointOfContact": "Jessica Medina",
+            "HeadOfOrg": "Camillo Sokolov",
+            "founding_date": "1949-01-27T00:00:00",
+            "revenue": 3011371.28,
+            "TradeDescription": "Ryan-Steele is a full-service design, production, and product management company that offers a wide range of services to help businesses bring their ideas to life. With expertise in various industries, they provide comprehensive solutions to meet the unique needs of their clients.",
+            "id": "Ryan-Steele",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Arvaros",
+            "ProductServices": "Chainsaws, citrus processing machinery, refrigeration equipment, conveyor systems, industrial cranes, derricks, industrial diesel engines, elevators, ladders, lift trucks, machine and machinists' tools, oil refining machines, packing machinery, industrial paint spray equipment, wood pulp manufacturing machinery, industrial pumps and pumping equipment, industrial sewing machines, shoe manufacturing and repairing machinery, smelting machinery, welding machinery, and winches",
+            "PointOfContact": "Maria Ford",
+            "HeadOfOrg": "Santiago Ofelia Barrios Tirado",
+            "founding_date": "2013-06-11T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Sandoval-Hill is a leading manufacturer and supplier of a diverse range of industrial equipment and machinery, including chainsaws, citrus processing machinery, refrigeration equipment, conveyor systems, industrial cranes, derricks, industrial diesel engines, elevators, ladders, lift trucks, machine and machinists' tools, oil refining machines, packing machinery, industrial paint spray equipment, wood pulp manufacturing machinery, industrial pumps and pumping equipment, industrial sewing machines, shoe manufacturing and repairing machinery, smelting machinery, welding machinery, and winches. With a strong commitment to quality and innovation, Sandoval-Hill has established itself as a trusted name in the industry, catering to a wide range of customers across various sectors.",
+            "id": "Sandoval-Hill",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Water transportation",
+            "PointOfContact": "Nathan Bennett",
+            "HeadOfOrg": "Dott. Lilla Luxardo",
+            "founding_date": "1960-11-26T00:00:00",
+            "revenue": 208905.17,
+            "TradeDescription": "Santana, Barajas, and Matthews is a water transportation company that specializes in providing safe and efficient transportation services for various industries, including oil, gas, and mining. With a fleet of modern and well-maintained vessels, the company offers a range of services, including towing, barge transportation, and offshore support.",
+            "id": "Santana, Barajas and Matthews",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Naraliket",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Jacob Johnson",
+            "HeadOfOrg": "Zo\u00e9 Delattre",
+            "founding_date": "1976-07-01T00:00:00",
+            "revenue": 4766.67,
+            "TradeDescription": "Unknown",
+            "id": "Smith, Ford and Jones",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Arvaros",
+            "ProductServices": "Clipping machines and clips",
+            "PointOfContact": "Jessica Mckinney",
+            "HeadOfOrg": "Bernard Pinto",
+            "founding_date": "2028-02-18T00:00:00",
+            "revenue": 64166.67,
+            "TradeDescription": "Smith, Irwin and Chase is a leading manufacturer of high-quality clipping machines and clips, designed to meet the needs of various industries. Their products are known for their durability and efficiency, making them a popular choice among professionals.",
+            "id": "Smith, Irwin and Chase",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Quornova",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Christina Johnson DDS",
+            "HeadOfOrg": "Melissa Morrocco-Visconti",
+            "founding_date": "1999-10-19T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Smith-Obrien",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Yggdrasonia",
+            "ProductServices": "Plastic meshes to protect pipes and pipelines from rocks when backfilled; cathodic protection products; visco-elastic solutions to protect assets from corrosion and water ingress; cold-applied and fused tape products; single wrap pipeline coating systems; coatings for metal pipes; and liquid coating products",
+            "PointOfContact": "Jodi Martinez",
+            "HeadOfOrg": "Morena Sagnelli",
+            "founding_date": "2033-09-29T00:00:00",
+            "revenue": 45451.59,
+            "TradeDescription": "Smith-Robertson is a leading manufacturer and supplier of innovative solutions for protecting pipes and pipelines from corrosion and water ingress. Their product range includes plastic meshes, cathodic protection products, visco-elastic solutions, cold-applied and fused tape products, single wrap pipeline coating systems, coatings for metal pipes, and liquid coating products. With a focus on quality and reliability, Smith-Robertson's products are designed to provide long-lasting protection for assets in various industries.",
+            "id": "Smith-Robertson",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.LogisticsCompany",
+            "country": "Naraliket",
+            "ProductServices": "Transportation, logistics, and financial services",
+            "PointOfContact": "Marie Watson",
+            "HeadOfOrg": "Lauren Vang",
+            "founding_date": "1952-11-28T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Snow Inc. is a multinational corporation that provides a diverse range of transportation, logistics, and financial services. With a strong presence in over 20 countries, Snow Inc. offers a comprehensive portfolio of solutions designed to meet the evolving needs of its clients.",
+            "id": "Snow Inc",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Imazam",
+            "ProductServices": "Electronics design, production, and product management services to global electronics and technology companies",
+            "PointOfContact": "Michael Hale",
+            "HeadOfOrg": "Dott. Adamo Napolitano",
+            "founding_date": "2032-04-15T00:00:00",
+            "revenue": 898345.22,
+            "TradeDescription": "Stephens-Lopez is a leading provider of electronic design, production, and product management services to major electronics and technology companies worldwide. With a focus on innovation and quality, the company's expert engineers and project managers work closely with clients to deliver cutting-edge solutions that meet their evolving needs.",
+            "id": "Stephens-Lopez",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Uzifrica",
+            "ProductServices": "Bone ash, natural calcium phosphate, feldspar and prepared bone china bodies",
+            "PointOfContact": "Christopher Sanders",
+            "HeadOfOrg": "Aurelio Soria Estrada",
+            "founding_date": "2011-02-24T00:00:00",
+            "revenue": 14666.67,
+            "TradeDescription": "Sullivan, Montgomery and Jackson is a leading supplier of high-quality ceramic materials, including bone ash, natural calcium phosphate, feldspar, and prepared bone china bodies. The company's products are used in a variety of applications, such as the manufacture of ceramic tiles, pottery, and other ceramic products.",
+            "id": "Sullivan, Montgomery and Jackson",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Yggdrasonia",
+            "ProductServices": "Barcode and label printers, print systems, labels, and thermal transfer foil; Label design software and services",
+            "PointOfContact": "Scott Arnold",
+            "HeadOfOrg": "Lee Powell",
+            "founding_date": "1950-08-23T00:00:00",
+            "revenue": 196106.06,
+            "TradeDescription": "Thomas-Edwards is a leading manufacturer and supplier of barcode and label printing solutions, including printers, print systems, labels, and thermal transfer foil. The company's product portfolio also includes label design software and services, catering to various industries such as retail, healthcare, and logistics.",
+            "id": "Thomas-Edwards",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Jennifer Oconnor",
+            "HeadOfOrg": "Tammy Collins",
+            "founding_date": "2021-01-04T00:00:00",
+            "revenue": 12392.45,
+            "TradeDescription": "Unknown",
+            "id": "Thompson-Thornton",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Gavanovia",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Veronica Dennis",
+            "HeadOfOrg": "Giosu\u00e8 Vianello",
+            "founding_date": "2011-06-24T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Walker LLC",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Isla Solmar",
+            "ProductServices": "Gelatine production processing, with each production step strictly and carefully controlled to meet specifications",
+            "PointOfContact": "Elizabeth Miller",
+            "HeadOfOrg": "Dulce Arias",
+            "founding_date": "1963-05-26T00:00:00",
+            "revenue": 63136.19,
+            "TradeDescription": "Walker-Thompson is a leading manufacturer of high-quality gelatine products, with a focus on rigorous quality control throughout every stage of the production process. From sourcing the finest ingredients to final packaging, the company's dedication to excellence is evident in every product they produce.",
+            "id": "Walker-Thompson",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Novarctica",
+            "ProductServices": "Cruise ship holidays",
+            "PointOfContact": "Thomas Lin",
+            "HeadOfOrg": "Agathe Maillard",
+            "founding_date": "1992-05-14T00:00:00",
+            "revenue": 615666.67,
+            "TradeDescription": "Walton-Blair is a leading provider of luxury cruise ship holidays, offering a range of itineraries to some of the world's most desirable destinations. With a focus on comfort, quality, and exceptional customer service, Walton-Blair's cruises are designed to provide a truly unforgettable experience for discerning travelers.",
+            "id": "Walton-Blair",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Merigrad",
+            "ProductServices": "Scrap metals",
+            "PointOfContact": "Mrs. Jessica Warren",
+            "HeadOfOrg": "Espartaco Liliana Olivo",
+            "founding_date": "1977-01-26T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Wells, Morales and Gallagher is a leading supplier of high-quality scrap metals, sourced from a variety of industrial and commercial sources. Their extensive inventory includes a wide range of ferrous and non-ferrous metals, including aluminum, copper, steel, and brass, among others.",
+            "id": "Wells, Morales and Gallagher",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Arvaros",
+            "ProductServices": "Product solutions for sealing, shielding, and valve cover systems used in the automobile industry",
+            "PointOfContact": "Ashley Brown",
+            "HeadOfOrg": "Danilo Greco",
+            "founding_date": "2001-10-19T00:00:00",
+            "revenue": 377582.88,
+            "TradeDescription": "Williams, Richardson and Smith specializes in the design, manufacture, and distribution of high-quality product solutions for sealing, shielding, and valve cover systems in the automotive industry. Their comprehensive portfolio of products provides reliable and efficient solutions for various automotive applications, ensuring optimal performance and safety.",
+            "id": "Williams, Richardson and Smith",
+            "dob": null
+        },
+        {
+            "dob": "1993-07-29T00:00:00",
+            "country": "n.a.",
+            "type": "Entity.Person",
+            "id": "Kenneth Gonzales"
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Imazam",
+            "TradeDescription": "Stephens-Lopez is a leading provider of electronic design, production, and product management services to major electronics and technology companies worldwide. With a focus on innovation and quality, the company's expert engineers and project managers work closely with clients to deliver cutting-edge solutions that meet their evolving needs.",
+            "ProductServices": "Unknown",
+            "HeadOfOrg": "Fredo Guglielmi",
+            "founding_date": "2035-07-13T00:00:00",
+            "id": "Pol\u00e1k Proch\u00e1zka a.s.",
+            "dob": null
+        }
+    ],
+    "links": [
+        {
+            "start_date": "2021-11-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Mitchell-Glover",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2028-01-09T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Anderson, Smith and Weber",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2020-07-09T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Orr Inc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2013-11-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Ryan-Steele",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-07-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Kenneth Gonzales",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2035-07-13T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-07-13T00:00:00",
+            "source": "Kenneth Gonzales",
+            "target": "Stephens-Lopez",
+            "key": 0
+        },
+        {
+            "start_date": "2014-01-28T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Martin-Payne",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-05-09T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Ramirez-Brandt",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2028-05-07T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Austin-Sutton",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2026-09-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Rodriguez-Fox",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2007-09-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Walton-Blair",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2006-10-12T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Gardner Inc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2013-09-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Williams, Richardson and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-12-03T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Blackwell, Clark and Miller",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2007-04-22T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Jackson, Nguyen and Gonzalez",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2013-07-31T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Santana, Barajas and Matthews",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2011-08-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Thomas-Edwards",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2005-01-11T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Lynch, Johnson and Lawrence",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2028-04-18T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Cunningham and Sons",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2010-01-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Adams-Byrd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2016-07-07T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Herrera, Garrison and Mays",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-11-03T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Russell and Sons",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-02-18T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Owens, Barnes and Rose",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2012-01-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Francis and Sons",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2018-06-11T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Olsen, Davis and Thompson",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2023-09-19T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Baird, Simmons and Johnson",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-07-28T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Grant-Henderson",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2007-04-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Pineda-Clark",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2013-05-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Norton-Jones",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-06-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Harris-Ingram",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2008-02-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Andrade and Sons",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2023-07-04T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Lucas-Potts",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-06-14T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Rivas-Page",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-03-28T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Ortiz, Mccormick and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-01-31T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Smith, Irwin and Chase",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-06-28T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Walker-Thompson",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-03-05T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Hamilton, Johnson and Ballard",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-06-30T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Davis-Chen",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-11-25T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Holloway-Salas",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-09-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Foster Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2034-04-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Smith-Robertson",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-09-13T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Evans-Arellano",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2007-01-27T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Dillon-Lewis",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2026-02-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Beasley, Willis and Griffith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2021-02-23T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Phillips, Jones and Daniels",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-07-09T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Foley-Martinez",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2030-05-31T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Dixon LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2014-11-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Sullivan, Montgomery and Jackson",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-11-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Thompson-Thornton",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2030-06-26T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Johnson, Morales and Castro",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2006-10-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Brooks LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-05-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Hubbard and Sons",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2034-02-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Alexander, Harris and Rhodes",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2010-12-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Michael Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2016-03-20T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Smith, Ford and Jones",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2009-12-13T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Castillo, Gordon and Price",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-05-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Lucero, Payne and Lucas",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2017-11-23T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Morrison-Zamora",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-08-05T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Jones, Foster and Sanford",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2026-03-29T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Sandoval-Hill",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2018-03-02T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Anderson-Vazquez",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2028-06-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Jones, Bailey and Murphy",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-07-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Hayes, Perkins and Harris",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2020-01-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Christensen, Smith and Garcia",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2013-11-04T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Snow Inc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2023-08-05T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Greer, Underwood and Noble",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2030-09-19T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Murillo, House and Green",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2023-11-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Carlson-Bell",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2014-11-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Richardson-Orozco",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-09-20T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Jenkins, Baker and Coleman",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2023-07-05T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Collins, Thomas and Gordon",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-07-04T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Jones-Butler",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-07-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Chapman-Roman",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2005-08-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "King and Sons",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2020-11-28T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Heath-White",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-11-06T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Ramos, Jordan and Stewart",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2034-04-07T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Mays LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2034-09-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Carlson-Ingram",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2016-08-05T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Wells, Morales and Gallagher",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-10-25T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Jimenez, Navarro and Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2018-02-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Miller-Russo",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-12-12T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Palmer LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2024-12-31T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Daniels, Green and Carrillo",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-03-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Ross, Cummings and Harris",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-08-11T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Chapman, Myers and Decker",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2006-01-01T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Hurley Inc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2014-09-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Morales-Smith",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2020-01-29T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Johnson-Johnson",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-04-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Smith-Obrien",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2021-11-19T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Walker LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2024-07-18T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kenneth Gonzales",
+            "target": "Hess PLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-07-13T00:00:00",
+            "source": "Kenneth Gonzales",
+            "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+            "key": 0,
+            "end_date": null
+        }
+    ]
+}

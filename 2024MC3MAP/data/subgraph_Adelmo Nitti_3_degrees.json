@@ -1,0 +1,840 @@
+{
+    "nodes": [
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Kondanovia",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Elizabeth Rogers",
+            "HeadOfOrg": "Priscilla Garrone-Taliercio",
+            "founding_date": "1949-02-22T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Bullock-Trujillo",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Naraliket",
+            "ProductServices": "Boilers and industrial equipment",
+            "PointOfContact": "Susan Cobb",
+            "HeadOfOrg": "Adelmo Nitti",
+            "founding_date": "2029-05-22T00:00:00",
+            "revenue": 5466.67,
+            "TradeDescription": "Davis-Rose specializes in the design, manufacturing, and distribution of high-quality boilers and industrial equipment for various industries. With a focus on innovation and reliability, their products are known for their efficiency and durability, meeting the demands of customers worldwide.",
+            "id": "Davis-Rose",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Ceramic chip capacitors",
+            "PointOfContact": "Terri Miller",
+            "HeadOfOrg": "Pier Trevisani",
+            "founding_date": "2006-01-18T00:00:00",
+            "revenue": 34666.67,
+            "TradeDescription": "Martin Ltd is a leading manufacturer of high-quality ceramic chip capacitors, offering reliable and efficient capacitance solutions for a wide range of industries. With a focus on innovation and quality, Martin Ltd's products are designed to meet the demands of discerning customers worldwide.",
+            "id": "Martin Ltd",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Brindivaria",
+            "ProductServices": "Frozen fish and fish products",
+            "PointOfContact": "Stacy Burke",
+            "HeadOfOrg": "Claudine Durand",
+            "founding_date": "1974-03-17T00:00:00",
+            "revenue": 193808.52,
+            "TradeDescription": "Based in Seattle, Washington, Patel, Stewart and Glass is a leading provider of frozen fish and fish products. With a focus on sustainability and quality, the company sources its products from trusted suppliers around the world to bring a diverse range of options to its customers.",
+            "id": "Patel, Stewart and Glass",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.FishingCompany",
+            "country": "Brindivaria",
+            "ProductServices": "Seafood products",
+            "PointOfContact": "Stacy Burke",
+            "HeadOfOrg": "Marthe Philippe",
+            "founding_date": "2007-06-17T00:00:00",
+            "revenue": 144573.27,
+            "TradeDescription": "Robinson, Miller and Ward is a leading provider of high-quality seafood products, including fresh and frozen fish, shellfish, and seaweed. The company sources its products from reputable suppliers around the world and offers a wide range of options to meet the diverse needs of its customers.",
+            "id": "Robinson, Miller and Ward",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.FishingCompany",
+            "country": "Oceanus",
+            "ProductServices": "Canning seafood, smoking, salting, and drying seafood, eviscerating fresh fish by removing heads, fins, scales, bones, and entrails, shucking and packing fresh shellfish, processing marine fats and oils and freezing seafood",
+            "PointOfContact": "Todd Harrington",
+            "HeadOfOrg": "Julio Mauro de la Cr\u00faz Negr\u00f3n",
+            "founding_date": "1958-04-25T00:00:00",
+            "revenue": 25130.12,
+            "TradeDescription": "Taylor, Prince and Sherman is a leading provider of seafood processing and preservation services. The company specializes in canning, smoking, salting, and drying a variety of seafood products, as well as eviscerating, shucking, and packing fresh fish and shellfish. With a focus on quality and efficiency, Taylor, Prince and Sherman offers a range of services to meet the needs of the seafood industry.",
+            "id": "Taylor, Prince and Sherman",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.FishingCompany",
+            "country": "Kondanovia",
+            "ProductServices": "Fish and other related seafood",
+            "PointOfContact": "Teresa Long",
+            "HeadOfOrg": "C\u00e9sar Vanegas Arevalo",
+            "founding_date": "1966-08-23T00:00:00",
+            "revenue": 117165.99,
+            "TradeDescription": "Townsend-Watts is a leading provider of fresh and frozen seafood, including fish, shellfish, and other related products. The company sources its products from sustainable and responsible suppliers around the world, ensuring the highest quality and freshness for its customers.",
+            "id": "Townsend-Watts",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Brindivaria",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Stacy Burke",
+            "HeadOfOrg": "Elisa Olivia Saldivar",
+            "founding_date": "1964-06-07T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Unknown",
+            "id": "Trujillo, Proctor and Wang",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.FishingCompany",
+            "country": "Brindivaria",
+            "ProductServices": "Fish and other related seafood",
+            "PointOfContact": "Dr. Cynthia Johnson",
+            "HeadOfOrg": "Ms. Kathy Caldwell",
+            "founding_date": "2010-04-02T00:00:00",
+            "revenue": 95358.44,
+            "TradeDescription": "Wright LLC is a leading provider of fresh and frozen seafood, including fish and other related products. The company sources its products from reputable suppliers around the world and offers a wide range of options to meet the diverse needs of its customers.",
+            "id": "Wright LLC",
+            "dob": null
+        },
+        {
+            "dob": "1970-03-09T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Rebecca Madden"
+        },
+        {
+            "dob": "1972-10-16T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "April Jarvis"
+        },
+        {
+            "dob": "1986-05-21T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Kyle Anderson"
+        },
+        {
+            "dob": "1973-10-22T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Angelica Williams"
+        },
+        {
+            "dob": "1972-07-26T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Johnny Sanders"
+        },
+        {
+            "dob": "1990-09-04T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Daniel Shaffer"
+        },
+        {
+            "dob": "1976-11-08T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Dr. Richard Goodwin"
+        },
+        {
+            "dob": "1977-01-27T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "James Knox"
+        },
+        {
+            "dob": "1977-08-21T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Bill Chen"
+        },
+        {
+            "dob": "1986-01-11T00:00:00",
+            "country": "Galduzim",
+            "type": "Entity.Person.CEO",
+            "id": "Adelmo Nitti"
+        },
+        {
+            "dob": "1996-05-04T00:00:00",
+            "country": "Brindisola",
+            "type": "Entity.Person",
+            "id": "Cindy Scott"
+        },
+        {
+            "dob": "1973-10-30T00:00:00",
+            "country": "Osterivaria",
+            "type": "Entity.Person",
+            "id": "Tiffany Howell"
+        },
+        {
+            "dob": "1995-07-02T00:00:00",
+            "country": "Osterivaro",
+            "type": "Entity.Person",
+            "id": "Tiffany Young"
+        },
+        {
+            "dob": "1989-04-02T00:00:00",
+            "country": "Coralada",
+            "type": "Entity.Person",
+            "id": "Harold Hodge"
+        },
+        {
+            "dob": "1992-10-29T00:00:00",
+            "country": "Naraliket",
+            "type": "Entity.Person",
+            "id": "Corey Powell"
+        },
+        {
+            "dob": "2005-12-28T00:00:00",
+            "country": "Syrithania",
+            "type": "Entity.Person",
+            "id": "Maria Hudson"
+        },
+        {
+            "dob": "1981-07-18T00:00:00",
+            "country": "Chrysazul",
+            "type": "Entity.Person",
+            "id": "Dr. Cynthia Johnson"
+        },
+        {
+            "dob": "1996-03-18T00:00:00",
+            "country": "Isliandor",
+            "type": "Entity.Person",
+            "id": "Andrew Erickson"
+        },
+        {
+            "dob": "2004-10-27T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Geoffrey Mcgee"
+        },
+        {
+            "dob": "1982-11-10T00:00:00",
+            "country": "Kondarivakia",
+            "type": "Entity.Person",
+            "id": "Tiffany Parks"
+        },
+        {
+            "dob": "1985-12-03T00:00:00",
+            "country": "Merigrad",
+            "type": "Entity.Person",
+            "id": "Hayley Jones"
+        },
+        {
+            "dob": "1983-11-21T00:00:00",
+            "country": "Coralmarica",
+            "type": "Entity.Person",
+            "id": "Rachael Lee"
+        },
+        {
+            "dob": "1993-07-15T00:00:00",
+            "country": "Andenovia",
+            "type": "Entity.Person",
+            "id": "Tamara Nguyen"
+        },
+        {
+            "dob": "1978-06-12T00:00:00",
+            "country": "Naraliket",
+            "type": "Entity.Person",
+            "id": "Dennis Lane"
+        },
+        {
+            "dob": "1978-08-08T00:00:00",
+            "country": "Rivenisla",
+            "type": "Entity.Person",
+            "id": "Christine Berry"
+        }
+    ],
+    "links": [
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-08-10T00:00:00",
+            "source": "Davis-Rose",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2008-07-09T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Rebecca Madden",
+            "target": "Patel, Stewart and Glass",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2014-06-12T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Rebecca Madden",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2035-08-10T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Rebecca Madden",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2015-01-19T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "April Jarvis",
+            "target": "Patel, Stewart and Glass",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2022-09-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "April Jarvis",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2035-08-10T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "April Jarvis",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2008-06-06T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Kyle Anderson",
+            "target": "Patel, Stewart and Glass",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2014-10-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Kyle Anderson",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2035-08-10T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Kyle Anderson",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2019-03-22T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Angelica Williams",
+            "target": "Patel, Stewart and Glass",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2019-03-30T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Angelica Williams",
+            "target": "Robinson, Miller and Ward",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2016-01-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Angelica Williams",
+            "target": "Townsend-Watts",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2010-07-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Angelica Williams",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2035-08-10T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Angelica Williams",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2005-02-08T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Angelica Williams",
+            "target": "Taylor, Prince and Sherman",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2017-10-30T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Angelica Williams",
+            "target": "Bullock-Trujillo",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-07-11T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Angelica Williams",
+            "target": "Trujillo, Proctor and Wang",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2017-11-12T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Angelica Williams",
+            "target": "Martin Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2010-05-01T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Johnny Sanders",
+            "target": "Patel, Stewart and Glass",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-02-27T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Johnny Sanders",
+            "target": "Robinson, Miller and Ward",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2019-03-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Johnny Sanders",
+            "target": "Townsend-Watts",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2013-03-24T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Johnny Sanders",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2023-11-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Johnny Sanders",
+            "target": "Taylor, Prince and Sherman",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2013-02-22T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Johnny Sanders",
+            "target": "Bullock-Trujillo",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-07-19T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Johnny Sanders",
+            "target": "Trujillo, Proctor and Wang",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2013-01-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Daniel Shaffer",
+            "target": "Patel, Stewart and Glass",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2016-03-18T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Daniel Shaffer",
+            "target": "Robinson, Miller and Ward",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2019-10-19T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Daniel Shaffer",
+            "target": "Townsend-Watts",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-11-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Daniel Shaffer",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2035-08-10T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Daniel Shaffer",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2030-03-22T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Daniel Shaffer",
+            "target": "Taylor, Prince and Sherman",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2020-08-15T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Daniel Shaffer",
+            "target": "Bullock-Trujillo",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-04-05T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Daniel Shaffer",
+            "target": "Trujillo, Proctor and Wang",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2017-07-08T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Dr. Richard Goodwin",
+            "target": "Patel, Stewart and Glass",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-11-09T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Dr. Richard Goodwin",
+            "target": "Robinson, Miller and Ward",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-08-22T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Dr. Richard Goodwin",
+            "target": "Townsend-Watts",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2022-06-23T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Dr. Richard Goodwin",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2035-08-10T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Dr. Richard Goodwin",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2017-12-30T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Dr. Richard Goodwin",
+            "target": "Taylor, Prince and Sherman",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2006-08-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Dr. Richard Goodwin",
+            "target": "Bullock-Trujillo",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-04-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Dr. Richard Goodwin",
+            "target": "Trujillo, Proctor and Wang",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2008-01-23T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "James Knox",
+            "target": "Patel, Stewart and Glass",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-09-23T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "James Knox",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2035-08-10T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "James Knox",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2022-02-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Bill Chen",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-11-13T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Adelmo Nitti",
+            "target": "Davis-Rose",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2030-02-19T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Adelmo Nitti",
+            "target": "Davis-Rose",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-08-10T00:00:00",
+            "source": "Adelmo Nitti",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-08-29T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Cindy Scott",
+            "target": "Davis-Rose",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2034-06-20T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Tiffany Howell",
+            "target": "Davis-Rose",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2033-12-12T00:00:00",
+            "source": "Tiffany Howell",
+            "target": "Davis-Rose",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-12-26T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Tiffany Young",
+            "target": "Davis-Rose",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2031-09-25T00:00:00",
+            "source": "Tiffany Young",
+            "target": "Davis-Rose",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-07-04T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Harold Hodge",
+            "target": "Davis-Rose",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2030-07-03T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Corey Powell",
+            "target": "Davis-Rose",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-06-03T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Maria Hudson",
+            "target": "Davis-Rose",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2032-04-24T00:00:00",
+            "source": "Maria Hudson",
+            "target": "Davis-Rose",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-12-10T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Dr. Cynthia Johnson",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-06-16T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Andrew Erickson",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "start_date": "2035-08-10T00:00:00",
+            "type": "Endof.Event.Owns.Shareholdership",
+            "end_date": "2035-08-10T00:00:00",
+            "source": "Andrew Erickson",
+            "target": "Wright LLC",
+            "key": 0
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2031-12-11T00:00:00",
+            "source": "Andrew Erickson",
+            "target": "Wright LLC",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2027-01-23T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Geoffrey Mcgee",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2026-06-27T00:00:00",
+            "source": "Geoffrey Mcgee",
+            "target": "Wright LLC",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-03-03T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Tiffany Parks",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2018-02-12T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Hayley Jones",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2017-08-23T00:00:00",
+            "source": "Hayley Jones",
+            "target": "Wright LLC",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2010-06-04T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Rachael Lee",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-08-20T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Tamara Nguyen",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-04-24T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Dennis Lane",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2032-10-05T00:00:00",
+            "source": "Dennis Lane",
+            "target": "Wright LLC",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2012-10-21T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Christine Berry",
+            "target": "Wright LLC",
+            "key": 0,
+            "end_date": null
+        }
+    ]
+}

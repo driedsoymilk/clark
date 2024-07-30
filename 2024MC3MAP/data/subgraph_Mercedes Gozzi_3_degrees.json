@@ -1,0 +1,306 @@
+{
+    "nodes": [
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Bethany Harrington",
+            "HeadOfOrg": "Alfio Guinizzelli",
+            "founding_date": "2026-07-30T00:00:00",
+            "revenue": 9716.67,
+            "TradeDescription": "Unknown",
+            "id": "Burke Group",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.FishingCompany",
+            "country": "Brindisola",
+            "ProductServices": "Processing seafood products",
+            "PointOfContact": "Lance Barber",
+            "HeadOfOrg": "Mercedes Gozzi",
+            "founding_date": "1948-09-14T00:00:00",
+            "revenue": 15566.67,
+            "TradeDescription": "Rose-Armstrong is a company that specializes in the processing and distribution of seafood products, including fish, shellfish, and other marine delicacies. With state-of-the-art facilities and a commitment to quality and safety, the company provides a wide range of products to customers around the world.",
+            "id": "Rose-Armstrong",
+            "dob": null
+        },
+        {
+            "dob": "1980-01-06T00:00:00",
+            "country": "Coralada",
+            "type": "Entity.Person",
+            "id": "Bethany Harrington"
+        },
+        {
+            "dob": "1989-12-30T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person.CEO",
+            "id": "Mercedes Gozzi"
+        },
+        {
+            "dob": "1996-01-17T00:00:00",
+            "country": "Galduzim",
+            "type": "Entity.Person",
+            "id": "Alfio Guinizzelli"
+        },
+        {
+            "dob": "2005-06-17T00:00:00",
+            "country": "Oceanus",
+            "type": "Entity.Person",
+            "id": "Roberta Hernandez"
+        },
+        {
+            "dob": "1996-03-16T00:00:00",
+            "country": "Oceanus",
+            "type": "Entity.Person",
+            "id": "Daniel Park"
+        },
+        {
+            "dob": "1991-05-23T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Jamie Ho"
+        },
+        {
+            "dob": "1978-11-28T00:00:00",
+            "country": "Puerto Sol",
+            "type": "Entity.Person",
+            "id": "Timothy Rios"
+        },
+        {
+            "dob": "1979-11-05T00:00:00",
+            "country": "Kondarica",
+            "type": "Entity.Person",
+            "id": "Amanda Rush"
+        },
+        {
+            "dob": "2000-07-05T00:00:00",
+            "country": "Uzifrica",
+            "type": "Entity.Person",
+            "id": "Jake Riley"
+        },
+        {
+            "dob": "1986-04-26T00:00:00",
+            "country": "Marebak",
+            "type": "Entity.Person",
+            "id": "Mr. Tyler Sandoval"
+        },
+        {
+            "dob": "1988-01-27T00:00:00",
+            "country": "Brindivaria",
+            "type": "Entity.Person",
+            "id": "Lance Barber"
+        },
+        {
+            "dob": "1982-04-27T00:00:00",
+            "country": "Marebak",
+            "type": "Entity.Person",
+            "id": "Mr. Kenneth Cunningham DDS"
+        },
+        {
+            "dob": "1982-09-28T00:00:00",
+            "country": "Puerto Sol",
+            "type": "Entity.Person",
+            "id": "Juan Love"
+        },
+        {
+            "dob": "1984-10-29T00:00:00",
+            "country": "Sol y Oceana",
+            "type": "Entity.Person",
+            "id": "Tim Lang"
+        }
+    ],
+    "links": [
+        {
+            "start_date": "2030-10-27T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-30T00:00:00",
+            "source": "Bethany Harrington",
+            "target": "Burke Group",
+            "key": 0
+        },
+        {
+            "start_date": "2035-01-30T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-30T00:00:00",
+            "source": "Bethany Harrington",
+            "target": "Burke Group",
+            "key": 0
+        },
+        {
+            "start_date": "2020-10-20T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Mercedes Gozzi",
+            "target": "Rose-Armstrong",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-01-30T00:00:00",
+            "source": "Mercedes Gozzi",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2026-08-10T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Alfio Guinizzelli",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2028-06-27T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Roberta Hernandez",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-04-23T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Daniel Park",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-12-19T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Jamie Ho",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2029-03-21T00:00:00",
+            "source": "Jamie Ho",
+            "target": "Burke Group",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-08-07T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Timothy Rios",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2029-07-26T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Amanda Rush",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2028-04-20T00:00:00",
+            "source": "Amanda Rush",
+            "target": "Burke Group",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-02-08T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Jake Riley",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2029-12-16T00:00:00",
+            "source": "Jake Riley",
+            "target": "Burke Group",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2030-07-09T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Mr. Tyler Sandoval",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2029-04-22T00:00:00",
+            "source": "Mr. Tyler Sandoval",
+            "target": "Burke Group",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2011-07-19T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Lance Barber",
+            "target": "Rose-Armstrong",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-01-30T00:00:00",
+            "source": "Lance Barber",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-12-15T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Mr. Kenneth Cunningham DDS",
+            "target": "Rose-Armstrong",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-01-30T00:00:00",
+            "source": "Mr. Kenneth Cunningham DDS",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2011-07-01T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Juan Love",
+            "target": "Rose-Armstrong",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-01-30T00:00:00",
+            "source": "Juan Love",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-11-06T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Tim Lang",
+            "target": "Rose-Armstrong",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-01-30T00:00:00",
+            "source": "Tim Lang",
+            "target": "Burke Group",
+            "key": 0,
+            "end_date": null
+        }
+    ]
+}

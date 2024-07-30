@@ -1,0 +1,272 @@
+{
+    "nodes": [
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Mary Gaines",
+            "HeadOfOrg": "Angela Vasquez",
+            "founding_date": "2032-08-30T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 49556.34,
+            "TradeDescription": "As a leading provider of fish and seafood products, this company offers an extensive selection of meticulously sourced offerings to satisfy the diverse culinary preferences of consumers and businesses.",
+            "id": "AguaLeska Transit N.V.",
+            "dob": null
+        },
+        {
+            "country": "Nalakimani",
+            "ProductServices": "Seafood products",
+            "PointOfContact": "Sanaa El-Amin",
+            "HeadOfOrg": "Donald Carson",
+            "founding_date": "2035-05-18T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 29862.48,
+            "TradeDescription": "Bringing the bounty of the ocean to your table with an extensive range of meticulously sourced and quality-assured seafood products.",
+            "id": "Namorna Transit Ltd",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Shipping, freight trucking and other related transportation services",
+            "PointOfContact": "Rafael Sanchez",
+            "HeadOfOrg": "Fintan Park",
+            "founding_date": "2031-01-15T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 5214.44,
+            "TradeDescription": "Your all-encompassing logistics partner, offering seamless shipping, freight trucking, and a range of related transportation services to efficiently move goods across diverse landscapes and waterways.",
+            "id": "SavanetaCreek Solutions NV",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fishing and other related activities",
+            "PointOfContact": "Luce du Adam",
+            "HeadOfOrg": "Achille Forza",
+            "founding_date": "2032-11-05T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 6529.36,
+            "TradeDescription": "Offering comprehensive fishing solutions and related activities, ensuring sustainable practices and top-quality seafood products harvested from pristine waters worldwide.",
+            "id": "SouthSeafood Express Corp",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Tammy Lane",
+            "HeadOfOrg": "Andrea Gallagher",
+            "founding_date": "2031-05-01T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 9652.46,
+            "TradeDescription": "Bringing the finest selection of responsibly sourced fish and seafood products to your table, ensuring freshness, quality, and culinary excellence in every bite.",
+            "id": "StichtingMarine Shipping Company",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Jeffrey Wilson",
+            "HeadOfOrg": "Mario Sandoval",
+            "founding_date": "2035-05-20T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 77826.74,
+            "TradeDescription": "Offering an extensive range of premium fish and seafood products sourced from sustainable fisheries, ensuring exceptional quality and freshness for culinary enthusiasts worldwide.",
+            "id": "Tainamarine Fishing Co",
+            "dob": null
+        },
+        {
+            "country": "Nalakimani",
+            "ProductServices": "Seafood products",
+            "PointOfContact": "Elise Hauser",
+            "HeadOfOrg": "Helena Abraham Valverde",
+            "founding_date": "2035-05-18T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 29757.05,
+            "TradeDescription": "Your trusted source for a diverse selection of high-quality seafood products, meticulously sourced and prepared to elevate culinary experiences worldwide.",
+            "id": "V. Miesel Shipping",
+            "dob": null
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2010-08-16T00:00:00",
+            "country": "Oceanus",
+            "id": "Liam Conti"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1988-04-06T00:00:00",
+            "country": "Oceanus",
+            "id": "Nadia Conti"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2006-06-22T00:00:00",
+            "country": "Oceanus",
+            "id": "Fintan Park"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1999-01-22T00:00:00",
+            "country": "Oceanus",
+            "id": "Sanaa El-Amin"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2006-03-22T00:00:00",
+            "country": "Oceanus",
+            "id": "Elise Hauser"
+        }
+    ],
+    "links": [
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2033-10-29T00:00:00",
+            "end_date": "2035-05-25T00:00:00",
+            "source": "AguaLeska Transit N.V.",
+            "target": "SouthSeafood Express Corp",
+            "key": 0
+        },
+        {
+            "type": "Endof.Event.Owns.Shareholdership",
+            "start_date": "2035-05-25T00:00:00",
+            "end_date": "2035-05-25T00:00:00",
+            "source": "AguaLeska Transit N.V.",
+            "target": "SouthSeafood Express Corp",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-05-18T00:00:00",
+            "source": "Namorna Transit Ltd",
+            "target": "V. Miesel Shipping",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2028-08-24T00:00:00",
+            "source": "SavanetaCreek Solutions NV",
+            "target": "StichtingMarine Shipping Company",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2029-08-17T00:00:00",
+            "end_date": "2035-06-02T00:00:00",
+            "source": "StichtingMarine Shipping Company",
+            "target": "AguaLeska Transit N.V.",
+            "key": 0
+        },
+        {
+            "type": "Endof.Event.Owns.Shareholdership",
+            "start_date": "2035-06-02T00:00:00",
+            "end_date": "2035-06-02T00:00:00",
+            "source": "StichtingMarine Shipping Company",
+            "target": "AguaLeska Transit N.V.",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-05-18T00:00:00",
+            "source": "StichtingMarine Shipping Company",
+            "target": "Namorna Transit Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-05-25T00:00:00",
+            "source": "Tainamarine Fishing Co",
+            "target": "SouthSeafood Express Corp",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-05-20T00:00:00",
+            "source": "V. Miesel Shipping",
+            "target": "Tainamarine Fishing Co",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2028-06-10T00:00:00",
+            "end_date": "2035-05-15T00:00:00",
+            "source": "Liam Conti",
+            "target": "AguaLeska Transit N.V.",
+            "key": 0
+        },
+        {
+            "type": "Endof.Event.Owns.Shareholdership",
+            "start_date": "2035-05-15T00:00:00",
+            "end_date": "2035-05-15T00:00:00",
+            "source": "Liam Conti",
+            "target": "AguaLeska Transit N.V.",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-06-10T00:00:00",
+            "source": "Liam Conti",
+            "target": "StichtingMarine Shipping Company",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2031-05-01T00:00:00",
+            "source": "Liam Conti",
+            "target": "StichtingMarine Shipping Company",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Relationship.FamilyRelationship",
+            "source": "Nadia Conti",
+            "target": "Liam Conti",
+            "key": 0,
+            "start_date": "2028-06-10T00:00:00",
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2033-09-24T00:00:00",
+            "source": "Fintan Park",
+            "target": "SavanetaCreek Solutions NV",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2031-01-15T00:00:00",
+            "source": "Fintan Park",
+            "target": "SavanetaCreek Solutions NV",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2031-05-01T00:00:00",
+            "source": "Fintan Park",
+            "target": "StichtingMarine Shipping Company",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2031-05-01T00:00:00",
+            "source": "Sanaa El-Amin",
+            "target": "StichtingMarine Shipping Company",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2035-05-18T00:00:00",
+            "source": "Elise Hauser",
+            "target": "V. Miesel Shipping",
+            "key": 0,
+            "end_date": null
+        }
+    ]
+}

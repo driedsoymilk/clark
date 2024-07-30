@@ -1,0 +1,1014 @@
+{
+    "nodes": [
+        {
+            "type": "Entity.Organization.NewsCompany",
+            "country": "Oceanus",
+            "ProductServices": "Publication of daily newspaper, website, and other news sources",
+            "PointOfContact": "James Bell",
+            "HeadOfOrg": "Rachel Morgan",
+            "founding_date": "1985-04-02T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "A specialized news outlet, focusing on the latest trends, techniques, and developments in the fishing industry. It is a trusted source for fishing enthusiasts and professionals alike.",
+            "id": "The News Buoy",
+            "dob": null
+        },
+        {
+            "dob": "1970-08-21T00:00:00",
+            "country": "Sol y Oceana",
+            "type": "Entity.Person",
+            "id": "James Bell"
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Tuna, sword fish, bass, trout, and salmon, as well as offers shellfish, mollusks, crustaceans, sea vegetables, shrimp, lobster, squid, oysters, crabs, and clams, and other related seafood products",
+            "PointOfContact": "Lemuel Conti",
+            "HeadOfOrg": "Austin Baird",
+            "founding_date": "2023-03-08T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 23304.04,
+            "TradeDescription": "This company is a premium supplier of an extensive range of meticulously sourced seafood products, including tuna, swordfish, bass, trout, salmon, shellfish, mollusks, crustaceans, sea vegetables, shrimp, lobster, squid, oysters, crabs, clams, and more, ensuring exceptional quality and freshness for discerning consumers and culinary establishments.",
+            "id": "4. SeaCargo Ges.m.b.H.",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Denise Edwards",
+            "HeadOfOrg": "Patrick Johnson",
+            "founding_date": "2024-03-24T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 50134.21,
+            "TradeDescription": "Unknown",
+            "id": "9. RiverLine CJSC",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Mary Gaines",
+            "HeadOfOrg": "Angela Vasquez",
+            "founding_date": "2032-08-30T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 49556.34,
+            "TradeDescription": "As a leading provider of fish and seafood products, this company offers an extensive selection of meticulously sourced offerings to satisfy the diverse culinary preferences of consumers and businesses.",
+            "id": "AguaLeska Transit N.V.",
+            "dob": null
+        },
+        {
+            "country": "Nalakimani",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Sanaa El-Amin",
+            "HeadOfOrg": "Courtney Liu",
+            "founding_date": "2032-01-05T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 115233.54,
+            "TradeDescription": "This company specializes in sourcing and distributing a wide variety of fish and seafood products, ensuring freshness and quality to meet the demands of consumers and businesses alike.",
+            "id": "ArawakFish Cargo Ges.m.b.H.",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Seafood",
+            "PointOfContact": "Gilles Fournier de Pelletier",
+            "HeadOfOrg": "Abigail Hess",
+            "founding_date": "2033-11-03T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 221925.33,
+            "TradeDescription": "Specializing in a diverse range of meticulously sourced seafood products, this company ensures premium quality offerings to satisfy the diverse culinary needs of consumers and businesses alike.",
+            "id": "BaringoAmerica Marine Ges.m.b.H.",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish, crustaceans and other seafood",
+            "PointOfContact": "Mary Pacheco",
+            "HeadOfOrg": "Aldo Scotto",
+            "founding_date": "2030-03-20T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 59922.58,
+            "TradeDescription": "This company offers a comprehensive selection of fish, crustaceans, and other seafood products, meticulously sourced to deliver premium quality options for culinary enthusiasts and businesses.",
+            "id": "Dry CreekRybachit Marine A/S",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Suzanne-Maggie Lopes",
+            "HeadOfOrg": "Oc\u00e9ane Martin",
+            "founding_date": "2034-06-10T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 12057.15,
+            "TradeDescription": "Embark on an unforgettable aquatic adventure with our guided fishing tours, where every cast promises a thrilling catch amidst stunning natural landscapes.",
+            "id": "Dry CreekWorldLogistics Ltd. Liability Co",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Albacore, Alfonsino, Barramundi, Bass, Black Cod, Blue Cod, Bluenose, Caviar, Flounder, Groper, Gurnard, John Dory, Kingfish, Ling  Kingclip, Lobster, Mahi, Ocean Trout, Opah  Moonfish, Tuna",
+            "PointOfContact": "Nedda Barsanti",
+            "HeadOfOrg": "Kara Ballard",
+            "founding_date": "2031-02-05T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 8424.27,
+            "TradeDescription": "Sure, here is a trade description for FlounderLeska Marine BV: This company specializes in providing an extensive variety of meticulously sourced seafood products, including Albacore, Alfonsino, Barramundi, Bass, Black Cod, Blue Cod, Bluenose, Caviar, Flounder, Groper, Gurnard, John Dory, Kingfish, Ling, Kingclip, Lobster, Mahi, Ocean Trout, Opah Moonfish, and Tuna, ensuring premium quality options for culinary enthusiasts and businesses.",
+            "id": "FlounderLeska Marine BV",
+            "dob": null
+        },
+        {
+            "country": "Nalakimani",
+            "ProductServices": "Shipping services",
+            "PointOfContact": "Sanaa El-Amin",
+            "HeadOfOrg": "Marta Pennetta",
+            "founding_date": "2032-01-04T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 68524.93,
+            "TradeDescription": "This company offers comprehensive shipping services, facilitating efficient and reliable transportation of goods across domestic and international markets to meet the diverse logistical needs of businesses worldwide.",
+            "id": "GvardeyskAmerica Shipping Plc",
+            "dob": null
+        },
+        {
+            "country": "Nalakimani",
+            "ProductServices": "Fish, crustaceans and other seafood",
+            "PointOfContact": "Sanaa El-Amin",
+            "HeadOfOrg": "Juliette Boucher",
+            "founding_date": "2030-05-17T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 10566.0,
+            "TradeDescription": "This company offers a comprehensive selection of premium-quality fish, crustaceans, and other seafood sourced from pristine waters worldwide, catering to the discerning tastes of consumers and culinary establishments.",
+            "id": "HomabayMarine Carriers N.V.",
+            "dob": null
+        },
+        {
+            "country": "Nalakimani",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Sanaa El-Amin",
+            "HeadOfOrg": "Ashley Martin",
+            "founding_date": "2032-04-02T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 26766.49,
+            "TradeDescription": "Providing a diverse range of high-quality fish and seafood products sourced sustainably from pristine waters worldwide.",
+            "id": "KambalaSea Freight Inc",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fresh and frozen seafood",
+            "PointOfContact": "Lemuel Conti",
+            "HeadOfOrg": "Alfio Palumbo",
+            "founding_date": "2032-04-28T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 73153.57,
+            "TradeDescription": "Specializing in premium fresh and frozen seafood offerings sourced from reputable suppliers to deliver exceptional quality and freshness to customers worldwide.",
+            "id": "KisumuSeafoodBrothers Ltd",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Lucas Julien",
+            "HeadOfOrg": "Tammy Burton",
+            "founding_date": "2035-03-22T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 14199.07,
+            "TradeDescription": "Specializing in an extensive range of meticulously sourced fish and seafood products, this company caters to the diverse culinary preferences of consumers and businesses with premium quality offerings.",
+            "id": "Maacama Ocean Worldwide LLC",
+            "dob": null
+        },
+        {
+            "country": "Nalakimani",
+            "ProductServices": "Seafood products",
+            "PointOfContact": "Sanaa El-Amin",
+            "HeadOfOrg": "Donald Carson",
+            "founding_date": "2035-05-18T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 29862.48,
+            "TradeDescription": "Bringing the bounty of the ocean to your table with an extensive range of meticulously sourced and quality-assured seafood products.",
+            "id": "Namorna Transit Ltd",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Rafa\u00e9l Gabino Elizondo Lovato",
+            "HeadOfOrg": "John Nunez",
+            "founding_date": "2030-02-08T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 5514.17,
+            "TradeDescription": "Offering a diverse selection of premium fish and seafood products, sourced from trusted suppliers and delivered with a commitment to quality and freshness.",
+            "id": "NamRiver Transit A/S",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Samuel Conti",
+            "HeadOfOrg": "Fabio Conti",
+            "founding_date": "2028-10-01T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 13471.44,
+            "TradeDescription": "Your premier destination for a wide array of meticulously sourced, fresh, and sustainable fish and seafood products, ensuring unparalleled quality and taste for every culinary occasion.",
+            "id": "NyanzaRiver Worldwide AS",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Sea and coastal water transportation and other related shipping activities",
+            "PointOfContact": "Francisco Javier Ferrer",
+            "HeadOfOrg": "Gabriel Mendoza Fl\u00f3rez",
+            "founding_date": "2033-07-18T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 41854.87,
+            "TradeDescription": "Providing comprehensive sea and coastal water transportation solutions along with related shipping activities, ensuring efficient and reliable logistics services tailored to meet diverse maritime needs.",
+            "id": "Oka Charter Boat Transport OJSC",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and fish products (fresh and frozen seafood and other aquatic products, and canned and cured fish and seafood)",
+            "PointOfContact": "Nadia Conti",
+            "HeadOfOrg": "Shannon Cobb",
+            "founding_date": "2034-04-06T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 12142.04,
+            "TradeDescription": "Delivering a diverse range of meticulously sourced and expertly processed fish and fish products, including fresh and frozen seafood, other aquatic delicacies, and canned and cured selections, all ensuring premium quality and taste for discerning customers worldwide.",
+            "id": "Oka Seafood Shipping Ges.m.b.H.",
+            "dob": null
+        },
+        {
+            "country": "Nalakimani",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Eun-Ji Park",
+            "HeadOfOrg": "Lisa Harris",
+            "founding_date": "2032-10-20T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 5592.2,
+            "TradeDescription": "Your go-to destination for a wide selection of fresh, sustainably-sourced fish and seafood products, meticulously curated to satisfy every palate and culinary need.",
+            "id": "OranjestadCreek Express Sagl",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Freight trucking and other related transportation services",
+            "PointOfContact": "Giada Romano",
+            "HeadOfOrg": "Michael Harrell",
+            "founding_date": "2029-07-07T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 7508.77,
+            "TradeDescription": "Offering comprehensive freight trucking and related transportation services, ensuring efficient and reliable delivery solutions tailored to meet diverse logistical needs.",
+            "id": "RechFish Freight Plc",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Sea and coastal water transportation and other related shipping activities",
+            "PointOfContact": "Timoteo Ruelas Heredia",
+            "HeadOfOrg": "Marisol Ram\u00f3n Candelaria",
+            "founding_date": "2032-04-10T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 68822.33,
+            "TradeDescription": "Providing comprehensive sea and coastal water transportation solutions alongside a spectrum of related shipping activities, ensuring seamless logistics for diverse maritime ventures.",
+            "id": "SamakaDredgeTransport OJSC",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Shipping, freight trucking and other related transportation services",
+            "PointOfContact": "Rafael Sanchez",
+            "HeadOfOrg": "Fintan Park",
+            "founding_date": "2031-01-15T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 5214.44,
+            "TradeDescription": "Your all-encompassing logistics partner, offering seamless shipping, freight trucking, and a range of related transportation services to efficiently move goods across diverse landscapes and waterways.",
+            "id": "SavanetaCreek Solutions NV",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Marine fishing",
+            "PointOfContact": "Michelle Barbier",
+            "HeadOfOrg": "Lisa Harris",
+            "founding_date": "2033-09-12T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 26031.2,
+            "TradeDescription": "Pioneering marine fishing practices to provide sustainably sourced seafood, ensuring the freshest catch delivered with a commitment to environmental stewardship.",
+            "id": "ScaniaSeafood Holdings Ltd. Liability Co",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Samuel Conti",
+            "HeadOfOrg": "Nathan Conti",
+            "founding_date": "2031-12-05T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 5264.49,
+            "TradeDescription": "Specializing in a diverse array of premium fish and seafood products sourced globally, committed to delivering exceptional quality and freshness to meet the culinary needs of every customer.",
+            "id": "SouthLeska Worldwide AS",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fishing and other related activities",
+            "PointOfContact": "Luce du Adam",
+            "HeadOfOrg": "Achille Forza",
+            "founding_date": "2032-11-05T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 6529.36,
+            "TradeDescription": "Offering comprehensive fishing solutions and related activities, ensuring sustainable practices and top-quality seafood products harvested from pristine waters worldwide.",
+            "id": "SouthSeafood Express Corp",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Tammy Lane",
+            "HeadOfOrg": "Andrea Gallagher",
+            "founding_date": "2031-05-01T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 9652.46,
+            "TradeDescription": "Bringing the finest selection of responsibly sourced fish and seafood products to your table, ensuring freshness, quality, and culinary excellence in every bite.",
+            "id": "StichtingMarine Shipping Company",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Sea and coastal water transportation and other related shipping activities",
+            "PointOfContact": "Filippo Bernetti",
+            "HeadOfOrg": "Claudio Rosales Samaniego",
+            "founding_date": "2031-10-30T00:00:00",
+            "type": "Entity.Organization.LogisticsCompany",
+            "revenue": 23949.52,
+            "TradeDescription": "Providing seamless sea and coastal water transportation services, alongside a comprehensive range of related shipping activities, to facilitate efficient and reliable logistics solutions for diverse maritime needs.",
+            "id": "SumacAmerica Transport GmbH & Co. KG",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Jeffrey Wilson",
+            "HeadOfOrg": "Mario Sandoval",
+            "founding_date": "2035-05-20T00:00:00",
+            "type": "Entity.Organization.FishingCompany",
+            "revenue": 77826.74,
+            "TradeDescription": "Offering an extensive range of premium fish and seafood products sourced from sustainable fisheries, ensuring exceptional quality and freshness for culinary enthusiasts worldwide.",
+            "id": "Tainamarine Fishing Co",
+            "dob": null
+        },
+        {
+            "country": "Nalakimani",
+            "ProductServices": "Seafood products",
+            "PointOfContact": "Elise Hauser",
+            "HeadOfOrg": "Helena Abraham Valverde",
+            "founding_date": "2035-05-18T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 29757.05,
+            "TradeDescription": "Your trusted source for a diverse selection of high-quality seafood products, meticulously sourced and prepared to elevate culinary experiences worldwide.",
+            "id": "V. Miesel Shipping",
+            "dob": null
+        },
+        {
+            "country": "Oceanus",
+            "ProductServices": "Fish and seafood products",
+            "PointOfContact": "Katrina Randall",
+            "HeadOfOrg": "Ignazio Zanazzo",
+            "founding_date": "2033-01-22T00:00:00",
+            "type": "Entity.Organization.Company",
+            "revenue": 36098.12,
+            "TradeDescription": "Providing a wide range of meticulously sourced and expertly prepared fish and seafood products, ensuring superior quality and freshness for culinary enthusiasts everywhere.",
+            "id": "WestRiver Shipping KgaA",
+            "dob": null
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1975-12-21T00:00:00",
+            "country": "Oceanus",
+            "id": "Fabio Conti"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2002-02-10T00:00:00",
+            "country": "Oceanus",
+            "id": "Lemuel Conti"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1990-05-17T00:00:00",
+            "country": "Oceanus",
+            "id": "Samuel Conti"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1977-01-22T00:00:00",
+            "country": "Oceanus",
+            "id": "Lena Conti-Park"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1995-09-11T00:00:00",
+            "country": "Oceanus",
+            "id": "Nathan Conti"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2010-08-16T00:00:00",
+            "country": "Oceanus",
+            "id": "Liam Conti"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1988-04-06T00:00:00",
+            "country": "Oceanus",
+            "id": "Nadia Conti"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2006-06-22T00:00:00",
+            "country": "Oceanus",
+            "id": "Fintan Park"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1982-12-11T00:00:00",
+            "country": "Oceanus",
+            "id": "Rafael Sanchez"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1999-01-22T00:00:00",
+            "country": "Oceanus",
+            "id": "Sanaa El-Amin"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "1992-02-10T00:00:00",
+            "country": "Oceanus",
+            "id": "Eun-Ji Park"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2006-03-22T00:00:00",
+            "country": "Oceanus",
+            "id": "Elise Hauser"
+        },
+        {
+            "type": "Entity.Person",
+            "dob": "2006-05-08T00:00:00",
+            "country": "Oceanus",
+            "id": "Harvey Janus"
+        }
+    ],
+    "links": [
+        {
+            "start_date": "2015-03-08T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "James Bell",
+            "target": "The News Buoy",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2034-12-31T00:00:00",
+            "source": "4. SeaCargo Ges.m.b.H.",
+            "target": "Dry CreekRybachit Marine A/S",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2033-04-12T00:00:00",
+            "source": "4. SeaCargo Ges.m.b.H.",
+            "target": "KambalaSea Freight Inc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2028-12-02T00:00:00",
+            "source": "9. RiverLine CJSC",
+            "target": "SumacAmerica Transport GmbH & Co. KG",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2033-10-29T00:00:00",
+            "end_date": "2035-05-25T00:00:00",
+            "source": "AguaLeska Transit N.V.",
+            "target": "SouthSeafood Express Corp",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2030-06-02T00:00:00",
+            "source": "ArawakFish Cargo Ges.m.b.H.",
+            "target": "ScaniaSeafood Holdings Ltd. Liability Co",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2029-10-28T00:00:00",
+            "source": "Dry CreekRybachit Marine A/S",
+            "target": "BaringoAmerica Marine Ges.m.b.H.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2031-12-15T00:00:00",
+            "source": "Dry CreekRybachit Marine A/S",
+            "target": "HomabayMarine Carriers N.V.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2030-02-06T00:00:00",
+            "source": "Dry CreekRybachit Marine A/S",
+            "target": "9. RiverLine CJSC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2033-04-15T00:00:00",
+            "source": "GvardeyskAmerica Shipping Plc",
+            "target": "WestRiver Shipping KgaA",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2032-09-16T00:00:00",
+            "source": "GvardeyskAmerica Shipping Plc",
+            "target": "Oka Charter Boat Transport OJSC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2034-01-27T00:00:00",
+            "source": "GvardeyskAmerica Shipping Plc",
+            "target": "ArawakFish Cargo Ges.m.b.H.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2032-06-12T00:00:00",
+            "source": "GvardeyskAmerica Shipping Plc",
+            "target": "Maacama Ocean Worldwide LLC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2029-09-25T00:00:00",
+            "source": "HomabayMarine Carriers N.V.",
+            "target": "SamakaDredgeTransport OJSC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2029-02-20T00:00:00",
+            "source": "KambalaSea Freight Inc",
+            "target": "FlounderLeska Marine BV",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2028-05-21T00:00:00",
+            "source": "KisumuSeafoodBrothers Ltd",
+            "target": "OranjestadCreek Express Sagl",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-05-18T00:00:00",
+            "source": "Namorna Transit Ltd",
+            "target": "V. Miesel Shipping",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2031-04-16T00:00:00",
+            "source": "NamRiver Transit A/S",
+            "target": "GvardeyskAmerica Shipping Plc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2029-10-16T00:00:00",
+            "source": "NyanzaRiver Worldwide AS",
+            "target": "KisumuSeafoodBrothers Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2034-01-10T00:00:00",
+            "source": "NyanzaRiver Worldwide AS",
+            "target": "RechFish Freight Plc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2029-01-19T00:00:00",
+            "source": "NyanzaRiver Worldwide AS",
+            "target": "NamRiver Transit A/S",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2034-03-05T00:00:00",
+            "source": "OranjestadCreek Express Sagl",
+            "target": "Dry CreekWorldLogistics Ltd. Liability Co",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2028-08-24T00:00:00",
+            "source": "SavanetaCreek Solutions NV",
+            "target": "StichtingMarine Shipping Company",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2028-03-22T00:00:00",
+            "source": "SavanetaCreek Solutions NV",
+            "target": "Oka Seafood Shipping Ges.m.b.H.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2033-01-02T00:00:00",
+            "source": "SouthLeska Worldwide AS",
+            "target": "NamRiver Transit A/S",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2029-08-17T00:00:00",
+            "end_date": "2035-06-02T00:00:00",
+            "source": "StichtingMarine Shipping Company",
+            "target": "AguaLeska Transit N.V.",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-05-18T00:00:00",
+            "source": "StichtingMarine Shipping Company",
+            "target": "Namorna Transit Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-05-25T00:00:00",
+            "source": "Tainamarine Fishing Co",
+            "target": "SouthSeafood Express Corp",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-05-20T00:00:00",
+            "source": "V. Miesel Shipping",
+            "target": "Tainamarine Fishing Co",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2029-07-08T00:00:00",
+            "source": "Fabio Conti",
+            "target": "NyanzaRiver Worldwide AS",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2028-10-01T00:00:00",
+            "source": "Fabio Conti",
+            "target": "NyanzaRiver Worldwide AS",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2029-07-07T00:00:00",
+            "source": "Fabio Conti",
+            "target": "RechFish Freight Plc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2032-04-28T00:00:00",
+            "source": "Fabio Conti",
+            "target": "KisumuSeafoodBrothers Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2030-02-08T00:00:00",
+            "source": "Fabio Conti",
+            "target": "NamRiver Transit A/S",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2034-07-13T00:00:00",
+            "source": "Lemuel Conti",
+            "target": "4. SeaCargo Ges.m.b.H.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2023-03-08T00:00:00",
+            "source": "Lemuel Conti",
+            "target": "4. SeaCargo Ges.m.b.H.",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2031-09-24T00:00:00",
+            "source": "Lemuel Conti",
+            "target": "KisumuSeafoodBrothers Ltd",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2032-04-28T00:00:00",
+            "source": "Lemuel Conti",
+            "target": "KisumuSeafoodBrothers Ltd",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2030-03-20T00:00:00",
+            "source": "Lemuel Conti",
+            "target": "Dry CreekRybachit Marine A/S",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2033-11-03T00:00:00",
+            "source": "Lemuel Conti",
+            "target": "BaringoAmerica Marine Ges.m.b.H.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2024-03-24T00:00:00",
+            "source": "Lemuel Conti",
+            "target": "9. RiverLine CJSC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2031-10-30T00:00:00",
+            "source": "Lemuel Conti",
+            "target": "SumacAmerica Transport GmbH & Co. KG",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2028-10-01T00:00:00",
+            "source": "Samuel Conti",
+            "target": "NyanzaRiver Worldwide AS",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2031-12-05T00:00:00",
+            "source": "Samuel Conti",
+            "target": "SouthLeska Worldwide AS",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-05-31T00:00:00",
+            "source": "Samuel Conti",
+            "target": "The News Buoy",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Relationship.FamilyRelationship",
+            "source": "Lena Conti-Park",
+            "target": "Nathan Conti",
+            "key": 0,
+            "start_date": "2030-02-08T00:00:00",
+            "end_date": null
+        },
+        {
+            "type": "Relationship.FamilyRelationship",
+            "source": "Lena Conti-Park",
+            "target": "Fintan Park",
+            "key": 0,
+            "start_date": "2031-01-15T00:00:00",
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2031-01-12T00:00:00",
+            "source": "Nathan Conti",
+            "target": "SouthLeska Worldwide AS",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2031-12-05T00:00:00",
+            "source": "Nathan Conti",
+            "target": "SouthLeska Worldwide AS",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2030-02-08T00:00:00",
+            "source": "Nathan Conti",
+            "target": "NamRiver Transit A/S",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2028-06-10T00:00:00",
+            "end_date": "2035-05-15T00:00:00",
+            "source": "Liam Conti",
+            "target": "AguaLeska Transit N.V.",
+            "key": 0
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-06-10T00:00:00",
+            "source": "Liam Conti",
+            "target": "StichtingMarine Shipping Company",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2031-05-01T00:00:00",
+            "source": "Liam Conti",
+            "target": "StichtingMarine Shipping Company",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Relationship.FamilyRelationship",
+            "source": "Nadia Conti",
+            "target": "Liam Conti",
+            "key": 0,
+            "start_date": "2028-06-10T00:00:00",
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2034-04-06T00:00:00",
+            "source": "Nadia Conti",
+            "target": "Oka Seafood Shipping Ges.m.b.H.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2033-09-24T00:00:00",
+            "source": "Fintan Park",
+            "target": "SavanetaCreek Solutions NV",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2031-01-15T00:00:00",
+            "source": "Fintan Park",
+            "target": "SavanetaCreek Solutions NV",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2034-04-06T00:00:00",
+            "source": "Fintan Park",
+            "target": "Oka Seafood Shipping Ges.m.b.H.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2031-05-01T00:00:00",
+            "source": "Fintan Park",
+            "target": "StichtingMarine Shipping Company",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2029-08-23T00:00:00",
+            "source": "Rafael Sanchez",
+            "target": "SavanetaCreek Solutions NV",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2031-05-01T00:00:00",
+            "source": "Sanaa El-Amin",
+            "target": "StichtingMarine Shipping Company",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2032-04-02T00:00:00",
+            "source": "Sanaa El-Amin",
+            "target": "KambalaSea Freight Inc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2030-05-17T00:00:00",
+            "source": "Sanaa El-Amin",
+            "target": "HomabayMarine Carriers N.V.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2032-01-04T00:00:00",
+            "source": "Sanaa El-Amin",
+            "target": "GvardeyskAmerica Shipping Plc",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2032-01-05T00:00:00",
+            "source": "Sanaa El-Amin",
+            "target": "ArawakFish Cargo Ges.m.b.H.",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2032-10-20T00:00:00",
+            "source": "Eun-Ji Park",
+            "target": "OranjestadCreek Express Sagl",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2035-05-18T00:00:00",
+            "source": "Elise Hauser",
+            "target": "V. Miesel Shipping",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-11-15T00:00:00",
+            "source": "Harvey Janus",
+            "target": "SamakaDredgeTransport OJSC",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2032-04-10T00:00:00",
+            "source": "Harvey Janus",
+            "target": "SamakaDredgeTransport OJSC",
+            "key": 1,
+            "end_date": null
+        }
+    ]
+}

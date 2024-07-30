@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Force-Directed Graph with Legend</title>
+  <style>
+
+  </style>
+  <script src="js/ajax.googleapis.com_ajax_libs_jquery_3.6.4_jquery.min.js"></script>
+  <!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
+  <!-- <script src="legend.js"></script> -->
+  <link rel="stylesheet" href="./styles/style.css" />
+  <link href="styles/multiselect.css" rel="stylesheet"/>
+	<script src="js/multiselect.js"></script>
+</head>
+
+<body>
+  <div class="controls">
+    <div class="force" style="display: flex;justify-content: space-around">
+      <form action="https://wonderful-pond-0e92d1b10.3.azurestaticapps.net/">
+        <input id="mc1-answer" type="submit" value="MC1-Answer" />
+    </form>
+      <form action="https://calm-desert-026142b10.3.azurestaticapps.net/">
+        <input id="mc2" type="submit" value="MC2" />
+    </form>
+      <!-- <button id="mc2" onclick="redirectTo('page2.html')">MC2</button> -->
+    </div>
+
+  <!-- <div class="controls"> -->
+    <div class="force alpha">
+      <p><label>alpha</label> Simulation activity</p>
+      <div class="alpha_bar" onclick="updateAll();">
+        <div id="alpha_value"></div>
+      </div>
+    </div>
+
+    
+    <div class="force">
+      <!-- Degree of Separation Section -->
+      <p><label>Degree of Separation</label> Selected the degree of separation to see the relations between nodes.</p>
+      <select id="degree-select" onchange="updateAll()">
+          <option value="1">1st Degree</option>
+          <option value="2">2nd Degree</option>
+          <option value="3">3rd Degree</option>
+          <option value="4">4th Degree</option>
+          <option value="5">5th Degree</option>
+          <option value="6">6th Degree</option>
+          <option value="7">7th Degree</option>
+          <option value="8">8th Degree</option>
+          <option value="9">9th Degree</option>
+          <option value="10">10th Degree</option>
+      </select>
+        
+      <!-- Search input for node selection -->
+      <p><label for="node-select">Search node:</label></p>
+      <input type="text" id="node-select" oninput="updateAll()">
+      
+      <!-- Checkbox for focus functionality -->
+      <p><label><input type="checkbox" onchange="forceProperties.focus.enabled = this.checked; updateAll();">
+        Focus</label> Focuses on suspected nodes and displays nodes that are part of the direct path between the suspected nodes.</p>
+  </div>
+  
+      <!-- <div class="force">
+        <p><label><input type="checkbox" onchange="forceProperties.aggregation.enabled = this.checked; updateAll();">
+          Aggregation of data</label> Selected the type of aggregation for the presented network.</p>
+
+      <select id="aggregation-select" onchange="updateAll()">
+        <option value="link">Link</option>
+        <option value="both">Link+Node</option>
+
+      </select>
+    </div> -->
+    <div class="force">
+      <p><label><input type="checkbox" checked onchange="forceProperties.label.enabled = this.checked; updateWithOutData();">
+        Label</label> Show nodes label.</p>
+      <label>
+        Size
+        <output id="label-font-size">10</output>
+        <input type="range" min="0" max="30" value="10" step="1"
+          oninput="d3.select('#label-font-size').text(value); forceProperties.label.size =value; updateWithOutData();">
+      </label>
+      
+      <p><label><input type="checkbox" checked onchange="forceProperties.symbol.enabled = this.checked; updateWithOutData();">
+        Symbol</label> Use image/symbol instead of colors.</p>
+        <!-- </div>
+        <div class="force"> -->
+          <p><label><input type="checkbox" checked
+                onchange="forceProperties.country.enabled = this.checked; updateWithOutData();">
+              Country</label> Show the country name in the label for each node.</p>
+              <p><label>Country Filter</label> Filter nodes and links with country.</p>
+
+          <div id="country_section"> <select id="country_select">
+            </select></div>
+        
+        </div>
+    <div class="force">
+      <p><label>Weight (%)</label>Display only the links that fall within the specified range of link weight(%).</p>
+      <label>
+        <div class="range">
+        <div class="range-slider">
+          <span id="range-filled" class="range-selected"></span>
+        </div>
+        <div class="range-input">
+          <input type="range" id="weight-range-min" class="min" min="0" max="100" value="0" step="1" oninput="rangeInputChange(this);" onchange="forceProperties.weight.change = true; updateDataBcOfFilter();">
+          <input type="range" id="weight-range-max"class="max" min="0" max="100" value="100" step="1" oninput="rangeInputChange(this);" onchange="forceProperties.weight.change = true; updateDataBcOfFilter();">
+        </div>
+        <div class="range-output">
+          <label for="min">Min</label>
+          <input type="number" id="weight-box-min" class="min" min="0" max="100" step="1" value="0" oninput="rangeOutputChange(this);" onchange="forceProperties.weight.change = true; updateDataBcOfFilter();">
+          <label for="max">Max</label>
+          <input type="number" id="weight-box-max" class="max"  min="0" max="100" step="1" value="100" oninput="rangeOutputChange(this);" onchange="forceProperties.weight.change = true; updateDataBcOfFilter();">
+        </div>
+      </div> </label>
+      
+    </div>
+    <div class="force">
+      <p><label><input type="checkbox" checked onchange="forceProperties.charge.enabled = this.checked; updateWithOutData();">
+          charge</label> Attracts (+) or repels (-) nodes to/from each other.</p>
+      <label title="Negative strength repels nodes. Positive strength attracts nodes.">
+        strength
+        <output id="charge_StrengthSliderOutput">-30</output>
+        <input type="range" min="-200" max="50" value="-30" step=".1"
+          oninput="d3.select('#charge_StrengthSliderOutput').text(value); forceProperties.charge.strength=value; updateWithOutData();">
+      </label>
+      <label title="Minimum distance where force is applied">
+        distanceMin
+        <output id="charge_distanceMinSliderOutput">1</output>
+        <input type="range" min="0" max="50" value="1" step=".1"
+          oninput="d3.select('#charge_distanceMinSliderOutput').text(value); forceProperties.charge.distanceMin=value; updateWithOutData();">
+      </label>
+      <label title="Maximum distance where force is applied">
+        distanceMax
+        <output id="charge_distanceMaxSliderOutput">2000</output>
+        <input type="range" min="0" max="2000" value="2000" step=".1"
+          oninput="d3.select('#charge_distanceMaxSliderOutput').text(value); forceProperties.charge.distanceMax=value; updateWithOutData();">
+      </label>
+    </div>
+
+    <div class="force">
+      <p><label><input type="checkbox" checked onchange="forceProperties.collide.enabled = this.checked; updateWithOutData();">
+          collide</label> Prevents nodes from overlapping</p>
+      <label>
+        strength
+        <output id="collide_StrengthSliderOutput">.7</output>
+        <input type="range" min="0" max="2" value=".7" step=".1"
+          oninput="d3.select('#collide_StrengthSliderOutput').text(value); forceProperties.collide.strength=value; updateWithOutData();">
+      </label>
+      <label title="Size of nodes">
+        radius
+        <output id="collide_radiusSliderOutput">5</output>
+        <input type="range" min="0" max="100" value="5" step="1"
+          oninput="d3.select('#collide_radiusSliderOutput').text(value); forceProperties.collide.radius=value; updateWithOutData();">
+      </label>
+      <label title="Higher values increase rigidity of the nodes (WARNING: high values are computationally expensive)">
+        iterations
+        <output id="collide_iterationsSliderOutput">1</output>
+        <input type="range" min="1" max="10" value="1" step="1"
+          oninput="d3.select('#collide_iterationsSliderOutput').text(value); forceProperties.collide.iterations=value; updateWithOutData();">
+      </label>
+    </div>
+
+    
+    <div class="force">
+      <p><label><input type="checkbox" checked onchange="forceProperties.link.enabled = this.checked; updateWithOutData();">
+          link</label> Sets link length</p>
+      <label title="The force will push/pull nodes to make links this long">
+        distance
+        <output id="link_DistanceSliderOutput">80</output>
+        <input type="range" min="0" max="500" value="80" step="1"
+          oninput="d3.select('#link_DistanceSliderOutput').text(value); forceProperties.link.distance=value; updateWithOutData();">
+      </label>
+      <label title="Stroke Width">
+        Stroke Width
+        <output id="link_WidthSliderOutput">1</output>
+        <input type="range" min="0" max="10" value="1" step="1"
+          oninput="d3.select('#link_WidthSliderOutput').text(value); forceProperties.link.width=value; updateWithOutData();">
+      </label>
+      <label title="Higher values increase rigidity of the links (WARNING: high values are computationally expensive)">
+        iterations
+        <output id="link_IterationsSliderOutput">1</output>
+        <input type="range" min="1" max="10" value="1" step="1"
+          oninput="d3.select('#link_IterationsSliderOutput').text(value); forceProperties.link.iterations=value; updateWithOutData();">
+      </label>
+    </div>
+    <div class="force">
+      <p><label>center</label> Shifts the view, so the graph is centered at this location.</p>
+      <label>
+        x
+        <output id="center_XSliderOutput">.5</output>
+        <input type="range" min="0" max="1" value=".5" step="0.01"
+          oninput="d3.select('#center_XSliderOutput').text(value); forceProperties.center.x=value; updateWithOutData();">
+      </label>
+      <label>
+        y
+        <output id="center_YSliderOutput">.5</output>
+        <input type="range" min="0" max="1" value=".5" step="0.01"
+          oninput="d3.select('#center_YSliderOutput').text(value); forceProperties.center.y=value; updateWithOutData();">
+      </label>
+    </div>
+    <div class="force">
+      <p><label><input type="checkbox" onchange="forceProperties.forceX.enabled = this.checked; updateWithOutData();">
+          forceX</label> Acts like gravity. Pulls all points towards an X location.</p>
+      <label>
+        strength
+        <output id="forceX_StrengthSliderOutput">.1</output>
+        <input type="range" min="0" max="1" value=".1" step="0.01"
+          oninput="d3.select('#forceX_StrengthSliderOutput').text(value); forceProperties.forceX.strength=value; updateWithOutData();">
+      </label>
+      <label title="The X location that the force will push the nodes to (NOTE: This demo multiplies by the svg width)">
+        x
+        <output id="forceX_XSliderOutput">.5</output>
+        <input type="range" min="0" max="1" value=".5" step="0.01"
+          oninput="d3.select('#forceX_XSliderOutput').text(value); forceProperties.forceX.x=value; updateWithOutData();">
+      </label>
+    </div>
+
+    <div class="force">
+      <p><label><input type="checkbox" onchange="forceProperties.forceY.enabled = this.checked; updateWithOutData();">
+          forceY</label> Acts like gravity. Pulls all points towards a Y location.</p>
+      <label>
+        strength
+        <output id="forceY_StrengthSliderOutput">.1</output>
+        <input type="range" min="0" max="1" value=".1" step="0.01"
+          oninput="d3.select('#forceY_StrengthSliderOutput').text(value); forceProperties.forceY.strength=value; updateWithOutData();">
+      </label>
+      <label
+        title="The Y location that the force will push the nodes to (NOTE: This demo multiplies by the svg height)">
+        y
+        <output id="forceY_YSliderOutput">.5</output>
+        <input type="range" min="0" max="1" value=".5" step="0.01"
+          oninput="d3.select('#forceY_YSliderOutput').text(value); forceProperties.forceY.y=value; updateWithOutData();">
+      </label>
+    </div>
+
+  </div>
+  <!-- <div id="graphContainer" style="position: relative;"></div> -->
+  <svg class="graph"></svg>
+  
+  <script src="js/d3js.org_d3.v4.min.js"></script>
+  <script src="js/script.js"></script>
+
+</body>
+
+</html>

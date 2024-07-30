@@ -1,0 +1,1442 @@
+[
+    {
+        "node_id": 0,
+        "degree_centrality": 5.9477463448395186e-05,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9894736842105263
+    },
+    {
+        "node_id": 1,
+        "degree_centrality": 0.0006434380136690024,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5090876307248468
+    },
+    {
+        "node_id": 2,
+        "degree_centrality": 0.0003379401332295181,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7734239637478342
+    },
+    {
+        "node_id": 3,
+        "degree_centrality": 0.00034064365429535424,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7675059008654602
+    },
+    {
+        "node_id": 4,
+        "degree_centrality": 0.00037308590708538797,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7467320261437909
+    },
+    {
+        "node_id": 5,
+        "degree_centrality": 0.0001568042218184964,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9636363636363636
+    },
+    {
+        "node_id": 6,
+        "degree_centrality": 0.0003298295700320097,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7487394957983193
+    },
+    {
+        "node_id": 7,
+        "degree_centrality": 0.00033253309109784583,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.765702479338843
+    },
+    {
+        "node_id": 8,
+        "degree_centrality": 0.000392010554546241,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7104304146557667
+    },
+    {
+        "node_id": 9,
+        "degree_centrality": 0.0002730556276494506,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8546691403834261
+    },
+    {
+        "node_id": 10,
+        "degree_centrality": 0.00036497534388787957,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.771701982228298
+    },
+    {
+        "node_id": 11,
+        "degree_centrality": 0.0003082014015053205,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7972972972972973
+    },
+    {
+        "node_id": 12,
+        "degree_centrality": 0.0005001513971796868,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.634420224584159
+    },
+    {
+        "node_id": 13,
+        "degree_centrality": 0.0004704126654554892,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6646946824425405
+    },
+    {
+        "node_id": 14,
+        "degree_centrality": 0.0006272168872739856,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5234478830453769
+    },
+    {
+        "node_id": 15,
+        "degree_centrality": 0.000392010554546241,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7008765882005319
+    },
+    {
+        "node_id": 16,
+        "degree_centrality": 0.0006082922398131326,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5433280814446734
+    },
+    {
+        "node_id": 17,
+        "degree_centrality": 0.00030279435937364825,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8335279399499583
+    },
+    {
+        "node_id": 18,
+        "degree_centrality": 0.0003568647806903711,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7829457364341085
+    },
+    {
+        "node_id": 19,
+        "degree_centrality": 0.0002514274591227615,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.859096459096459
+    },
+    {
+        "node_id": 20,
+        "degree_centrality": 0.0002595380223202699,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8927018988789751
+    },
+    {
+        "node_id": 21,
+        "degree_centrality": 0.0006028851976814603,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5406828465651995
+    },
+    {
+        "node_id": 22,
+        "degree_centrality": 0.0006515485768665109,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5000175802538589
+    },
+    {
+        "node_id": 23,
+        "degree_centrality": 0.00042445280733627473,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6825303728529535
+    },
+    {
+        "node_id": 24,
+        "degree_centrality": 0.00017032182714767712,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9601092896174863
+    },
+    {
+        "node_id": 25,
+        "degree_centrality": 0.00039471407561207715,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7415501165501166
+    },
+    {
+        "node_id": 26,
+        "degree_centrality": 0.0002460204169910892,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8368232890704801
+    },
+    {
+        "node_id": 27,
+        "degree_centrality": 0.0002946837961761398,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8190795274202081
+    },
+    {
+        "node_id": 28,
+        "degree_centrality": 0.0004947443550480145,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6387354205033763
+    },
+    {
+        "node_id": 29,
+        "degree_centrality": 0.00020276407993771085,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8953576864535768
+    },
+    {
+        "node_id": 30,
+        "degree_centrality": 0.0006515485768665109,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5000175802538589
+    },
+    {
+        "node_id": 31,
+        "degree_centrality": 0.00024331689592525303,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.910135841170324
+    },
+    {
+        "node_id": 32,
+        "degree_centrality": 0.0006055887187472965,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5409889527536587
+    },
+    {
+        "node_id": 33,
+        "degree_centrality": 0.0006272168872739856,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5218530472754889
+    },
+    {
+        "node_id": 34,
+        "degree_centrality": 0.0004028246388095856,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.729568539744665
+    },
+    {
+        "node_id": 35,
+        "degree_centrality": 0.00030549788043948435,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7903357903357904
+    },
+    {
+        "node_id": 36,
+        "degree_centrality": 0.0005542218184964097,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5849875627956884
+    },
+    {
+        "node_id": 37,
+        "degree_centrality": 0.00039471407561207715,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7272727272727273
+    },
+    {
+        "node_id": 38,
+        "degree_centrality": 0.0002108746431352193,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9340350877192982
+    },
+    {
+        "node_id": 39,
+        "degree_centrality": 0.00020006055887187473,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8701095461658842
+    },
+    {
+        "node_id": 40,
+        "degree_centrality": 0.0002108746431352193,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8807017543859649
+    },
+    {
+        "node_id": 41,
+        "degree_centrality": 0.0006488450558006747,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5035634506967344
+    },
+    {
+        "node_id": 42,
+        "degree_centrality": 0.0006488450558006747,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5023579051873914
+    },
+    {
+        "node_id": 43,
+        "degree_centrality": 0.0002946837961761398,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8116734262034915
+    },
+    {
+        "node_id": 44,
+        "degree_centrality": 0.00033253309109784583,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8114325068870524
+    },
+    {
+        "node_id": 45,
+        "degree_centrality": 0.0005758499870230989,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5678627849243963
+    },
+    {
+        "node_id": 46,
+        "degree_centrality": 0.0002108746431352193,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.899298245614035
+    },
+    {
+        "node_id": 47,
+        "degree_centrality": 0.00021357816420105544,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.894395078605605
+    },
+    {
+        "node_id": 48,
+        "degree_centrality": 0.00028116619084695907,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8219763152785867
+    },
+    {
+        "node_id": 49,
+        "degree_centrality": 0.00030549788043948435,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7919737919737919
+    },
+    {
+        "node_id": 50,
+        "degree_centrality": 0.0003676788649537157,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7394231848277409
+    },
+    {
+        "node_id": 51,
+        "degree_centrality": 0.0003217190068345012,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7835249042145593
+    },
+    {
+        "node_id": 52,
+        "degree_centrality": 0.00021898520633272772,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8977604673807206
+    },
+    {
+        "node_id": 53,
+        "degree_centrality": 0.0002460204169910892,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8748723186925434
+    },
+    {
+        "node_id": 54,
+        "degree_centrality": 0.0005109654814430313,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6119257086999023
+    },
+    {
+        "node_id": 55,
+        "degree_centrality": 0.0005298901289038844,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.607179103680359
+    },
+    {
+        "node_id": 56,
+        "degree_centrality": 0.0006353274504714941,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5160944206008584
+    },
+    {
+        "node_id": 57,
+        "degree_centrality": 0.0004217492862704386,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.711484593837535
+    },
+    {
+        "node_id": 58,
+        "degree_centrality": 0.000167618306081841,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9259887005649717
+    },
+    {
+        "node_id": 59,
+        "degree_centrality": 0.0006380309715373302,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5160118851105976
+    },
+    {
+        "node_id": 60,
+        "degree_centrality": 0.00019735703780603857,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9573440643863179
+    },
+    {
+        "node_id": 61,
+        "degree_centrality": 0.0003379401332295181,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7301079568172731
+    },
+    {
+        "node_id": 62,
+        "degree_centrality": 0.00031631196470282896,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8073226544622426
+    },
+    {
+        "node_id": 63,
+        "degree_centrality": 0.00020276407993771085,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9353120243531202
+    },
+    {
+        "node_id": 64,
+        "degree_centrality": 0.00014599013755515182,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9638009049773756
+    },
+    {
+        "node_id": 65,
+        "degree_centrality": 0.00015139717968682412,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9587700908455625
+    },
+    {
+        "node_id": 66,
+        "degree_centrality": 0.0002108746431352193,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9112280701754386
+    },
+    {
+        "node_id": 67,
+        "degree_centrality": 0.0002297992905960723,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9033205994710549
+    },
+    {
+        "node_id": 68,
+        "degree_centrality": 0.0002406133748594169,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8920074846297781
+    },
+    {
+        "node_id": 69,
+        "degree_centrality": 0.00017572886927934943,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8991295442908346
+    },
+    {
+        "node_id": 70,
+        "degree_centrality": 0.0005650359027597543,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5784906899301159
+    },
+    {
+        "node_id": 71,
+        "degree_centrality": 0.0005542218184964097,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5853777495976199
+    },
+    {
+        "node_id": 72,
+        "degree_centrality": 0.00038119647028289643,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7399645500990512
+    },
+    {
+        "node_id": 73,
+        "degree_centrality": 0.0002406133748594169,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.888265169740711
+    },
+    {
+        "node_id": 74,
+        "degree_centrality": 0.0002162816852668916,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9267399267399268
+    },
+    {
+        "node_id": 75,
+        "degree_centrality": 0.0001432866164893157,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9466666666666667
+    },
+    {
+        "node_id": 76,
+        "degree_centrality": 0.00027575914871528676,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.881010101010101
+    },
+    {
+        "node_id": 77,
+        "degree_centrality": 0.0002108746431352193,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9407017543859649
+    },
+    {
+        "node_id": 78,
+        "degree_centrality": 0.00016491478501600484,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.907656341320865
+    },
+    {
+        "node_id": 79,
+        "degree_centrality": 0.0006191063240764772,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5273088768469065
+    },
+    {
+        "node_id": 80,
+        "degree_centrality": 0.0002649450644519422,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.843640350877193
+    },
+    {
+        "node_id": 81,
+        "degree_centrality": 0.00027575914871528676,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8022222222222222
+    },
+    {
+        "node_id": 82,
+        "degree_centrality": 0.0002108746431352193,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9245614035087719
+    },
+    {
+        "node_id": 83,
+        "degree_centrality": 0.0006407344926031664,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5085288234224404
+    },
+    {
+        "node_id": 84,
+        "degree_centrality": 0.00013787957435764338,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9744897959183674
+    },
+    {
+        "node_id": 85,
+        "degree_centrality": 0.00040012111774374946,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7258384506376948
+    },
+    {
+        "node_id": 86,
+        "degree_centrality": 0.00017572886927934943,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8643113159242192
+    },
+    {
+        "node_id": 87,
+        "degree_centrality": 0.0006299204083398218,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5196687370600414
+    },
+    {
+        "node_id": 88,
+        "degree_centrality": 0.00021357816420105544,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9084073820915927
+    },
+    {
+        "node_id": 89,
+        "degree_centrality": 0.00020276407993771085,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.875951293759513
+    },
+    {
+        "node_id": 90,
+        "degree_centrality": 0.0003676788649537157,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7744360902255639
+    },
+    {
+        "node_id": 91,
+        "degree_centrality": 0.0006136992819448048,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5318650793650793
+    },
+    {
+        "node_id": 92,
+        "degree_centrality": 0.0003082014015053205,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8396074646074646
+    },
+    {
+        "node_id": 93,
+        "degree_centrality": 0.00030279435937364825,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8343619683069224
+    },
+    {
+        "node_id": 94,
+        "degree_centrality": 0.0001811359114110217,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8889423076923076
+    },
+    {
+        "node_id": 95,
+        "degree_centrality": 0.0006191063240764772,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5312463451717282
+    },
+    {
+        "node_id": 96,
+        "degree_centrality": 0.0005677394238255904,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5761334076551468
+    },
+    {
+        "node_id": 97,
+        "degree_centrality": 0.0004514880179946362,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6869918699186992
+    },
+    {
+        "node_id": 98,
+        "degree_centrality": 0.0002297992905960723,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8865706729356451
+    },
+    {
+        "node_id": 99,
+        "degree_centrality": 0.0001027338005017735,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9285714285714286
+    },
+    {
+        "node_id": 100,
+        "degree_centrality": 0.00046500562332381693,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6700313261399234
+    },
+    {
+        "node_id": 101,
+        "degree_centrality": 0.0002460204169910892,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9085801838610827
+    },
+    {
+        "node_id": 102,
+        "degree_centrality": 0.0002892767540444675,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.841025641025641
+    },
+    {
+        "node_id": 103,
+        "degree_centrality": 0.00011895492689679037,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9732868757259001
+    },
+    {
+        "node_id": 104,
+        "degree_centrality": 0.0002784626697811229,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8617821782178218
+    },
+    {
+        "node_id": 105,
+        "degree_centrality": 0.00030279435937364825,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7969974979149291
+    },
+    {
+        "node_id": 106,
+        "degree_centrality": 0.0005271866078380482,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6145293609671848
+    },
+    {
+        "node_id": 107,
+        "degree_centrality": 0.0003622718228220434,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.784293314827666
+    },
+    {
+        "node_id": 108,
+        "degree_centrality": 0.000578553508088935,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5702852544040061
+    },
+    {
+        "node_id": 109,
+        "degree_centrality": 0.00024872393805692533,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.802247191011236
+    },
+    {
+        "node_id": 110,
+        "degree_centrality": 8.921619517259278e-05,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9634408602150538
+    },
+    {
+        "node_id": 111,
+        "degree_centrality": 0.0003190154857686651,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8019490254872563
+    },
+    {
+        "node_id": 112,
+        "degree_centrality": 0.0004271563284021109,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7110008271298593
+    },
+    {
+        "node_id": 113,
+        "degree_centrality": 0.0004514880179946362,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6877309682187731
+    },
+    {
+        "node_id": 114,
+        "degree_centrality": 0.0004406739337312916,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.672748447204969
+    },
+    {
+        "node_id": 115,
+        "degree_centrality": 0.0006245133662081495,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5249751015092315
+    },
+    {
+        "node_id": 116,
+        "degree_centrality": 0.00030279435937364825,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8455379482902419
+    },
+    {
+        "node_id": 117,
+        "degree_centrality": 0.0002838697119127952,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8596992194936227
+    },
+    {
+        "node_id": 118,
+        "degree_centrality": 0.00023790985379358075,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8590971272229823
+    },
+    {
+        "node_id": 119,
+        "degree_centrality": 0.00020817112206938316,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9037837837837838
+    },
+    {
+        "node_id": 120,
+        "degree_centrality": 0.00012706549009429882,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9565656565656566
+    },
+    {
+        "node_id": 121,
+        "degree_centrality": 0.00022168872739856388,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9316455696202531
+    },
+    {
+        "node_id": 122,
+        "degree_centrality": 0.00021357816420105544,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9217361585782639
+    },
+    {
+        "node_id": 123,
+        "degree_centrality": 0.00020276407993771085,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9147640791476408
+    },
+    {
+        "node_id": 124,
+        "degree_centrality": 0.000167618306081841,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9474576271186441
+    },
+    {
+        "node_id": 125,
+        "degree_centrality": 0.00012165844796262651,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9778516057585825
+    },
+    {
+        "node_id": 126,
+        "degree_centrality": 0.0003568647806903711,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.776386404293381
+    },
+    {
+        "node_id": 127,
+        "degree_centrality": 0.00027575914871528676,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8567676767676767
+    },
+    {
+        "node_id": 128,
+        "degree_centrality": 0.0004325633705337832,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7045069741191647
+    },
+    {
+        "node_id": 129,
+        "degree_centrality": 0.00038119647028289643,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7602961109373371
+    },
+    {
+        "node_id": 130,
+        "degree_centrality": 0.0006299204083398218,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5192546583850932
+    },
+    {
+        "node_id": 131,
+        "degree_centrality": 0.0005650359027597543,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5783968856995451
+    },
+    {
+        "node_id": 132,
+        "degree_centrality": 0.0006191063240764772,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5303107091341468
+    },
+    {
+        "node_id": 133,
+        "degree_centrality": 0.00029738731724197594,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8425060574593285
+    },
+    {
+        "node_id": 134,
+        "degree_centrality": 0.0002784626697811229,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8754455445544554
+    },
+    {
+        "node_id": 135,
+        "degree_centrality": 0.0005461112552989012,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5892964824120603
+    },
+    {
+        "node_id": 136,
+        "degree_centrality": 0.00029738731724197594,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8277950848044306
+    },
+    {
+        "node_id": 137,
+        "degree_centrality": 0.0003190154857686651,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8091454272863569
+    },
+    {
+        "node_id": 138,
+        "degree_centrality": 0.00020817112206938316,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8807207207207207
+    },
+    {
+        "node_id": 139,
+        "degree_centrality": 0.0002946837961761398,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8268383001234351
+    },
+    {
+        "node_id": 140,
+        "degree_centrality": 0.0002730556276494506,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8126159554730983
+    },
+    {
+        "node_id": 141,
+        "degree_centrality": 0.00016221126395016868,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8663036902601331
+    },
+    {
+        "node_id": 142,
+        "degree_centrality": 0.00019465351674020242,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9391304347826087
+    },
+    {
+        "node_id": 143,
+        "degree_centrality": 0.00021357816420105544,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8755980861244019
+    },
+    {
+        "node_id": 144,
+        "degree_centrality": 0.000616402803010641,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5325073746312684
+    },
+    {
+        "node_id": 145,
+        "degree_centrality": 0.0005812570291547711,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5663477721675968
+    },
+    {
+        "node_id": 146,
+        "degree_centrality": 0.0005461112552989012,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5904020100502513
+    },
+    {
+        "node_id": 147,
+        "degree_centrality": 0.0005731464659572628,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5720665299612668
+    },
+    {
+        "node_id": 148,
+        "degree_centrality": 0.00044337745479712775,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6662065792500576
+    },
+    {
+        "node_id": 149,
+        "degree_centrality": 0.0001568042218184964,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9415584415584416
+    },
+    {
+        "node_id": 150,
+        "degree_centrality": 0.00017572886927934943,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8965693804403482
+    },
+    {
+        "node_id": 151,
+        "degree_centrality": 0.0003136084436369928,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8242508927185219
+    },
+    {
+        "node_id": 152,
+        "degree_centrality": 0.0004325633705337832,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6985406756429896
+    },
+    {
+        "node_id": 153,
+        "degree_centrality": 0.0002892767540444675,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8252747252747252
+    },
+    {
+        "node_id": 154,
+        "degree_centrality": 0.0006082922398131326,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5331474972730578
+    },
+    {
+        "node_id": 155,
+        "degree_centrality": 0.000578553508088935,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5628632746132523
+    },
+    {
+        "node_id": 156,
+        "degree_centrality": 0.0004055281598754217,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7381871667585953
+    },
+    {
+        "node_id": 157,
+        "degree_centrality": 0.0006272168872739856,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5234099107651414
+    },
+    {
+        "node_id": 158,
+        "degree_centrality": 0.0004028246388095856,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7351598173515982
+    },
+    {
+        "node_id": 159,
+        "degree_centrality": 0.00015139717968682412,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8944793850454228
+    },
+    {
+        "node_id": 160,
+        "degree_centrality": 0.00017032182714767712,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9475409836065574
+    },
+    {
+        "node_id": 161,
+        "degree_centrality": 0.00017843239034518555,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9469246031746031
+    },
+    {
+        "node_id": 162,
+        "degree_centrality": 0.00015950774288433256,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9129072681704261
+    },
+    {
+        "node_id": 163,
+        "degree_centrality": 0.00013787957435764338,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9481292517006803
+    },
+    {
+        "node_id": 164,
+        "degree_centrality": 0.00025413098018859764,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8702818920210225
+    },
+    {
+        "node_id": 165,
+        "degree_centrality": 0.0002730556276494506,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8501339929911359
+    },
+    {
+        "node_id": 166,
+        "degree_centrality": 0.0005650359027597543,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5804136766568172
+    },
+    {
+        "node_id": 167,
+        "degree_centrality": 0.0003190154857686651,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8175412293853074
+    },
+    {
+        "node_id": 168,
+        "degree_centrality": 0.0005190760446405398,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6203842940685046
+    },
+    {
+        "node_id": 169,
+        "degree_centrality": 0.0006245133662081495,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5216808396537195
+    },
+    {
+        "node_id": 170,
+        "degree_centrality": 0.00029738731724197594,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8341986846659744
+    },
+    {
+        "node_id": 171,
+        "degree_centrality": 0.00019465351674020242,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9325051759834369
+    },
+    {
+        "node_id": 172,
+        "degree_centrality": 0.0003190154857686651,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8178410794602698
+    },
+    {
+        "node_id": 173,
+        "degree_centrality": 0.0002730556276494506,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8439497010925582
+    },
+    {
+        "node_id": 174,
+        "degree_centrality": 0.00020817112206938316,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9254054054054054
+    },
+    {
+        "node_id": 175,
+        "degree_centrality": 0.0003217190068345012,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8137341585617448
+    },
+    {
+        "node_id": 176,
+        "degree_centrality": 0.0002730556276494506,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8439497010925582
+    },
+    {
+        "node_id": 177,
+        "degree_centrality": 0.00017572886927934943,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9441884280593958
+    },
+    {
+        "node_id": 178,
+        "degree_centrality": 0.00015950774288433256,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9373433583959899
+    },
+    {
+        "node_id": 179,
+        "degree_centrality": 8.921619517259278e-05,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9935483870967742
+    },
+    {
+        "node_id": 180,
+        "degree_centrality": 0.0003757894281512241,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7478531558608845
+    },
+    {
+        "node_id": 181,
+        "degree_centrality": 0.000392010554546241,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7352506648281296
+    },
+    {
+        "node_id": 182,
+        "degree_centrality": 0.00026764858551777836,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8846649484536082
+    },
+    {
+        "node_id": 183,
+        "degree_centrality": 0.0005623323816939181,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5753729576130713
+    },
+    {
+        "node_id": 184,
+        "degree_centrality": 0.0005758499870230989,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5648837734145791
+    },
+    {
+        "node_id": 185,
+        "degree_centrality": 0.00048663379185050605,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6485113946549863
+    },
+    {
+        "node_id": 186,
+        "degree_centrality": 0.0005380006921013929,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5987775820988294
+    },
+    {
+        "node_id": 187,
+        "degree_centrality": 0.0005515182974305735,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5913009211368898
+    },
+    {
+        "node_id": 188,
+        "degree_centrality": 0.00026224154338610605,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8217245240761478
+    },
+    {
+        "node_id": 189,
+        "degree_centrality": 0.00034064365429535424,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7956989247311828
+    },
+    {
+        "node_id": 190,
+        "degree_centrality": 0.00019465351674020242,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9383022774327122
+    },
+    {
+        "node_id": 191,
+        "degree_centrality": 0.0001919499956743663,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9138959931798807
+    },
+    {
+        "node_id": 192,
+        "degree_centrality": 0.00022709576953023616,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8473351400180669
+    },
+    {
+        "node_id": 193,
+        "degree_centrality": 0.0002460204169910892,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8799795709908069
+    },
+    {
+        "node_id": 194,
+        "degree_centrality": 0.00022168872739856388,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8541139240506329
+    },
+    {
+        "node_id": 195,
+        "degree_centrality": 0.0001811359114110217,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9048076923076923
+    },
+    {
+        "node_id": 196,
+        "degree_centrality": 0.0001568042218184964,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9525974025974026
+    },
+    {
+        "node_id": 197,
+        "degree_centrality": 0.0002838697119127952,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8494193794022463
+    },
+    {
+        "node_id": 198,
+        "degree_centrality": 0.00015950774288433256,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9649122807017544
+    },
+    {
+        "node_id": 199,
+        "degree_centrality": 0.00025683450125443374,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.875409069658719
+    },
+    {
+        "node_id": 200,
+        "degree_centrality": 9.191971623842893e-05,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9334677419354839
+    },
+    {
+        "node_id": 201,
+        "degree_centrality": 0.0002595380223202699,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8801189659116907
+    },
+    {
+        "node_id": 202,
+        "degree_centrality": 0.00044337745479712775,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6777087646652864
+    },
+    {
+        "node_id": 203,
+        "degree_centrality": 0.0005758499870230989,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.570796659896186
+    },
+    {
+        "node_id": 204,
+        "degree_centrality": 0.0004460809758629639,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.6972657729303946
+    },
+    {
+        "node_id": 205,
+        "degree_centrality": 0.0002838697119127952,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.868265752903103
+    },
+    {
+        "node_id": 206,
+        "degree_centrality": 0.00024872393805692533,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8279650436953808
+    },
+    {
+        "node_id": 207,
+        "degree_centrality": 0.0002946837961761398,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.85469934755775
+    },
+    {
+        "node_id": 208,
+        "degree_centrality": 0.00022709576953023616,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8885877747666365
+    },
+    {
+        "node_id": 209,
+        "degree_centrality": 0.0003136084436369928,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8034466697717746
+    },
+    {
+        "node_id": 210,
+        "degree_centrality": 0.00020006055887187473,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9014084507042254
+    },
+    {
+        "node_id": 211,
+        "degree_centrality": 0.00015950774288433256,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9486215538847118
+    },
+    {
+        "node_id": 212,
+        "degree_centrality": 0.000205467601003547,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9033691225472047
+    },
+    {
+        "node_id": 213,
+        "degree_centrality": 0.0001919499956743663,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.933930093776641
+    },
+    {
+        "node_id": 214,
+        "degree_centrality": 0.0001568042218184964,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9558441558441558
+    },
+    {
+        "node_id": 215,
+        "degree_centrality": 0.0002784626697811229,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8112871287128713
+    },
+    {
+        "node_id": 216,
+        "degree_centrality": 8.38091530409205e-05,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9630541871921182
+    },
+    {
+        "node_id": 217,
+        "degree_centrality": 0.0001568042218184964,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9428571428571428
+    },
+    {
+        "node_id": 218,
+        "degree_centrality": 0.00031631196470282896,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.77162471395881
+    },
+    {
+        "node_id": 219,
+        "degree_centrality": 0.00012436196902846267,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.952431289640592
+    },
+    {
+        "node_id": 220,
+        "degree_centrality": 0.00030279435937364825,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8343619683069224
+    },
+    {
+        "node_id": 221,
+        "degree_centrality": 0.00022439224846440003,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.946604938271605
+    },
+    {
+        "node_id": 222,
+        "degree_centrality": 0.0003082014015053205,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8293114543114544
+    },
+    {
+        "node_id": 223,
+        "degree_centrality": 0.000597478155549788,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5525533073603954
+    },
+    {
+        "node_id": 224,
+        "degree_centrality": 0.00038660351241456874,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7418439716312056
+    },
+    {
+        "node_id": 225,
+        "degree_centrality": 0.00034605069642702654,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8053333333333333
+    },
+    {
+        "node_id": 226,
+        "degree_centrality": 0.0006326239294056579,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.5153754291685326
+    },
+    {
+        "node_id": 227,
+        "degree_centrality": 0.0002514274591227615,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8407814407814408
+    },
+    {
+        "node_id": 228,
+        "degree_centrality": 0.0002162816852668916,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9453879453879453
+    },
+    {
+        "node_id": 229,
+        "degree_centrality": 0.00035145773855869885,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7598425196850394
+    },
+    {
+        "node_id": 230,
+        "degree_centrality": 0.000205467601003547,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9518696778970751
+    },
+    {
+        "node_id": 231,
+        "degree_centrality": 0.00012706549009429882,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.990909090909091
+    },
+    {
+        "node_id": 232,
+        "degree_centrality": 0.00022439224846440003,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9191358024691358
+    },
+    {
+        "node_id": 233,
+        "degree_centrality": 0.000354161259624535,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.7847625968992248
+    },
+    {
+        "node_id": 234,
+        "degree_centrality": 0.00021898520633272772,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9201557935735151
+    },
+    {
+        "node_id": 235,
+        "degree_centrality": 0.00016491478501600484,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9175920514319111
+    },
+    {
+        "node_id": 236,
+        "degree_centrality": 0.0002703521065836145,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8607195455501788
+    },
+    {
+        "node_id": 237,
+        "degree_centrality": 0.00021357816420105544,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9213943950786057
+    },
+    {
+        "node_id": 238,
+        "degree_centrality": 0.00018924647460853014,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.8884986830553117
+    },
+    {
+        "node_id": 239,
+        "degree_centrality": 0.00013517605329180725,
+        "betweenness_centrality": 0.0,
+        "clustering_coefficient": 0.9432624113475178
+    }
+]

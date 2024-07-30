@@ -1,0 +1,402 @@
+{
+    "nodes": [
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Isla Solmar",
+            "ProductServices": "Fish and seafood products (tuna, salmon, herring, shellfish, and groundfish products; and flounder fillets, cornmeal pollock strips, burger, tuna steak, frozen halibut steaks, as well as canned sockeye salmon and frozen sockeye, and crabs)",
+            "PointOfContact": "Thomas Carson",
+            "HeadOfOrg": "Silvano Acevedo Ord\u00f3\u00f1ez",
+            "founding_date": "2003-10-10T00:00:00",
+            "revenue": 36166.76,
+            "TradeDescription": "Fox, Chapman and Stone is a leading provider of high-quality fish and seafood products, offering a wide range of fresh and frozen options to meet the demands of discerning customers. Their product line includes tuna, salmon, herring, shellfish, and groundfish products, as well as flounder fillets, cornmeal pollock strips, burgers, tuna steak, frozen halibut steaks, and canned sockeye salmon, among others.",
+            "id": "Fox, Chapman and Stone",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Manufacturing and exporting laundry, non-woven/PVC storage items, cooler bag and shopping bag with one stop sourcing service",
+            "PointOfContact": "Vanessa Wood",
+            "HeadOfOrg": "Mtro. Modesto Pizarro",
+            "founding_date": "2027-04-23T00:00:00",
+            "revenue": 87766.67,
+            "TradeDescription": "Graham-Andrews is a global supplier of innovative laundry and storage solutions, offering a wide range of products and services to meet the needs of customers worldwide. With a focus on quality, durability, and sustainability, the company's products are designed to provide practical and stylish storage solutions for various industries.",
+            "id": "Graham-Andrews",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Emily Moran",
+            "HeadOfOrg": "Arthur Martinez",
+            "founding_date": "1998-10-08T00:00:00",
+            "revenue": 11096.67,
+            "TradeDescription": "Unknown",
+            "id": "Hughes, Martinez and Chan",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Novarctica",
+            "ProductServices": "Materials for the ceramic, glass, and metal industry",
+            "PointOfContact": "Joshua Washington",
+            "HeadOfOrg": "Anthony Gomez",
+            "founding_date": "1969-10-09T00:00:00",
+            "revenue": 144666.67,
+            "TradeDescription": "Newman, Martinez and Carpenter is a leading supplier of high-quality materials to the ceramic, glass, and metal industries. Their extensive product line includes raw materials, finished components, and custom-designed solutions, all of which are sourced from reputable suppliers and rigorously tested to ensure consistency and reliability.",
+            "id": "Newman, Martinez and Carpenter",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Mawalara",
+            "ProductServices": "Grocery products",
+            "PointOfContact": "Emily Moran",
+            "HeadOfOrg": "Felipe Leticia Carranza",
+            "founding_date": "1978-11-02T00:00:00",
+            "revenue": 264331.71,
+            "TradeDescription": "Olson-Mitchell is a leading provider of high-quality grocery products, including fresh produce, meat, dairy, and household essentials. With a focus on sustainability and customer satisfaction, the company offers a wide range of products that cater to diverse tastes and dietary preferences.",
+            "id": "Olson-Mitchell",
+            "dob": null
+        },
+        {
+            "dob": "1973-10-16T00:00:00",
+            "country": "Mawalara",
+            "type": "Entity.Person",
+            "id": "Tanner Morris"
+        },
+        {
+            "dob": "1988-08-09T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "Jennifer Schwartz"
+        },
+        {
+            "dob": "1989-12-19T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "Willie Robbins"
+        },
+        {
+            "dob": "1974-03-16T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "John Gibson"
+        },
+        {
+            "dob": "2010-08-28T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "Michael Barber"
+        },
+        {
+            "dob": "1982-06-25T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "David Nash"
+        },
+        {
+            "dob": "1980-03-31T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "Sara Reed"
+        },
+        {
+            "dob": "1972-12-16T00:00:00",
+            "country": "Gavanovia",
+            "type": "Entity.Person",
+            "id": "Thomas Carson"
+        },
+        {
+            "dob": "1992-03-04T00:00:00",
+            "country": "Uzifrica",
+            "type": "Entity.Person",
+            "id": "Silvano Acevedo Ord\u00f3\u00f1ez"
+        },
+        {
+            "dob": "1988-10-18T00:00:00",
+            "country": "Syrithania",
+            "type": "Entity.Person",
+            "id": "Johnny Cole"
+        },
+        {
+            "dob": "1988-04-09T00:00:00",
+            "country": "Novarctica",
+            "type": "Entity.Person",
+            "id": "Roy James"
+        },
+        {
+            "dob": "1973-03-18T00:00:00",
+            "country": "Coralada",
+            "type": "Entity.Person",
+            "id": "Madeline Hall"
+        },
+        {
+            "dob": "1996-06-13T00:00:00",
+            "country": "Nyxonix",
+            "type": "Entity.Person",
+            "id": "Craig Hall"
+        },
+        {
+            "dob": "1970-09-29T00:00:00",
+            "country": "Valtalmo",
+            "type": "Entity.Person",
+            "id": "Chelsea Collins"
+        },
+        {
+            "dob": "1983-12-03T00:00:00",
+            "country": "Isla Solmar",
+            "type": "Entity.Person",
+            "id": "Joshua Moreno"
+        },
+        {
+            "dob": "1977-06-04T00:00:00",
+            "country": "Jiraputra",
+            "type": "Entity.Person",
+            "id": "Brad Sandoval"
+        }
+    ],
+    "links": [
+        {
+            "start_date": "2005-10-26T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Tanner Morris",
+            "target": "Olson-Mitchell",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-08-11T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Tanner Morris",
+            "target": "Graham-Andrews",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2024-10-01T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Tanner Morris",
+            "target": "Hughes, Martinez and Chan",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2034-07-11T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Tanner Morris",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2021-08-10T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Jennifer Schwartz",
+            "target": "Newman, Martinez and Carpenter",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-02T00:00:00",
+            "source": "Jennifer Schwartz",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2020-09-21T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Willie Robbins",
+            "target": "Newman, Martinez and Carpenter",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-02T00:00:00",
+            "source": "Willie Robbins",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2011-07-16T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "John Gibson",
+            "target": "Newman, Martinez and Carpenter",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-02T00:00:00",
+            "source": "John Gibson",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-01-26T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Michael Barber",
+            "target": "Newman, Martinez and Carpenter",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-02T00:00:00",
+            "source": "Michael Barber",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2005-06-04T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "David Nash",
+            "target": "Newman, Martinez and Carpenter",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-02T00:00:00",
+            "source": "David Nash",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2028-03-05T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Sara Reed",
+            "target": "Newman, Martinez and Carpenter",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-09-02T00:00:00",
+            "source": "Sara Reed",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2020-12-05T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-09-02T00:00:00",
+            "source": "Thomas Carson",
+            "target": "Fox, Chapman and Stone",
+            "key": 0
+        },
+        {
+            "start_date": "2035-09-02T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-09-02T00:00:00",
+            "source": "Thomas Carson",
+            "target": "Fox, Chapman and Stone",
+            "key": 0
+        },
+        {
+            "start_date": "2025-10-09T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Silvano Acevedo Ord\u00f3\u00f1ez",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2030-04-16T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Johnny Cole",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2029-10-21T00:00:00",
+            "source": "Johnny Cole",
+            "target": "Fox, Chapman and Stone",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2007-01-24T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Roy James",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2006-07-13T00:00:00",
+            "source": "Roy James",
+            "target": "Fox, Chapman and Stone",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2008-08-04T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Madeline Hall",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2008-01-24T00:00:00",
+            "source": "Madeline Hall",
+            "target": "Fox, Chapman and Stone",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2032-02-11T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Craig Hall",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2015-01-24T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Chelsea Collins",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2031-04-16T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Joshua Moreno",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2029-12-23T00:00:00",
+            "source": "Joshua Moreno",
+            "target": "Fox, Chapman and Stone",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2017-07-13T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Brad Sandoval",
+            "target": "Fox, Chapman and Stone",
+            "key": 0,
+            "end_date": null
+        }
+    ]
+}

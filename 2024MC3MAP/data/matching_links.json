@@ -1,0 +1,4026 @@
+[
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Gallegos, Brooks and Miller",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Santos, Sandoval and Wallace",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2019-10-27T00:00:00",
+        "source": "Vasquez-Gonzalez",
+        "target": "KambalaAqua Delivery Plc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2024-03-05T00:00:00",
+        "source": "Vasquez-Gonzalez",
+        "target": "ArawakCharter Boat Transit Plc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Kelsey Ortega",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Joseph Gentry",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Cynthia Anderson",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Anna Davis",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Katie Evans",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Jennifer Gardner",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Wesley Phillips",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Alan Richardson",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Joseph Brown",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Jason Anderson",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Melissa Davis",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Joshua Kent",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Aaron Delgado",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Breanna Price",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Sandra Young",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Alexandra Clay",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Zachary Taylor",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Kenneth Gonzales",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Erica Ford",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Catherine Macias",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Sydney Jones",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Anne Villanueva",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-16T00:00:00",
+        "source": "John Phillips",
+        "target": "Bene\u0161 Tich\u00fd s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-16T00:00:00",
+        "source": "Dennis Hamilton",
+        "target": "Bene\u0161 Tich\u00fd s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-16T00:00:00",
+        "source": "Mary Richards",
+        "target": "Bene\u0161 Tich\u00fd s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-16T00:00:00",
+        "source": "Brenda Rivera",
+        "target": "Bene\u0161 Tich\u00fd s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Sharon Moon",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Dana Moore",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-16T00:00:00",
+        "source": "Ryan Wong",
+        "target": "Bene\u0161 Tich\u00fd s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Timothy Jones",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Leslie Garza",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-05-19T00:00:00",
+        "source": "Kathryn Mccoy",
+        "target": "Mare\u0161 Pokorn\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "David Waters",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Arthur Carter",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Steven Smith Jr.",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Terri Stein",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-12-29T00:00:00",
+        "source": "Alexis Turner",
+        "target": "Navr\u00e1til a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-12-29T00:00:00",
+        "source": "Casey Marsh",
+        "target": "Navr\u00e1til a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-05-19T00:00:00",
+        "source": "Debra Miller",
+        "target": "Mare\u0161 Pokorn\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-05-19T00:00:00",
+        "source": "Mrs. Loretta Scott",
+        "target": "Mare\u0161 Pokorn\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-05-19T00:00:00",
+        "source": "Jennifer Strickland",
+        "target": "Mare\u0161 Pokorn\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "David Herrera",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Megan Miller",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Dorothy Carpenter",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Janet Hunt",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Patricia Ferguson",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-21T00:00:00",
+        "source": "Paul Chambers",
+        "target": "Posp\u00ed\u0161ilov\u00e1 Valentov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "Matthew Crawford PhD",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "Elizabeth Robles",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Brandon Brown",
+        "target": "B\u00edlek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Brandon Brown",
+        "target": "B\u00edlek a.s.",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Stephanie Scott",
+        "target": "B\u00edlek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "William Horne",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Matthew Hess",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Frank Garcia",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Vanessa Carr",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Christopher Brooks",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Catherine Pierce",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Craig Jacobson",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Jeffrey Oneal",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Yesenia Robinson",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Jennifer Salazar",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Gregory Barnes",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Heather Harris",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Michael Barker",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Lisa Valdez",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Anthony Gilbert",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Cristian Sullivan",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Richard Zimmerman",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Angela Moore",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Colin Zuniga",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Scott Carroll",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Kristin Mcmahon",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Robert Lopez",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Michelle Macias",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Richard Lozano",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Thomas Morgan",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Stephanie Carter",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Jeremy Collins",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Sarah Dunn",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Cheryl Jones",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Marc Church",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Tanner Mooney",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-12-29T00:00:00",
+        "source": "Deborah Cardenas",
+        "target": "Navr\u00e1til a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-12-29T00:00:00",
+        "source": "Brandi Hines",
+        "target": "Navr\u00e1til a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Donna Burgess",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Meredith Garcia",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Bethany Vaughn",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Sabrina Gibson",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Robert Caldwell",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Michelle Stark",
+        "target": "B\u00edlek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "Pamela Brown",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "Chelsea Hernandez",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Derek Weber",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Rodney Campbell",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Diane Mullins",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Bethany Mckay",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-09T00:00:00",
+        "source": "Craig Holmes",
+        "target": "Holub V\u00edtek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Kelli Perez",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-26T00:00:00",
+        "source": "Gabriel Foster",
+        "target": "Dole\u017eal v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-21T00:00:00",
+        "source": "Eric Jones",
+        "target": "Posp\u00ed\u0161ilov\u00e1 Valentov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-21T00:00:00",
+        "source": "Jos\u00e9 Mar\u00eda Gir\u00f3n",
+        "target": "Posp\u00ed\u0161ilov\u00e1 Valentov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-05-19T00:00:00",
+        "source": "Betty Watson",
+        "target": "Mare\u0161 Pokorn\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Joel Richards",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Joel Richards",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-09T00:00:00",
+        "source": "Augusto Estrada",
+        "target": "Holub V\u00edtek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Beverly Moore",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-26T00:00:00",
+        "source": "William Watts",
+        "target": "Dole\u017eal v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-02-26T00:00:00",
+        "source": "William Watts",
+        "target": "Dole\u017eal v.o.s.",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Ver\u00f3nica Rivero Collado",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Julie Ballard",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Erik Coffey",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Kristina Davis",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Katherine Roberson",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Russell Reese",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Brian Baldwin",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Elaine Butler",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Jackie Miller",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Juan Torres",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Ms. Lisa Moore",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Andrea Snyder",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Angela Rivas",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Ad\u00e8le Faure",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Crystal Jarvis MD",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2033-03-03T00:00:00",
+        "source": "Tonya Lucero",
+        "target": "Haas-Tran",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-21T00:00:00",
+        "source": "Tonya Lucero",
+        "target": "Posp\u00ed\u0161ilov\u00e1 Valentov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2022-11-12T00:00:00",
+        "source": "Connie Martin",
+        "target": "Benjamin-Porter",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "start_date": "2034-12-09T00:00:00",
+        "type": "Event.Owns.Shareholdership",
+        "source": "Patrizio Errani",
+        "target": "Bentley Inc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "start_date": "2034-12-09T00:00:00",
+        "type": "Event.Owns.Shareholdership",
+        "source": "Charles Galloway",
+        "target": "Bentley Inc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "Douglas Mccormick",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "Keith Olson",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "Penny Kerr",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "Gregory Obrien",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "Adrian Warren",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "Colin Ellis",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "Peter Rice",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Susan Marques",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Brett Lloyd",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Corey Cohen",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Daniel Rocha",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Ebony Humphrey",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Devin Morgan",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Diana Bell",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Darlene White",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Tina Jacobson",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Daniel Meyers",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2016-12-29T00:00:00",
+        "source": "Tiffany Reed",
+        "target": "Brady, Sanchez and Stevenson",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Maria Ramirez",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Scott Nolan",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Larry Cooper",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Mary Carter",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Brandon Osborne Jr.",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Donald Simmons",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-16T00:00:00",
+        "source": "Angel Black",
+        "target": "Havel Ku\u010derov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "David Rogers",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Jason Quinn",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Carly Holmes",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Karen Mccann",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Travis Mcbride",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Nicole Lynch",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Sean Charles",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Samantha Dixon",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Rodney Kim",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Gregory Mccall",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Jean Hunt",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "start_date": "2033-12-25T00:00:00",
+        "type": "Event.Owns.Shareholdership",
+        "source": "Christine Green",
+        "target": "Carter, Lewis and Terry",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2033-12-25T00:00:00",
+        "source": "Christine Green",
+        "target": "Carter, Lewis and Terry",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2023-06-19T00:00:00",
+        "source": "Olivia Bowen",
+        "target": "Carter, Porter and Ellis",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-10-15T00:00:00",
+        "source": "Alexander Sexton",
+        "target": "Chandler-Norman",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "start_date": "2024-08-14T00:00:00",
+        "type": "Event.Owns.Shareholdership",
+        "source": "Corey Cameron",
+        "target": "Chapman-Estrada",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-11-17T00:00:00",
+        "source": "Anthony Mosley",
+        "target": "Crawford-Rice",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "Barbara Molina",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-05T00:00:00",
+        "source": "John Garrett",
+        "target": "\u010cechov\u00e1 Ka\u0161par s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Cindy Barrett",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Mark Tate",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Danny Joyce",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Nicole Jensen",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Patricia Paul",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "start_date": "2033-12-15T00:00:00",
+        "type": "Event.Owns.Shareholdership",
+        "source": "Alejandro Turner",
+        "target": "Goodman-Sharp",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-21T00:00:00",
+        "source": "\u00c9milie-Jacqueline Gros",
+        "target": "Posp\u00ed\u0161ilov\u00e1 Valentov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-21T00:00:00",
+        "source": "Jackie Ho",
+        "target": "Posp\u00ed\u0161ilov\u00e1 Valentov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-21T00:00:00",
+        "source": "Briana Martin",
+        "target": "Posp\u00ed\u0161ilov\u00e1 Valentov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-21T00:00:00",
+        "source": "Mr. Brian Romero DDS",
+        "target": "Posp\u00ed\u0161ilov\u00e1 Valentov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-21T00:00:00",
+        "source": "Roger Morris",
+        "target": "Posp\u00ed\u0161ilov\u00e1 Valentov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-21T00:00:00",
+        "source": "Ruben Carlson",
+        "target": "Posp\u00ed\u0161ilov\u00e1 Valentov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-21T00:00:00",
+        "source": "Amber Montgomery",
+        "target": "Posp\u00ed\u0161ilov\u00e1 Valentov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2033-05-04T00:00:00",
+        "source": "Kristopher Johnson",
+        "target": "Harris PLC",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Jessica Gentry",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-12T00:00:00",
+        "source": "Amy Rose",
+        "target": "\u0160\u0165astn\u00e1 Strnad v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-03-26T00:00:00",
+        "source": "Mark Dillon",
+        "target": "Hogan and Sons",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2031-10-05T00:00:00",
+        "source": "Ashley Campos",
+        "target": "Hudson-Oconnor",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2032-06-10T00:00:00",
+        "source": "Christina Davidson",
+        "target": "Jimenez-Galvan",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "start_date": "2033-07-15T00:00:00",
+        "type": "Event.Owns.Shareholdership",
+        "source": "Timothy Wyatt",
+        "target": "Johnson, Reed and Conrad",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-02-26T00:00:00",
+        "source": "Tiffany Waters",
+        "target": "Dole\u017eal v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Courtney Blevins",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Claudia Brooks",
+        "target": "B\u00edlek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Jay Mora",
+        "target": "B\u00edlek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Benjamin Farmer",
+        "target": "B\u00edlek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Mr. Aaron Shaw",
+        "target": "B\u00edlek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Bridget Smith",
+        "target": "B\u00edlek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Deborah Juarez",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-04-07T00:00:00",
+        "source": "Melissa Welch",
+        "target": "Lam, Rojas and Holder",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2019-10-19T00:00:00",
+        "source": "Scott Sweeney",
+        "target": "Landry, Rodriguez and Flores",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "start_date": "2024-10-21T00:00:00",
+        "type": "Event.Owns.Shareholdership",
+        "source": "Dr. Wesley Brown",
+        "target": "Lawson, Wright and Perkins",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Samuel Jackson",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Cassie Schroeder",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Tammy Dominguez",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Kristin Ramirez",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Margaret Campos",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Jeremiah Gutierrez",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "start_date": "2034-11-30T00:00:00",
+        "type": "Event.Owns.Shareholdership",
+        "source": "Anthony Winters",
+        "target": "Ramos, Wilkerson and Wolf",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-02-26T00:00:00",
+        "source": "Sabrina Gonzalez",
+        "target": "Dole\u017eal v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Joseph Moore",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "John Weber",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Wesley Hill",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Emily Mcdonald",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Ashley Chen",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Jeremy Ross",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Brittany Tran",
+        "target": "Tomanov\u00e1 Musil s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-05-19T00:00:00",
+        "source": "Morgan Smith",
+        "target": "Mare\u0161 Pokorn\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "start_date": "2031-09-24T00:00:00",
+        "type": "Event.Owns.Shareholdership",
+        "source": "April Archer",
+        "target": "Padilla and Sons",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Brenda Avila",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Julie Cross",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Emily Cooley",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Linda Sherman",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Maria Novak",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Julia Hopkins",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Zoe Anderson",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Jeffery Herrera",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Anna Ross",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Sonya Middleton",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Carrie Hester",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Kaylee Marshall",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Linda Murray",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Dawn Sanders",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Shawn Perkins",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Heidi Peters",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Lawrence Lopez",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-07-13T00:00:00",
+        "source": "Tyler Le",
+        "target": "Pol\u00e1k Proch\u00e1zka a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Stephanie Boone",
+        "target": "B\u00edlek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Heather Watson",
+        "target": "B\u00edlek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Drew Montgomery",
+        "target": "B\u00edlek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Julien Delattre",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Joshua Torres",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Tracy Mckay",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Tamara Jennings",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Dana Shaw MD",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Mr. Jonathan Randall",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Curtis Schmidt",
+        "target": "N\u011bmec Jane\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Alfred Vaughn",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Darlene Brown",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Kathleen Macdonald",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Reginald Day",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-03-18T00:00:00",
+        "source": "Melinda Dawson",
+        "target": "Ma\u0161kov\u00e1 Markov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-09-10T00:00:00",
+        "source": "Claudia Simpson",
+        "target": "Sheppard Ltd",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-16T00:00:00",
+        "source": "Michelle Robinson",
+        "target": "Bene\u0161 Tich\u00fd s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-16T00:00:00",
+        "source": "Jacqueline Clark",
+        "target": "Bene\u0161 Tich\u00fd s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-10-16T00:00:00",
+        "source": "Jared Torres",
+        "target": "Bene\u0161 Tich\u00fd s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-29T00:00:00",
+        "source": "Lazzaro Trapani-Tasso",
+        "target": "Navr\u00e1til a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-29T00:00:00",
+        "source": "Karina Davis",
+        "target": "Navr\u00e1til a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "start_date": "2034-01-05T00:00:00",
+        "type": "Event.Owns.Shareholdership",
+        "source": "Connie Prince",
+        "target": "Smith, Galvan and Baldwin",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-01-05T00:00:00",
+        "source": "Connie Prince",
+        "target": "Smith, Galvan and Baldwin",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2033-02-16T00:00:00",
+        "source": "Frank Levy",
+        "target": "Stout, Kelley and Burns",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2019-08-03T00:00:00",
+        "source": "Christina Harvey",
+        "target": "Stout-Waller",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "start_date": "2032-10-18T00:00:00",
+        "type": "Event.Owns.Shareholdership",
+        "source": "Jodi Hernandez",
+        "target": "Trujillo-Rhodes",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2021-11-24T00:00:00",
+        "source": "Billy Hays",
+        "target": "Turner-Rosales",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-08-19T00:00:00",
+        "source": "Gary Morris",
+        "target": "Walker-Paul",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-08-19T00:00:00",
+        "source": "Gloria Quinn",
+        "target": "Walker-Paul",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-02-26T00:00:00",
+        "source": "Todd Leonard",
+        "target": "Dole\u017eal v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-02-26T00:00:00",
+        "source": "Howard Sanders",
+        "target": "Dole\u017eal v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-02-26T00:00:00",
+        "source": "Carrie Brewer",
+        "target": "Dole\u017eal v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-02-26T00:00:00",
+        "source": "Annette Barry",
+        "target": "Dole\u017eal v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Carla Saraceno",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Cassandra Garrison",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Diana Harrington",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Nichole Gomez",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Shelby York",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Mrs. Kimberly Ramirez",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-12-26T00:00:00",
+        "source": "Mrs. Julia Nelson MD",
+        "target": "H\u00e1jkov\u00e1 Bure\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-11-26T00:00:00",
+        "source": "Edward Price",
+        "target": "Williams-Henry",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-11-26T00:00:00",
+        "source": "Bryan Baker",
+        "target": "Williams-Henry",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Patricia Lindsey",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Glen Hernandez",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Sheila Dickson",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Dana Williamson",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Deanna Bean",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Alyssa Parks",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-08-05T00:00:00",
+        "source": "Tammy Ortiz",
+        "target": "Mare\u0161 Jel\u00ednkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-08-27T00:00:00",
+        "source": "Mercedes Wheeler",
+        "target": "Young and Sons",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2030-07-06T00:00:00",
+        "source": "Emmanuelle Guillaume",
+        "target": "Zavala LLC",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-12-13T00:00:00",
+        "source": "Kristina Fritz",
+        "target": "Zhang, Cunningham and Kline",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-12-13T00:00:00",
+        "source": "Alan Johnson",
+        "target": "Zhang, Cunningham and Kline",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-01T00:00:00",
+        "source": "April Vasquez",
+        "target": "Pavl\u00edk Hru\u0161ka s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-05T00:00:00",
+        "source": "Sharon Parks",
+        "target": "Mare\u0161 Mach\u00e1\u010dek s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-08T00:00:00",
+        "source": "Makayla Rice",
+        "target": "\u0160m\u00eddov\u00e1 Mach\u00e1\u010dkov\u00e1 o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-12T00:00:00",
+        "source": "Caleb Luna",
+        "target": "Toman B\u00e1rta a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-16T00:00:00",
+        "source": "Paul Phelps",
+        "target": "Mach\u00e1\u010dkov\u00e1 Beranov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-19T00:00:00",
+        "source": "Desiree Hernandez",
+        "target": "Mat\u011bjka Bla\u017ekov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-25T00:00:00",
+        "source": "Dustin Gill",
+        "target": "Vackov\u00e1 Moravec o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-29T00:00:00",
+        "source": "Teresa Ritter",
+        "target": "Nov\u00e1kov\u00e1 R\u016f\u017ei\u010dkov\u00e1 o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-30T00:00:00",
+        "source": "Taylor Bryant",
+        "target": "\u017d\u00e1kov\u00e1 Toman o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-01-30T00:00:00",
+        "source": "Victoria Vargas",
+        "target": "Horv\u00e1th Beran a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-02T00:00:00",
+        "source": "Sandra Wyatt",
+        "target": "Hru\u0161kov\u00e1",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-07T00:00:00",
+        "source": "Joseph Hull",
+        "target": "Mare\u0161 Ka\u0161par v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-09T00:00:00",
+        "source": "Brian Doyle",
+        "target": "Kone\u010dn\u00fd Kone\u010dn\u00fd o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-11T00:00:00",
+        "source": "Christian Gray",
+        "target": "Je\u017ekov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-11T00:00:00",
+        "source": "Kellie Davis",
+        "target": "Kov\u00e1\u0159ov\u00e1 Nov\u00e1kov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-12T00:00:00",
+        "source": "Colin Bell",
+        "target": "N\u011bmcov\u00e1 Jaro\u0161ov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-19T00:00:00",
+        "source": "Alvin Jacobson",
+        "target": "Dvo\u0159\u00e1kov\u00e1 B\u00e1rta v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-21T00:00:00",
+        "source": "Mr. Chad Schmidt",
+        "target": "Jel\u00ednkov\u00e1 Sta\u0148kov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-21T00:00:00",
+        "source": "Sandra Kaufman",
+        "target": "Fi\u0161erov\u00e1 Matou\u0161kov\u00e1 o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-21T00:00:00",
+        "source": "Debra Adams",
+        "target": "Mach\u00e1\u010dek Bro\u017eov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-26T00:00:00",
+        "source": "Haley Hall",
+        "target": "Navr\u00e1tilov\u00e1 o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-26T00:00:00",
+        "source": "Cheryl Lewis",
+        "target": "Sedl\u00e1\u010dkov\u00e1 Dole\u017ealov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-27T00:00:00",
+        "source": "Nicholas Massey",
+        "target": "\u0160ev\u010d\u00edk \u010cech v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-02-28T00:00:00",
+        "source": "Zachary Edwards",
+        "target": "Jel\u00ednek Hor\u00e1\u010dek o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-01T00:00:00",
+        "source": "Fernando Arnold",
+        "target": "Vl\u010dek Barto\u0161 o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-02T00:00:00",
+        "source": "Keith Hamilton",
+        "target": "Nov\u00e1k Navr\u00e1til k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-04T00:00:00",
+        "source": "Alfred Campbell",
+        "target": "Kone\u010dn\u00e1 Vl\u010dek o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-07T00:00:00",
+        "source": "Jessica Dennis",
+        "target": "Kone\u010dn\u00e1 Novotn\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-07T00:00:00",
+        "source": "Kimberly Henry",
+        "target": "Mach Hor\u00e1k a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-09T00:00:00",
+        "source": "Jose Bailey",
+        "target": "Kov\u00e1\u0159ov\u00e1 Vesel\u00fd o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-12T00:00:00",
+        "source": "James Waters",
+        "target": "Bure\u0161ov\u00e1 Matou\u0161ek k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-22T00:00:00",
+        "source": "Kim Ellis",
+        "target": "Horv\u00e1thov\u00e1 Kov\u00e1\u0159 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-25T00:00:00",
+        "source": "April Mcclure",
+        "target": "Mare\u0161 Bedn\u00e1\u0159 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-03-31T00:00:00",
+        "source": "Melissa Deleon",
+        "target": "Dvo\u0159\u00e1kov\u00e1 Navr\u00e1tilov\u00e1 o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-03T00:00:00",
+        "source": "Nicole Daniels",
+        "target": "\u0160ev\u010d\u00edkov\u00e1",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Harold Martin",
+        "target": "Tich\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-08T00:00:00",
+        "source": "Katie Lindsey",
+        "target": "Tesa\u0159 Navr\u00e1til v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-11T00:00:00",
+        "source": "Amber Ruiz",
+        "target": "Dost\u00e1lov\u00e1 B\u00edlek v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-15T00:00:00",
+        "source": "Donald Gallagher",
+        "target": "Pokorn\u00e1 Pavl\u00ed\u010dek s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-23T00:00:00",
+        "source": "Wendy Melendez",
+        "target": "R\u016f\u017ei\u010dka \u0158\u00edhov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-04-25T00:00:00",
+        "source": "Cynthia Daniels",
+        "target": "\u017d\u00e1k o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-05-09T00:00:00",
+        "source": "Anna Watson",
+        "target": "Mach\u00e1\u010dkov\u00e1 Marek v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-05-12T00:00:00",
+        "source": "Jessica Brennan",
+        "target": "Musil Kraus v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-05-15T00:00:00",
+        "source": "Kim Martinez",
+        "target": "Bl\u00e1hov\u00e1 Musil a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-05-17T00:00:00",
+        "source": "Alexis Brewer",
+        "target": "S\u00fdkora Hor\u00e1k o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-05-28T00:00:00",
+        "source": "Erin Johnston",
+        "target": "Bene\u0161 Mal\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-05-29T00:00:00",
+        "source": "Emily Ramos",
+        "target": "Musilov\u00e1 Havl\u00ed\u010dkov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-06-04T00:00:00",
+        "source": "Nancy Jimenez",
+        "target": "Krausov\u00e1 Fi\u0161erov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-06-05T00:00:00",
+        "source": "Victor Hoffman",
+        "target": "B\u00edlkov\u00e1 \u0160imkov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-06-09T00:00:00",
+        "source": "Michelle Norman",
+        "target": "N\u011bme\u010dkov\u00e1 Soukupov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-06-09T00:00:00",
+        "source": "Carrie Lara",
+        "target": "Bene\u0161 Zeman v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-06-10T00:00:00",
+        "source": "Molly Allen",
+        "target": "\u0160vec Mal\u00fd s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-06-11T00:00:00",
+        "source": "Debbie Fuller",
+        "target": "\u0160t\u011bp\u00e1nek \u0160ev\u010d\u00edk o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-06-12T00:00:00",
+        "source": "Max Cortez",
+        "target": "Fiala S\u00fdkora o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-06-12T00:00:00",
+        "source": "Donna Whitehead",
+        "target": "Soukupov\u00e1 Horv\u00e1thov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-06-29T00:00:00",
+        "source": "Trevor Taylor II",
+        "target": "V\u00e1vrov\u00e1 N\u011bme\u010dkov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-06-29T00:00:00",
+        "source": "Amy Mayo",
+        "target": "Pol\u00e1kov\u00e1 Van\u011bk o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-03T00:00:00",
+        "source": "Wayne Guerrero",
+        "target": "Havl\u00ed\u010dek Krausov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-04T00:00:00",
+        "source": "Eric Higgins",
+        "target": "Stejskal s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-09T00:00:00",
+        "source": "Alexandria Ware",
+        "target": "Janda Pol\u00e1kov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-11T00:00:00",
+        "source": "Katherine Davila",
+        "target": "Bro\u017eov\u00e1 Hrub\u00fd o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-11T00:00:00",
+        "source": "Sherri Avery",
+        "target": "Valentov\u00e1 Zeman k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-12T00:00:00",
+        "source": "Kristen Turner",
+        "target": "Moravec Barto\u0161 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-17T00:00:00",
+        "source": "Daniel Alvarez",
+        "target": "Ber\u00e1nkov\u00e1 Hrub\u00fd a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-19T00:00:00",
+        "source": "Nicholas Torres",
+        "target": "H\u00e1jkov\u00e1 Zemanov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-19T00:00:00",
+        "source": "Regina Ho",
+        "target": "Zemanov\u00e1 \u017d\u00e1k a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-21T00:00:00",
+        "source": "Sandra Hall",
+        "target": "Tomanov\u00e1 Urban o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-07-25T00:00:00",
+        "source": "Paige Le",
+        "target": "Stejskalov\u00e1 Li\u0161ka v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-02T00:00:00",
+        "source": "Nicholas Callahan",
+        "target": "M\u00fcllerov\u00e1 Du\u0161ek k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-02T00:00:00",
+        "source": "Bryan Hoffman",
+        "target": "Dvo\u0159\u00e1k Ku\u010dera o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-06T00:00:00",
+        "source": "Alicia Drake",
+        "target": "Dost\u00e1l Fi\u0161erov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-11T00:00:00",
+        "source": "Benjamin Henderson",
+        "target": "\u010cern\u00fd M\u00fcllerov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-15T00:00:00",
+        "source": "Jason Cummings",
+        "target": "Hor\u00e1kov\u00e1 R\u016f\u017ei\u010dka k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-20T00:00:00",
+        "source": "Rachel Martin",
+        "target": "M\u00fcllerov\u00e1 Krausov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-27T00:00:00",
+        "source": "Amy Avila",
+        "target": "Jaro\u0161ov\u00e1 Moravcov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-27T00:00:00",
+        "source": "Kimberly Richardson",
+        "target": "V\u00edtek T\u016fma v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-28T00:00:00",
+        "source": "Sarah Cisneros",
+        "target": "Kadlecov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-08-30T00:00:00",
+        "source": "Eric Cruz",
+        "target": "Novotn\u00fd \u0160m\u00edd v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-09-01T00:00:00",
+        "source": "Mathew Fernandez",
+        "target": "Van\u011bk Sedl\u00e1kov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-09-05T00:00:00",
+        "source": "Tyler Zavala",
+        "target": "Sta\u0148kov\u00e1 Pol\u00e1kov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-09-05T00:00:00",
+        "source": "Barbara Nunez",
+        "target": "\u0160m\u00eddov\u00e1 Hor\u00e1kov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-09-09T00:00:00",
+        "source": "Sara Lopez",
+        "target": "V\u00e1vrov\u00e1 S\u00fdkora v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-09-15T00:00:00",
+        "source": "Janet Brady",
+        "target": "Li\u0161kov\u00e1 Je\u017eek s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-09-21T00:00:00",
+        "source": "Dennis Stone",
+        "target": "Ber\u00e1nek Dost\u00e1lov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-09-22T00:00:00",
+        "source": "Heather Torres",
+        "target": "R\u016f\u017ei\u010dkov\u00e1 Bl\u00e1ha v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-09-27T00:00:00",
+        "source": "Craig Mendoza",
+        "target": "Dost\u00e1lov\u00e1 Sta\u0148kov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-09-28T00:00:00",
+        "source": "Rachel Griffith",
+        "target": "Kub\u00ed\u010dkov\u00e1 o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-09-29T00:00:00",
+        "source": "Christopher Pacheco",
+        "target": "\u010cechov\u00e1 R\u016f\u017ei\u010dkov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-09-29T00:00:00",
+        "source": "Danielle Pierce",
+        "target": "Hrub\u00fd Machov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-01T00:00:00",
+        "source": "Cody Woodard",
+        "target": "Mat\u011bjkov\u00e1 Bure\u0161 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-01T00:00:00",
+        "source": "Brooke Roberts",
+        "target": "Fi\u0161erov\u00e1 Posp\u00ed\u0161il k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-03T00:00:00",
+        "source": "William Davis",
+        "target": "Navr\u00e1tilov\u00e1 Tich\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-05T00:00:00",
+        "source": "Marc Price",
+        "target": "\u0160vecov\u00e1 Urban a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-06T00:00:00",
+        "source": "Elizabeth Mueller",
+        "target": "Ber\u00e1nkov\u00e1 Bene\u0161 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-09T00:00:00",
+        "source": "Anthony Johns",
+        "target": "N\u011bmcov\u00e1 Pokorn\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-13T00:00:00",
+        "source": "Brent Larson",
+        "target": "Mat\u011bjka Svoboda v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-15T00:00:00",
+        "source": "Donald Hodge",
+        "target": "B\u00e1rtov\u00e1 Mach\u00e1\u010dek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-15T00:00:00",
+        "source": "Brenda Kelly",
+        "target": "Ber\u00e1nek Kratochv\u00edlov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-21T00:00:00",
+        "source": "Devin Best",
+        "target": "K\u0159\u00ed\u017e s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-22T00:00:00",
+        "source": "Edward Rivera",
+        "target": "Kov\u00e1\u0159 Havl\u00ed\u010dek k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-27T00:00:00",
+        "source": "Dawn Lawrence",
+        "target": "Slav\u00edk Horv\u00e1thov\u00e1 v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Sara Turner",
+        "target": "R\u016f\u017ei\u010dkov\u00e1 Markov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-28T00:00:00",
+        "source": "Justin Dixon",
+        "target": "Jaro\u0161ov\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-29T00:00:00",
+        "source": "Roberto Torres",
+        "target": "Janda Kol\u00e1\u0159ov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-30T00:00:00",
+        "source": "Gregory Hicks",
+        "target": "Jel\u00ednkov\u00e1 Pol\u00e1k k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-10-31T00:00:00",
+        "source": "Tricia Hunt",
+        "target": "Jaro\u0161 Urbanov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-11-05T00:00:00",
+        "source": "Theresa Everett",
+        "target": "Kov\u00e1\u0159 T\u016fmov\u00e1 a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-11-06T00:00:00",
+        "source": "Marcus Henry",
+        "target": "Dole\u017ealov\u00e1 Jel\u00ednek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-11-08T00:00:00",
+        "source": "Trevor Clayton",
+        "target": "Hor\u00e1kov\u00e1 V\u00edtek a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-11-09T00:00:00",
+        "source": "Jay Williams",
+        "target": "Kr\u00e1l Tomanov\u00e1 k.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-11-15T00:00:00",
+        "source": "Susan Mason",
+        "target": "Hru\u0161ka \u0160vec v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-11-18T00:00:00",
+        "source": "Sarah Hardy MD",
+        "target": "Pol\u00e1k Navr\u00e1til o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-11-19T00:00:00",
+        "source": "Cathy Chung",
+        "target": "Ka\u0161par a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-11-26T00:00:00",
+        "source": "John Brooks",
+        "target": "Kr\u00e1lov\u00e1 \u0160imek v.o.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-11-27T00:00:00",
+        "source": "Shari Frost",
+        "target": "Du\u0161ek \u010cern\u00e1 s.r.o.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2035-11-28T00:00:00",
+        "source": "Jody Stanton",
+        "target": "Sedl\u00e1\u010dek Mach a.s.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2032-08-04T00:00:00",
+        "source": "Conrad Ltd",
+        "target": "Hartman Group",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2032-09-14T00:00:00",
+        "source": "Dutch Bill America Line AB",
+        "target": "NortheastSeafood Carriers",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2031-10-04T00:00:00",
+        "source": "Jacobs PLC",
+        "target": "Bailey-Mccullough",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2033-08-17T00:00:00",
+        "source": "KareliansLeska Holdings OJSC",
+        "target": "Sparmans Marine Carriers Oyj",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-05-18T00:00:00",
+        "source": "Namorna Transit Ltd",
+        "target": "V. Miesel Shipping",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2034-10-09T00:00:00",
+        "source": "PregolyaDredge Logistics Incorporated",
+        "target": "Irtysh Creek Logistics Inc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2031-06-13T00:00:00",
+        "source": "PregolyaDredge Logistics Incorporated",
+        "target": "KareliansLeska Holdings OJSC",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2031-01-10T00:00:00",
+        "source": "PregolyaDredge Logistics Incorporated",
+        "target": "6. America Transit Plc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2026-12-28T00:00:00",
+        "source": "Raymond LLC",
+        "target": "Conrad Ltd",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-05-18T00:00:00",
+        "source": "StichtingMarine Shipping Company",
+        "target": "Namorna Transit Ltd",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2035-05-20T00:00:00",
+        "source": "V. Miesel Shipping",
+        "target": "Tainamarine Fishing Co",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2030-09-18T00:00:00",
+        "source": "Vargas Ltd",
+        "target": "Osborne and Sons",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2028-10-01T00:00:00",
+        "source": "Fabio Conti",
+        "target": "NyanzaRiver Worldwide AS",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2029-07-07T00:00:00",
+        "source": "Fabio Conti",
+        "target": "RechFish Freight Plc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2032-04-28T00:00:00",
+        "source": "Fabio Conti",
+        "target": "KisumuSeafoodBrothers Ltd",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2030-02-08T00:00:00",
+        "source": "Fabio Conti",
+        "target": "NamRiver Transit A/S",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2023-03-08T00:00:00",
+        "source": "Lemuel Conti",
+        "target": "4. SeaCargo Ges.m.b.H.",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2032-04-28T00:00:00",
+        "source": "Lemuel Conti",
+        "target": "KisumuSeafoodBrothers Ltd",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2030-03-20T00:00:00",
+        "source": "Lemuel Conti",
+        "target": "Dry CreekRybachit Marine A/S",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2033-11-03T00:00:00",
+        "source": "Lemuel Conti",
+        "target": "BaringoAmerica Marine Ges.m.b.H.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2024-03-24T00:00:00",
+        "source": "Lemuel Conti",
+        "target": "9. RiverLine CJSC",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2031-10-30T00:00:00",
+        "source": "Lemuel Conti",
+        "target": "SumacAmerica Transport GmbH & Co. KG",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2028-10-01T00:00:00",
+        "source": "Samuel Conti",
+        "target": "NyanzaRiver Worldwide AS",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2031-12-05T00:00:00",
+        "source": "Samuel Conti",
+        "target": "SouthLeska Worldwide AS",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2031-12-05T00:00:00",
+        "source": "Nathan Conti",
+        "target": "SouthLeska Worldwide AS",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2030-02-08T00:00:00",
+        "source": "Nathan Conti",
+        "target": "NamRiver Transit A/S",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2031-05-01T00:00:00",
+        "source": "Liam Conti",
+        "target": "StichtingMarine Shipping Company",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2034-04-06T00:00:00",
+        "source": "Nadia Conti",
+        "target": "Oka Seafood Shipping Ges.m.b.H.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2031-01-15T00:00:00",
+        "source": "Fintan Park",
+        "target": "SavanetaCreek Solutions NV",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2034-04-06T00:00:00",
+        "source": "Fintan Park",
+        "target": "Oka Seafood Shipping Ges.m.b.H.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2031-05-01T00:00:00",
+        "source": "Fintan Park",
+        "target": "StichtingMarine Shipping Company",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2031-05-01T00:00:00",
+        "source": "Sanaa El-Amin",
+        "target": "StichtingMarine Shipping Company",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2032-04-02T00:00:00",
+        "source": "Sanaa El-Amin",
+        "target": "KambalaSea Freight Inc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2030-05-17T00:00:00",
+        "source": "Sanaa El-Amin",
+        "target": "HomabayMarine Carriers N.V.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2032-01-04T00:00:00",
+        "source": "Sanaa El-Amin",
+        "target": "GvardeyskAmerica Shipping Plc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2032-01-05T00:00:00",
+        "source": "Sanaa El-Amin",
+        "target": "ArawakFish Cargo Ges.m.b.H.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2032-10-20T00:00:00",
+        "source": "Eun-Ji Park",
+        "target": "OranjestadCreek Express Sagl",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2035-05-18T00:00:00",
+        "source": "Elise Hauser",
+        "target": "V. Miesel Shipping",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2032-04-10T00:00:00",
+        "source": "Harvey Janus",
+        "target": "SamakaDredgeTransport OJSC",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2026-01-05T00:00:00",
+        "source": "EastOcean Carriers Ges.m.b.H.",
+        "target": "BentonMarine Solutions GmbH & Co KG",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2027-04-20T00:00:00",
+        "source": "EastOcean Carriers Ges.m.b.H.",
+        "target": "RomeroLeska Cargo GmbH",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2018-01-08T00:00:00",
+        "source": "EastOcean Carriers Ges.m.b.H.",
+        "target": "JinyuMarine Transport NV",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2033-03-18T00:00:00",
+        "source": "EastOcean Carriers Ges.m.b.H.",
+        "target": "SavanetaRybachit United GmbH",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2012-05-21T00:00:00",
+        "source": "EastOcean Carriers Ges.m.b.H.",
+        "target": "VespuciWorld Worldwide Co",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2015-12-03T00:00:00",
+        "source": "VespuciWorld Worldwide Co",
+        "target": "Parks Ltd",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2030-09-18T00:00:00",
+        "source": "Akira Hernandez",
+        "target": "PregolyaDredge Logistics Incorporated",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2030-09-18T00:00:00",
+        "source": "Akira Hernandez",
+        "target": "PregolyaDredge Logistics Incorporated",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2030-09-18T00:00:00",
+        "source": "Akira Hernandez",
+        "target": "PregolyaDredge Logistics Incorporated",
+        "key": 2,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2034-10-09T00:00:00",
+        "source": "Akira Hernandez",
+        "target": "Irtysh Creek Logistics Inc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2029-02-10T00:00:00",
+        "source": "Akira Hernandez",
+        "target": "Dutch Bill America Line AB",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2031-06-13T00:00:00",
+        "source": "Akira Hernandez",
+        "target": "KareliansLeska Holdings OJSC",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2033-02-15T00:00:00",
+        "source": "Akira Hernandez",
+        "target": "MonarchCreek Shipping S.p.A.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2032-09-14T00:00:00",
+        "source": "Akira Hernandez",
+        "target": "NortheastSeafood Carriers",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2033-08-17T00:00:00",
+        "source": "Akira Hernandez",
+        "target": "Sparmans Marine Carriers Oyj",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2030-09-18T00:00:00",
+        "source": "Charlotte Beaumont",
+        "target": "PregolyaDredge Logistics Incorporated",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2030-09-18T00:00:00",
+        "source": "Samuel Mitchell-Lamontagne",
+        "target": "PregolyaDredge Logistics Incorporated",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2034-10-09T00:00:00",
+        "source": "Lily Baker-Mercier",
+        "target": "Irtysh Creek Logistics Inc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2034-10-09T00:00:00",
+        "source": "Lily Baker-Mercier",
+        "target": "Irtysh Creek Logistics Inc",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2033-02-15T00:00:00",
+        "source": "Lily Baker-Mercier",
+        "target": "MonarchCreek Shipping S.p.A.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2033-02-15T00:00:00",
+        "source": "Anya Singh-Hernandez",
+        "target": "MonarchCreek Shipping S.p.A.",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2031-01-10T00:00:00",
+        "source": "Samuel Hernandez",
+        "target": "6. America Transit Plc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2031-01-10T00:00:00",
+        "source": "Samuel Hernandez",
+        "target": "6. America Transit Plc",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2032-09-14T00:00:00",
+        "source": "Kofi Petrov",
+        "target": "NortheastSeafood Carriers",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2033-08-17T00:00:00",
+        "source": "Kofi Petrov",
+        "target": "Sparmans Marine Carriers Oyj",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2026-01-05T00:00:00",
+        "source": "Isla Davis",
+        "target": "BentonMarine Solutions GmbH & Co KG",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2027-04-20T00:00:00",
+        "source": "Isla Davis",
+        "target": "RomeroLeska Cargo GmbH",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2018-01-08T00:00:00",
+        "source": "Isla Davis",
+        "target": "JinyuMarine Transport NV",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2033-03-18T00:00:00",
+        "source": "Isla Davis",
+        "target": "SavanetaRybachit United GmbH",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2019-10-27T00:00:00",
+        "source": "Isla Davis",
+        "target": "KambalaAqua Delivery Plc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2024-03-05T00:00:00",
+        "source": "Isla Davis",
+        "target": "ArawakCharter Boat Transit Plc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2012-05-21T00:00:00",
+        "source": "Fatuma Eun",
+        "target": "VespuciWorld Worldwide Co",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2033-03-18T00:00:00",
+        "source": "Latifa Ji-Ae Park",
+        "target": "SavanetaRybachit United GmbH",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2027-04-20T00:00:00",
+        "source": "Isaac Nguyen",
+        "target": "RomeroLeska Cargo GmbH",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2024-03-05T00:00:00",
+        "source": "Samwise Kovac Esq.",
+        "target": "ArawakCharter Boat Transit Plc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2033-03-18T00:00:00",
+        "source": "Eleanor Papenfuss",
+        "target": "SavanetaRybachit United GmbH",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2019-10-27T00:00:00",
+        "source": "Bartholomew Englund III",
+        "target": "KambalaAqua Delivery Plc",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2012-05-21T00:00:00",
+        "source": "Pierre Newton, JD",
+        "target": "VespuciWorld Worldwide Co",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2026-10-11T00:00:00",
+        "source": "Robert Mccarthy II",
+        "target": "Raymond LLC",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.Shareholdership",
+        "start_date": "2026-10-11T00:00:00",
+        "source": "Robert Mccarthy II",
+        "target": "Raymond LLC",
+        "key": 1,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2023-06-17T00:00:00",
+        "source": "Robert Mccarthy II",
+        "target": "May and Sons",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2021-07-24T00:00:00",
+        "source": "Robert Mccarthy II",
+        "target": "Jacobs PLC",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2031-10-04T00:00:00",
+        "source": "Robert Mccarthy II",
+        "target": "Bailey-Mccullough",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2026-12-28T00:00:00",
+        "source": "Robert Mccarthy II",
+        "target": "Conrad Ltd",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2032-08-04T00:00:00",
+        "source": "Robert Mccarthy II",
+        "target": "Hartman Group",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2026-08-23T00:00:00",
+        "source": "Robert Mccarthy II",
+        "target": "Vargas Ltd",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.Owns.BeneficialOwnership",
+        "start_date": "2030-09-18T00:00:00",
+        "source": "Robert Mccarthy II",
+        "target": "Osborne and Sons",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2026-10-11T00:00:00",
+        "source": "Sherry Leon",
+        "target": "Raymond LLC",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2032-08-04T00:00:00",
+        "source": "Lauren Wagner",
+        "target": "Hartman Group",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2031-10-04T00:00:00",
+        "source": "Emily Yates",
+        "target": "Bailey-Mccullough",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2026-08-23T00:00:00",
+        "source": "Patrick Mueller",
+        "target": "Vargas Ltd",
+        "key": 0,
+        "end_date": null
+    },
+    {
+        "type": "Event.WorksFor",
+        "start_date": "2026-12-28T00:00:00",
+        "source": "Mandy Ramos",
+        "target": "Conrad Ltd",
+        "key": 0,
+        "end_date": null
+    }
+]

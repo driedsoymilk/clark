@@ -1,0 +1,334 @@
+{
+    "nodes": [
+        {
+            "type": "Entity.Organization.FishingCompany",
+            "country": "Azurionix",
+            "ProductServices": "Tuna, sword fish, bass, trout, and salmon, as well as offers shellfish, mollusks, crustaceans, sea vegetables, shrimp, lobster, squid, oysters, crabs, and clams, and other related seafood products",
+            "PointOfContact": "Kathryn Kemp",
+            "HeadOfOrg": "Jordan Jarvis",
+            "founding_date": "1962-06-18T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Callahan-Green is a leading provider of fresh and frozen seafood products, including tuna, swordfish, bass, trout, and salmon, as well as a variety of shellfish, mollusks, crustaceans, sea vegetables, and other related seafood products. The company sources its products from sustainable and responsibly managed fisheries and farms, ensuring the highest quality and freshness for its customers.",
+            "id": "Callahan-Green",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Arvaros",
+            "ProductServices": "Temperature controllers, fluid meters and counting devices, force gauges, anemometers, cable height meters, controller / monitors, distance meters, field strength meters, frequency counter, humidity meter, infrared thermometers, metal detector, voltage detectors, barometers, car testers, calibrators and continuity tester",
+            "PointOfContact": "Charles Mack",
+            "HeadOfOrg": "Jessica King",
+            "founding_date": "2030-01-31T00:00:00",
+            "revenue": 0.0,
+            "TradeDescription": "Duncan-Williams is a leading manufacturer and supplier of high-quality measurement and control instruments for a wide range of industries. Their products, including temperature controllers, fluid meters, and counting devices, are known for their accuracy, reliability, and durability.",
+            "id": "Duncan-Williams",
+            "dob": null
+        },
+        {
+            "type": "Entity.Organization.Company",
+            "country": "Oceanus",
+            "ProductServices": "Unknown",
+            "PointOfContact": "Pamela Fitzgerald",
+            "HeadOfOrg": "Victoire Morin",
+            "founding_date": "1993-01-04T00:00:00",
+            "revenue": 24966.67,
+            "TradeDescription": "Unknown",
+            "id": "Walsh, Abbott and James",
+            "dob": null
+        },
+        {
+            "dob": "1973-06-09T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Brandon Moreno"
+        },
+        {
+            "dob": "1977-01-08T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Bryan Murray"
+        },
+        {
+            "dob": "1987-08-15T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Katelyn Roth"
+        },
+        {
+            "dob": "2015-03-19T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Gerald Jefferson"
+        },
+        {
+            "dob": "1973-01-03T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Mrs. Cynthia Jenkins"
+        },
+        {
+            "dob": "2004-12-28T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Michael Nguyen"
+        },
+        {
+            "dob": "1992-09-07T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Robert Howell"
+        },
+        {
+            "dob": "1974-11-10T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Joanne Lee"
+        },
+        {
+            "dob": "2010-11-24T00:00:00",
+            "country": "Arvaros",
+            "type": "Entity.Person",
+            "id": "Joshua Stout"
+        },
+        {
+            "dob": "1971-10-01T00:00:00",
+            "country": "Imazam",
+            "type": "Entity.Person",
+            "id": "David Nguyen MD"
+        },
+        {
+            "dob": "2001-01-14T00:00:00",
+            "country": "Mawazam",
+            "type": "Entity.Person",
+            "id": "Ashley Boone"
+        },
+        {
+            "dob": "2002-12-12T00:00:00",
+            "country": "Galduzim",
+            "type": "Entity.Person",
+            "id": "Charles Mack"
+        },
+        {
+            "dob": "1994-05-13T00:00:00",
+            "country": "Oceanterra",
+            "type": "Entity.Person",
+            "id": "Karen Vincent PhD"
+        },
+        {
+            "dob": "2000-12-30T00:00:00",
+            "country": "Puerto del Mar",
+            "type": "Entity.Person",
+            "id": "Regina Nguyen"
+        }
+    ],
+    "links": [
+        {
+            "type": "Event.Owns.Shareholdership",
+            "start_date": "2035-01-01T00:00:00",
+            "source": "Walsh, Abbott and James",
+            "target": "Duncan-Williams",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-01-14T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Brandon Moreno",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2035-01-01T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Brandon Moreno",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2033-07-13T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Bryan Murray",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2035-01-01T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Bryan Murray",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2033-04-08T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Katelyn Roth",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2035-01-01T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Katelyn Roth",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2034-03-17T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Gerald Jefferson",
+            "target": "Duncan-Williams",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2034-03-20T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Gerald Jefferson",
+            "target": "Callahan-Green",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.WorksFor",
+            "start_date": "2033-06-04T00:00:00",
+            "source": "Gerald Jefferson",
+            "target": "Callahan-Green",
+            "key": 1,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-03-19T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Mrs. Cynthia Jenkins",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2035-01-01T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Mrs. Cynthia Jenkins",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2032-10-13T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Michael Nguyen",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2035-01-01T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Michael Nguyen",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2031-12-14T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Robert Howell",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2035-01-01T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Robert Howell",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2033-03-04T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Joanne Lee",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2035-01-01T00:00:00",
+            "type": "Endof.Event.Owns.BeneficialOwnership",
+            "end_date": "2035-01-01T00:00:00",
+            "source": "Joanne Lee",
+            "target": "Duncan-Williams",
+            "key": 0
+        },
+        {
+            "start_date": "2030-06-01T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Joshua Stout",
+            "target": "Duncan-Williams",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Relationship.FamilyRelationship",
+            "source": "David Nguyen MD",
+            "target": "Regina Nguyen",
+            "key": 0,
+            "start_date": "2011-07-29T00:00:00",
+            "end_date": null
+        },
+        {
+            "type": "Relationship.FamilyRelationship",
+            "source": "David Nguyen MD",
+            "target": "Michael Nguyen",
+            "key": 0,
+            "start_date": "2011-07-29T00:00:00",
+            "end_date": null
+        },
+        {
+            "start_date": "2032-07-07T00:00:00",
+            "type": "Event.Owns.BeneficialOwnership",
+            "source": "Ashley Boone",
+            "target": "Walsh, Abbott and James",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Event.Owns.BeneficialOwnership",
+            "start_date": "2035-01-01T00:00:00",
+            "source": "Ashley Boone",
+            "target": "Duncan-Williams",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-01-09T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Charles Mack",
+            "target": "Duncan-Williams",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "start_date": "2033-12-25T00:00:00",
+            "type": "Event.Owns.Shareholdership",
+            "source": "Karen Vincent PhD",
+            "target": "Duncan-Williams",
+            "key": 0,
+            "end_date": null
+        },
+        {
+            "type": "Relationship.FamilyRelationship",
+            "source": "Regina Nguyen",
+            "target": "Michael Nguyen",
+            "key": 0,
+            "start_date": "2024-10-22T00:00:00",
+            "end_date": null
+        }
+    ]
+}
